@@ -1,0 +1,1001 @@
+crime_id,date_time,day_of_week,crime_type,location,lga,latitude,longitude,weather_condition,is_holiday,time_period
+392456de-3eb1-4b90-8668-5257bdd640fb,2024-10-15 21:13:26,Tuesday,Assault,Yaba,Ikeja,-60.1147925,-166.572454,Cloudy,0,Night
+0822e8f3-6c03-4199-972a-846916419f82,2023-09-23 14:37:11,Saturday,Theft,Surulere,Kosofe,-62.486662,112.791430,Clear,1,Afternoon
+06cb0fb3-9a1d-4644-815e-f6d13b8faa18,2023-06-30 08:54:17,Friday,Burglary,Victoria Island,Eti-Osa,-64.8488745,-62.619631,Stormy,0,Morning
+386ecbe0-6b65-46a4-8b81-48f6b38a088c,2024-08-16 03:48:38,Friday,Assault,Ikeja,Ikeja,-36.6249255,168.904049,Clear,0,Morning
+c241330b-01a9-471f-9e8a-774bcf36d58b,2024-05-21 03:18:28,Tuesday,Assault,Surulere,Ikeja,68.1798025,-30.647502,Stormy,0,Morning
+371ecd7b-27cd-4130-8722-9389571aa876,2025-02-22 03:00:14,Saturday,Burglary,Victoria Island,Ikorodu,-47.141780,46.889378,Rainy,0,Morning
+5be6128e-18c2-4797-a142-ea7d17be3111,2025-01-20 06:00:23,Monday,Murder,Ojota,Agege,0.3539115,-125.126275,Clear,0,Morning
+bacfb3d0-0b1f-4163-8e9f-f57f43b7a3a6,2025-03-26 11:53:04,Wednesday,Kidnapping,Lekki,Ikorodu,2.329911,144.122944,Cloudy,0,Morning
+142c3fe8-60e7-4113-ac1b-8ca1f91e1d4c,2024-05-29 01:44:41,Wednesday,Robbery,Lekki,Surulere,53.942632,-112.984465,Cloudy,0,Morning
+5c941cf0-dc98-42c1-a2ac-f72f9e574f7a,2024-08-09 00:13:39,Friday,Kidnapping,Yaba,Ikorodu,-11.300556,157.498421,Clear,0,Morning
+c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,2024-08-28 16:04:06,Wednesday,Theft,Ajah,Agege,-38.3829255,-142.657862,Clear,0,Afternoon
+47294739-614f-43d7-99db-3ad0ddd1dfb2,2024-01-18 00:01:37,Thursday,Robbery,Epe,Eti-Osa,-68.581005,-55.021345,Sunny,1,Morning
+35a240ae-5af3-4553-9ec4-2e0829a3b2e9,2024-05-24 09:37:30,Friday,Murder,Victoria Island,Agege,80.6402425,15.867784,Stormy,0,Morning
+2bcfbe01-a28d-4fe3-9bf0-027312476f57,2024-11-08 18:24:54,Friday,Robbery,Ajah,Surulere,-18.333688,167.911349,Clear,0,Evening
+fd5166e6-451b-4cf3-a123-fdf77656af72,2024-07-26 02:32:00,Friday,Murder,Surulere,Agege,-24.2840675,-92.273955,Clear,0,Morning
+d7c524a5-5304-417f-af42-e12f3838b326,2025-05-25 23:59:10,Sunday,Kidnapping,Surulere,Eti-Osa,81.7986265,119.010119,Sunny,0,Night
+50c187fc-ce17-4b4e-8837-b8a3d261a7ab,2025-01-23 23:50:51,Thursday,Kidnapping,Epe,Ifako-Ijaiye,-74.9842715,-57.030753,Rainy,0,Night
+9132b63e-f162-47e4-a9c3-49e03602f8ac,2024-04-13 19:41:53,Saturday,Theft,Ajah,Surulere,-18.1288545,-144.465264,Cloudy,0,Evening
+e27a984d-6548-41d0-bfcd-9eb1a7cad415,2025-04-17 22:07:15,Thursday,Theft,Yaba,Kosofe,-5.529299,-65.846995,Stormy,0,Night
+3f22faf8-23be-401d-83cf-2fde24933b83,2025-05-17 13:50:49,Saturday,Burglary,Surulere,Kosofe,82.564235,66.344213,Sunny,0,Afternoon
+6dadd6c7-95a7-4d79-bf3c-4c06434308bc,2025-01-05 21:02:44,Sunday,Murder,Agege,Surulere,60.6911115,109.361229,Cloudy,0,Night
+ff5e9ff0-ff50-4de4-b825-67b85cabcc97,2025-05-04 14:04:33,Sunday,Murder,Ikeja,Surulere,66.640927,34.426514,Clear,0,Afternoon
+dc713d96-0c0f-4195-817a-f08a1745d6d8,2023-09-22 16:08:06,Friday,Robbery,Ajah,Ikorodu,46.7749225,84.954299,Cloudy,0,Afternoon
+6c12ace8-ae34-4454-8ac5-b68c28f49481,2023-08-31 09:27:08,Thursday,Theft,Surulere,Ifako-Ijaiye,-48.9719705,156.857528,Rainy,0,Morning
+77d21e02-ff01-4f99-988c-24c961b1cd22,2024-09-12 11:18:52,Thursday,Assault,Epe,Ikorodu,-72.946911,26.570376,Sunny,0,Morning
+ae270da7-02f0-4b90-b143-262fdc5c0eed,2024-07-22 04:51:02,Monday,Theft,Agege,Kosofe,-22.5115375,117.010891,Rainy,0,Morning
+a4161293-c4c2-42e3-844e-a7c8c0398710,2024-12-18 00:40:22,Wednesday,Burglary,Victoria Island,Agege,-59.2502515,108.283750,Stormy,0,Morning
+00d4af59-7427-4ca3-a87d-06ca6f4cc69a,2024-02-26 10:46:29,Monday,Assault,Ojota,Ikorodu,-60.0554415,-22.428319,Cloudy,0,Morning
+e9a1fa6f-81f7-4d1c-adbc-2134c30ff46e,2024-12-19 02:12:57,Thursday,Murder,Lekki,Epe,-19.297042,88.750123,Clear,0,Morning
+9be578c7-81f6-41d4-a392-31a7d777a477,2023-08-28 21:05:09,Monday,Theft,Ikeja,Eti-Osa,77.8527425,-19.773675,Rainy,0,Night
+f4188f3f-8a14-4e62-a95b-4715c333e861,2023-11-08 17:24:58,Wednesday,Robbery,Lekki,Ikorodu,-48.9725205,20.743469,Stormy,0,Evening
+04fc6d82-7d15-4385-92fb-e43b99546eb4,2025-02-01 00:05:38,Saturday,Burglary,Ikorodu,Ikorodu,52.3657295,-179.692966,Stormy,0,Morning
+e0c53cb8-3da9-42a9-8ed4-2f1a3d4cbf37,2023-09-02 02:48:35,Saturday,Murder,Victoria Island,Agege,7.436907,-14.904609,Stormy,0,Morning
+11b7e948-d0e6-4660-bc69-dee1bb5e4bcf,2024-08-20 21:44:39,Tuesday,Murder,Ikeja,Eti-Osa,-68.858816,-134.015155,Stormy,1,Night
+f264accc-79ac-4b1e-a8e5-6e0c20de435d,2025-01-18 00:05:47,Saturday,Kidnapping,Agege,Ifako-Ijaiye,52.997222,-112.482838,Clear,1,Morning
+6c52c49f-9b49-4d26-9f57-c59a8715a103,2024-08-07 06:31:34,Wednesday,Robbery,Ikorodu,Kosofe,-45.6740695,-37.698808,Sunny,0,Morning
+fec21bbe-6624-4bfa-8fcc-a39ab683d2e6,2023-11-18 17:38:56,Saturday,Robbery,Agege,Kosofe,54.7661915,-72.007845,Stormy,0,Evening
+7394988f-847f-49b4-a64d-1bcb702753a1,2024-11-09 22:35:48,Saturday,Kidnapping,Agege,Surulere,84.4503125,20.478606,Rainy,0,Night
+969b6662-0562-4059-968c-c69b1064005c,2023-09-09 05:07:34,Saturday,Kidnapping,Lekki,Ikeja,-23.4533425,-59.366535,Stormy,0,Morning
+b535106e-122c-4a56-81d7-425638602ab6,2024-08-10 11:17:24,Saturday,Kidnapping,Epe,Ikeja,-28.229047,135.916382,Clear,0,Morning
+dc1110c1-080a-4dfb-a7c9-9b26114125c6,2024-10-09 10:03:22,Wednesday,Assault,Agege,Surulere,-74.196194,-57.087814,Clear,0,Morning
+7c441fe7-ab42-40a7-874a-493b3ceddf2d,2024-02-18 21:04:40,Sunday,Theft,Ojota,Eti-Osa,-70.979375,96.035466,Clear,0,Night
+922fe15a-e1e3-4b63-af7d-dc76b92da22b,2023-11-20 15:06:28,Monday,Murder,Epe,Eti-Osa,54.749507,-108.965619,Stormy,0,Afternoon
+683514f2-ceb8-4f9d-b914-c120c8dcd19f,2024-08-27 18:48:29,Tuesday,Fraud,Lekki,Kosofe,36.8816635,-49.541851,Sunny,1,Evening
+6c6fa611-5ab3-4edf-ae59-5ed3a8b317fa,2023-11-02 02:56:33,Thursday,Murder,Lekki,Agege,-64.679611,-127.960667,Stormy,0,Morning
+a56c0941-fbf2-4050-a748-dbcfac619e63,2024-04-21 12:56:46,Sunday,Fraud,Ojota,Ikorodu,35.365979,-150.917068,Rainy,0,Afternoon
+dc96925e-ccf3-4171-96dc-8907ba6c34ab,2023-08-22 16:05:11,Tuesday,Theft,Surulere,Agege,-73.7294095,36.155655,Sunny,0,Afternoon
+23e2fcb4-72d8-467d-894a-05e430b187ef,2023-08-31 02:22:00,Thursday,Burglary,Ajah,Epe,-23.251824,-77.140864,Stormy,0,Morning
+ec5b227c-dfde-4fbf-bff3-50bf766ecb15,2024-04-29 21:53:17,Monday,Robbery,Yaba,Surulere,-40.745305,-30.457213,Rainy,0,Night
+ffd0f9d5-a6f2-47b8-8cf3-5b5819108be5,2023-08-04 18:43:14,Friday,Fraud,Ajah,Ikeja,28.952003,115.453652,Stormy,0,Evening
+3c835dc0-d944-4fa5-80e9-ab30ed2662e9,2024-07-31 02:44:02,Wednesday,Robbery,Surulere,Surulere,-86.0384695,-129.929930,Clear,1,Morning
+66aa9385-dd59-4a71-b6b8-24817b3a4e3e,2023-10-14 09:42:29,Saturday,Robbery,Ikeja,Surulere,19.0959435,80.726594,Clear,0,Morning
+63f2ae24-fc3d-4348-808d-4127610461e3,2025-05-08 04:11:55,Thursday,Assault,Ajah,Eti-Osa,-74.260179,-91.611119,Stormy,1,Morning
+bb026576-f512-44c3-b253-d2186c4a37ea,2023-12-30 05:11:15,Saturday,Fraud,Agege,Epe,32.1403795,-26.857986,Rainy,0,Morning
+309d258c-27a0-43d7-bc96-7f79b7e99aca,2025-02-04 16:21:42,Tuesday,Murder,Lekki,Epe,59.187923,175.339452,Rainy,0,Afternoon
+0f9aea4b-8acd-4e10-bc59-4585944528c0,2024-01-23 16:28:45,Tuesday,Robbery,Epe,Ikorodu,-31.5613615,-148.602022,Rainy,1,Afternoon
+80bacd64-7a0e-4fea-958c-a9ba0cd620c2,2025-01-08 04:43:10,Wednesday,Burglary,Yaba,Ikorodu,-5.8173485,-149.309627,Cloudy,0,Morning
+14822f53-8201-4c62-b5f5-9b220e8fa8e0,2025-05-21 08:03:45,Wednesday,Theft,Ikorodu,Epe,52.5730875,-95.478948,Clear,0,Morning
+dca02eec-acda-4acc-9165-e21098543881,2025-03-29 11:37:11,Saturday,Theft,Yaba,Ikeja,-40.117991,-143.212891,Sunny,0,Morning
+3f07f814-91d6-4f78-a3e9-de99f10c718b,2023-12-06 21:57:46,Wednesday,Assault,Ajah,Eti-Osa,18.3876745,-115.636367,Rainy,0,Night
+a8499b92-6b52-42e3-94fc-dd549e8fc965,2024-08-29 21:16:40,Thursday,Burglary,Surulere,Epe,69.590021,-158.663857,Rainy,0,Night
+344a54b8-42c1-4a62-af48-e8d550fd9d3f,2024-09-02 13:53:04,Monday,Assault,Lekki,Agege,61.726947,100.666834,Sunny,0,Afternoon
+abf3e3fc-2181-4d25-a552-38a643ff5011,2024-11-08 10:02:29,Friday,Robbery,Yaba,Epe,-5.6619105,-51.856453,Stormy,0,Morning
+ef8c485b-c07a-40f2-add4-253b50f0fd0a,2024-10-20 14:27:04,Sunday,Murder,Ikeja,Ikeja,-9.470148,65.470574,Clear,0,Afternoon
+ff002d4d-9020-49e4-bf9a-b5c29f044aed,2023-08-02 13:44:46,Wednesday,Burglary,Surulere,Kosofe,-87.499401,66.040164,Sunny,0,Afternoon
+21e8ac68-43e4-4caf-8181-a8cc369147eb,2023-08-23 21:13:48,Wednesday,Robbery,Epe,Surulere,-70.334226,108.640273,Sunny,0,Night
+48f4ef12-5e99-43d2-be89-6c64e117dac3,2025-06-01 02:39:36,Sunday,Burglary,Lekki,Ikorodu,3.6863455,-143.067948,Clear,0,Morning
+fbddcf7c-9c96-49ec-8d71-c366b41b3143,2023-10-07 18:03:30,Saturday,Burglary,Agege,Epe,27.624274,111.637921,Cloudy,0,Evening
+8dfa6a56-d12d-4c9a-aaf9-15310200b1f0,2025-02-23 02:52:40,Sunday,Assault,Victoria Island,Epe,85.550430,103.972873,Rainy,0,Morning
+43b409ef-2260-470f-a0cc-edc5f05db76e,2024-01-25 18:16:07,Thursday,Fraud,Agege,Surulere,88.077052,-124.387421,Clear,1,Evening
+9ad620ab-4821-4ddb-85b8-9cd927cb6f2a,2023-09-04 21:11:26,Monday,Robbery,Victoria Island,Ikeja,-61.2677495,117.009682,Cloudy,0,Night
+439472e6-da58-4e8a-a25d-6b29afffcfd2,2023-11-17 19:51:56,Friday,Murder,Ikeja,Epe,2.0412265,-70.694527,Stormy,0,Evening
+0d01280f-d89a-40c0-a87d-1c78e7c421c7,2024-07-03 18:57:07,Wednesday,Fraud,Victoria Island,Kosofe,41.139270,-45.180306,Clear,0,Evening
+00e85ece-0b49-452d-86d4-83f3d450281c,2023-08-17 22:00:45,Thursday,Fraud,Yaba,Kosofe,80.264434,47.405510,Clear,0,Night
+bdc14f1f-295d-4fbf-830f-801dfad409e2,2024-02-21 07:23:20,Wednesday,Robbery,Yaba,Surulere,-54.883366,162.047638,Sunny,0,Morning
+13432e61-1ca3-4448-8279-b6a68f9797b0,2024-05-15 09:51:19,Wednesday,Fraud,Ojota,Surulere,58.0905855,49.612665,Stormy,0,Morning
+951f58d0-5e84-4058-95a8-04eb093923de,2025-04-23 03:44:26,Wednesday,Theft,Ikeja,Eti-Osa,-49.9885445,112.911559,Sunny,0,Morning
+5d59cd2a-4eea-44e7-8ab5-4bde20a04502,2024-08-09 09:15:31,Friday,Assault,Ojota,Ifako-Ijaiye,-50.246377,50.739986,Cloudy,0,Morning
+aabc25fa-3fe1-4e47-ae9b-ec3635c7936c,2025-05-05 11:40:26,Monday,Burglary,Ajah,Surulere,-79.290802,12.097368,Cloudy,0,Morning
+f94d6204-6808-493f-9fed-2c43e256a6dc,2023-08-26 01:39:23,Saturday,Kidnapping,Lekki,Agege,4.9398845,120.585174,Sunny,0,Morning
+ccc56569-f9e8-4369-a999-b735dd56cc94,2024-10-01 07:24:48,Tuesday,Fraud,Yaba,Ikeja,-48.5124045,-52.902615,Sunny,0,Morning
+ecab3301-bc8f-4d29-adea-94930658663a,2025-02-25 23:19:29,Tuesday,Fraud,Ojota,Eti-Osa,-42.472867,41.348877,Clear,0,Night
+3f87e362-cf8d-446a-bc2c-bb0ddd334cc7,2024-02-20 05:49:49,Tuesday,Kidnapping,Surulere,Agege,20.5184105,179.653651,Rainy,0,Morning
+dbccc477-09e9-4b0a-9f46-529061ee411a,2023-12-31 11:03:48,Sunday,Kidnapping,Yaba,Surulere,-47.265655,-121.966604,Cloudy,0,Morning
+598336e3-75d6-4ed4-ab1f-a9f2d10bd1d0,2024-06-06 19:44:32,Thursday,Theft,Lekki,Epe,-30.290904,-72.855154,Stormy,0,Evening
+6601ddd0-3170-4437-a8f7-ef5a060edf5b,2024-01-30 06:36:52,Tuesday,Kidnapping,Agege,Ikeja,-28.9053005,-60.318830,Stormy,0,Morning
+59e4b671-4774-4c58-85f8-bc16f7860b50,2024-02-17 04:41:26,Saturday,Robbery,Yaba,Kosofe,-15.2130615,-142.730018,Cloudy,0,Morning
+89456f27-d7fa-4d8d-bb2c-a025adf4e62d,2024-10-17 11:31:50,Thursday,Kidnapping,Yaba,Kosofe,46.7425445,34.575699,Cloudy,0,Morning
+2db69edb-42de-4fcc-b86c-2ca2e08596db,2024-02-19 10:31:31,Monday,Assault,Ojota,Surulere,-82.591037,-118.076372,Cloudy,0,Morning
+587ef344-6f3f-420c-98b8-e4cc1bc044fc,2024-08-31 04:25:17,Saturday,Murder,Agege,Epe,-18.739416,-159.460824,Cloudy,0,Morning
+1d9af659-82ec-4f2d-bbf6-e16f9b3080d5,2024-12-24 02:30:31,Tuesday,Murder,Ikeja,Eti-Osa,-5.7978865,54.287182,Sunny,0,Morning
+6fa17735-b572-43d0-8b5c-ea6a41357e8c,2024-04-01 10:00:27,Monday,Kidnapping,Agege,Ikeja,64.7766745,-77.952235,Clear,0,Morning
+bdf070aa-f0b5-456b-b82c-9074afd5dea5,2023-06-08 12:58:19,Thursday,Theft,Lekki,Agege,49.565055,109.079213,Rainy,0,Afternoon
+aa0b7b14-f2e9-402d-91e9-cdaa6e6981a3,2024-12-30 16:49:22,Monday,Robbery,Epe,Ikorodu,-37.1087845,15.539914,Stormy,0,Afternoon
+1fe771d6-d917-4793-a9d3-c2e6505cc686,2025-05-22 09:51:26,Thursday,Fraud,Yaba,Eti-Osa,-1.3626035,154.554012,Rainy,0,Morning
+5380b904-688c-4015-aab9-7e494f2d4796,2024-12-17 06:38:10,Tuesday,Fraud,Ikeja,Ifako-Ijaiye,-9.382855,92.259323,Stormy,0,Morning
+aa38d0a1-6ba2-4efe-b11c-6eb62095eef6,2024-04-14 18:43:52,Sunday,Robbery,Lekki,Ikorodu,-10.635662,117.647935,Rainy,0,Evening
+67f48ad5-4d0b-4d1a-91b0-e1d99d9262af,2025-06-06 15:05:37,Friday,Kidnapping,Agege,Ifako-Ijaiye,11.7760355,-86.569784,Clear,0,Afternoon
+c9277d9b-6e0d-4648-b5ce-884149732d6c,2024-08-05 19:44:03,Monday,Kidnapping,Surulere,Surulere,-89.8910315,-16.858378,Clear,0,Evening
+71316269-7118-4364-b709-7749527eecfa,2024-08-30 17:08:39,Friday,Theft,Victoria Island,Ikorodu,72.849474,171.492405,Stormy,0,Evening
+f5b78cc7-e6b3-4944-8b32-3e357922bac2,2024-11-13 00:02:56,Wednesday,Murder,Lekki,Surulere,-32.6349665,94.434449,Rainy,0,Morning
+a9f25336-83f4-49a9-88a6-39d015b52908,2025-02-14 12:25:17,Friday,Assault,Lekki,Ikorodu,-44.448814,173.717803,Clear,0,Afternoon
+c04a96c4-f3b6-4fe1-9184-332417e8392a,2024-10-10 20:19:01,Thursday,Kidnapping,Ajah,Ikorodu,76.2315565,-0.047173,Rainy,0,Night
+0640be0f-25b8-4d4b-b2fa-2de8ce7ae7f6,2023-12-06 15:42:44,Wednesday,Murder,Lekki,Eti-Osa,-6.672410,-59.396961,Sunny,0,Afternoon
+12a4def0-c4bb-47a9-9988-68dd9c7c7377,2023-07-13 02:55:50,Thursday,Assault,Ikeja,Epe,-24.275581,75.086880,Rainy,1,Morning
+b24445a7-b7e5-4481-b1c6-81ec935f2b0a,2024-05-25 23:01:01,Saturday,Murder,Epe,Ifako-Ijaiye,21.2506605,158.102715,Cloudy,0,Night
+b00805cc-a7f3-4ae9-a5c7-3c443e75c3b4,2024-03-31 11:19:18,Sunday,Theft,Surulere,Surulere,42.708361,34.561996,Clear,0,Morning
+f53d4330-cdda-44ba-ad06-e8cf3805f907,2023-06-11 12:48:26,Sunday,Kidnapping,Surulere,Ikorodu,-61.388191,48.248626,Cloudy,0,Afternoon
+eadf5085-3fcb-4546-8eb2-25790cdb1ca4,2024-11-28 18:10:48,Thursday,Theft,Yaba,Agege,49.038225,69.403322,Cloudy,0,Evening
+aae65fc1-76f2-4bfe-8d29-a36f222282e1,2025-03-27 03:34:48,Thursday,Kidnapping,Victoria Island,Ikorodu,-57.423049,65.061079,Stormy,0,Morning
+e4347d51-c158-4092-b335-cba3513a7052,2024-07-23 18:27:37,Tuesday,Assault,Ikeja,Eti-Osa,60.0353655,139.681028,Cloudy,0,Evening
+8c41561b-e827-41b9-94a0-2e536d3ee1dc,2024-05-15 23:36:39,Wednesday,Robbery,Ojota,Agege,74.457605,91.000712,Clear,0,Night
+3f4b1a70-c074-418e-825a-609f7337c599,2024-05-18 13:52:35,Saturday,Theft,Ojota,Ikorodu,-47.2763755,74.838897,Cloudy,1,Afternoon
+7c0e8cd8-8573-4793-8715-b2b9c40c5d91,2025-03-20 13:37:24,Thursday,Fraud,Ajah,Ikorodu,81.1709385,-31.119604,Stormy,0,Afternoon
+49257af1-b6aa-405b-93d5-f2f7709b7d97,2024-10-06 00:52:55,Sunday,Assault,Yaba,Ikorodu,-25.7779265,-32.576619,Stormy,0,Morning
+14a0bccb-8a47-4a87-a49d-681d51d87c64,2023-12-06 08:43:17,Wednesday,Robbery,Agege,Ikeja,-17.0620305,0.306775,Sunny,0,Morning
+b4d7e28e-271e-4ee2-b1a6-b1f1620e99d3,2023-09-22 16:55:26,Friday,Burglary,Victoria Island,Surulere,-49.511703,-55.842437,Cloudy,0,Afternoon
+7746d0ba-8ae8-405b-94b4-a48268586eba,2023-11-20 09:48:54,Monday,Kidnapping,Yaba,Ifako-Ijaiye,-72.758699,42.730506,Stormy,0,Morning
+e7a37e81-63b4-408b-ab8e-869fd5385b0e,2024-04-25 04:02:16,Thursday,Kidnapping,Yaba,Agege,-73.2856745,-68.956633,Stormy,0,Morning
+9360715f-c3fe-4183-a172-b725db52ca58,2025-01-25 03:28:39,Saturday,Theft,Ikorodu,Ifako-Ijaiye,66.787623,-169.513864,Sunny,0,Morning
+c0e3befd-4c71-40fe-9a0c-dd7cf1578470,2024-03-28 16:15:38,Thursday,Burglary,Agege,Kosofe,38.038272,-176.834568,Rainy,0,Afternoon
+ccc42903-8bcf-43a1-bc10-fa52bf5d2fdf,2024-04-05 03:19:20,Friday,Fraud,Ikorodu,Kosofe,22.4801685,108.954965,Stormy,0,Morning
+7c5308bf-6f92-425e-85df-16b6382c043f,2024-09-17 18:53:15,Tuesday,Murder,Agege,Ikorodu,-30.7995955,82.116207,Stormy,0,Evening
+67814c1f-cc53-4e36-addc-3e13ab3b4d37,2023-06-29 18:30:22,Thursday,Assault,Ikeja,Agege,14.3830605,0.458173,Cloudy,0,Evening
+9f4c3b79-fb10-487f-a0ac-3703eb67146a,2024-12-20 17:09:49,Friday,Burglary,Ikorodu,Ifako-Ijaiye,-45.696143,70.928175,Sunny,0,Evening
+06f028ff-a9ba-4a27-907b-fe36978648f8,2024-07-26 02:13:50,Friday,Burglary,Epe,Surulere,-82.7612485,31.538012,Stormy,0,Morning
+2e85cb21-7631-4e9d-9de9-f86322bd3388,2023-08-11 10:20:18,Friday,Fraud,Lekki,Eti-Osa,82.5367955,50.109728,Cloudy,0,Morning
+53ac2ab9-7467-4cd9-b62f-5e5c53cd6268,2023-07-16 06:49:04,Sunday,Murder,Ojota,Ifako-Ijaiye,-20.164822,23.529838,Clear,0,Morning
+6bebac31-d4f8-4d72-b382-1cfdc083b73a,2024-02-24 08:54:38,Saturday,Murder,Surulere,Agege,11.770918,-30.612117,Rainy,0,Morning
+0d557b61-8a17-4dfe-bfc0-0dc804f64d86,2023-12-20 04:07:35,Wednesday,Robbery,Surulere,Kosofe,-68.0134635,72.494060,Clear,0,Morning
+a6d964a3-f510-4b53-87fe-e39f1190f938,2024-03-05 01:10:41,Tuesday,Murder,Surulere,Epe,-29.810822,169.043454,Stormy,0,Morning
+9f0fda8d-0537-4ff6-96d7-b3b833094d35,2023-07-08 11:54:37,Saturday,Theft,Yaba,Epe,-81.6704485,-47.240788,Sunny,0,Morning
+90604f62-1d48-4071-ab61-a7b1793b4c32,2023-10-03 14:03:26,Tuesday,Burglary,Ojota,Surulere,-25.966080,-112.235630,Sunny,0,Afternoon
+9b1bc895-2af4-4ab7-9e6f-ea07c4536f1d,2023-11-23 12:35:52,Thursday,Theft,Ikorodu,Surulere,34.8316095,-42.430213,Rainy,0,Afternoon
+9424aed5-1bac-4c15-8fa0-3f26f6f7f0cc,2024-09-20 21:21:29,Friday,Assault,Ikeja,Eti-Osa,-59.2553175,-92.078903,Sunny,1,Night
+60141de9-f54a-40a2-a874-66d7ad66a1bd,2023-06-27 04:07:29,Tuesday,Fraud,Lekki,Epe,-6.2596145,129.128512,Clear,0,Morning
+a092f52a-d4a0-47a7-b0cc-1b3b9793b9b4,2024-04-10 07:37:08,Wednesday,Assault,Surulere,Eti-Osa,-36.7612555,-139.199704,Sunny,0,Morning
+ce3714af-99b4-4350-af2b-99b4d9acd158,2023-12-12 20:29:06,Tuesday,Fraud,Epe,Ifako-Ijaiye,-62.6460775,-18.089032,Sunny,0,Night
+a9597663-6daa-4e68-8861-fe1858e25888,2023-09-09 06:04:27,Saturday,Burglary,Victoria Island,Ikorodu,61.916362,-157.951177,Stormy,0,Morning
+d97dc9cd-033d-4bce-975a-ed2ca5c5650c,2024-03-21 01:23:10,Thursday,Kidnapping,Lekki,Epe,-71.4895675,91.635630,Sunny,1,Morning
+a2b5b498-5cb8-4aed-b5f6-2c976efb63b1,2024-04-28 11:54:24,Sunday,Burglary,Surulere,Agege,41.5875185,-123.339252,Stormy,1,Morning
+859131d2-bbda-4242-ad17-4fc96f7c15ea,2025-04-29 17:36:26,Tuesday,Robbery,Surulere,Agege,33.410341,-97.863503,Sunny,0,Evening
+c64ee6e3-89c5-431a-ab6c-1016cee624d0,2024-10-24 10:50:58,Thursday,Kidnapping,Agege,Surulere,-17.500310,150.665424,Cloudy,0,Morning
+44b591f7-97ac-4aa8-bb24-88a3d36357b6,2024-06-16 18:29:28,Sunday,Assault,Ajah,Eti-Osa,34.7886035,53.847273,Rainy,0,Evening
+3e6dd58b-7367-428d-a1b2-94de4767d76c,2024-02-12 13:38:14,Monday,Theft,Surulere,Ikorodu,-24.1003935,-133.473212,Rainy,0,Afternoon
+561e16d1-6105-416b-ab0e-664e9c3eb2d5,2025-01-10 03:20:10,Friday,Burglary,Surulere,Eti-Osa,34.744229,125.935698,Sunny,0,Morning
+5ad5cf06-364d-4c87-bcd0-129d2e8d0e87,2023-06-29 12:27:04,Thursday,Robbery,Ajah,Epe,42.689390,-5.509348,Sunny,0,Afternoon
+b380c73a-989d-4d4a-a15c-a6664797b2c9,2025-02-15 22:07:03,Saturday,Murder,Surulere,Ikorodu,-20.6490525,2.718024,Sunny,0,Night
+30e912f2-f2b4-4abf-8441-aefd0299436a,2025-04-20 19:50:04,Sunday,Burglary,Ojota,Ikeja,-15.839719,118.388036,Stormy,0,Evening
+3d85de89-c217-4429-8e20-07247d137018,2023-08-12 17:23:08,Saturday,Kidnapping,Epe,Ikeja,-25.211479,38.199436,Cloudy,0,Evening
+cafda613-72bb-412d-bda6-7785b63b4dc3,2024-11-24 15:20:08,Sunday,Theft,Ikorodu,Ikorodu,37.8002705,166.766476,Stormy,1,Afternoon
+3e493f43-b118-468d-a786-d50638ba8abc,2023-06-20 14:52:55,Tuesday,Assault,Victoria Island,Surulere,-65.0211815,-22.033476,Sunny,0,Afternoon
+87ea7ff5-8db0-4746-b927-99735e781fd7,2024-01-31 01:32:18,Wednesday,Robbery,Agege,Ikorodu,88.230411,132.220279,Sunny,0,Morning
+7428a656-b3ee-4d3b-9a10-412954aebd1b,2024-02-29 05:32:48,Thursday,Theft,Ikorodu,Ifako-Ijaiye,24.2203095,115.487561,Sunny,0,Morning
+314d3441-b8a6-471f-9ee3-4dc43b048a8b,2024-01-03 15:41:33,Wednesday,Fraud,Lekki,Epe,-7.691518,-45.028679,Rainy,1,Afternoon
+2f65fafa-b0ae-4f08-831e-dbbcf36cb62b,2024-02-07 07:41:04,Wednesday,Fraud,Victoria Island,Ikeja,-57.9072685,107.689772,Sunny,0,Morning
+fa02eaec-96ef-4ad6-b97e-670346c8adfe,2023-11-03 00:01:37,Friday,Theft,Ojota,Ikeja,-31.9146905,79.952136,Clear,0,Morning
+d52721e7-19bc-443e-bb02-bebb48729a4d,2025-01-17 16:44:48,Friday,Assault,Ikorodu,Kosofe,50.831137,140.399589,Sunny,0,Afternoon
+039f3a25-4d61-48bd-adef-e1935c62b3a2,2023-11-05 00:03:30,Sunday,Kidnapping,Ikeja,Agege,-10.476946,-57.870905,Sunny,0,Morning
+0df56ac6-f96b-448a-8ba6-eab94639447b,2024-12-08 03:51:56,Sunday,Kidnapping,Surulere,Epe,53.380797,-112.041291,Cloudy,0,Morning
+7daa39f0-c0b6-4ce2-9e53-790aa34b6cf6,2024-08-10 00:48:11,Saturday,Kidnapping,Ikorodu,Agege,-11.5801675,-112.204216,Sunny,0,Morning
+70c2903f-7a8d-43aa-b82a-65e048ca7651,2023-08-25 21:49:00,Friday,Theft,Yaba,Epe,-86.707532,128.198383,Clear,0,Night
+7a4c75d4-dc99-404c-b0e9-8b3b40a26c60,2024-02-26 20:39:48,Monday,Assault,Victoria Island,Ikeja,-40.5102545,-152.417333,Cloudy,0,Night
+a1235a8c-93b7-4886-92f7-0c977de31a51,2023-09-03 20:10:58,Sunday,Assault,Yaba,Ikeja,-72.459506,35.128168,Clear,0,Night
+f2f9e5fa-9016-4161-8fa7-01cd2631d00b,2024-11-21 09:49:08,Thursday,Assault,Surulere,Ikeja,-75.609424,-98.542182,Stormy,0,Morning
+6a8a616f-c3b2-40d0-8edd-dfcd1e52d770,2024-01-29 05:20:56,Monday,Theft,Surulere,Kosofe,-67.134426,-46.753496,Sunny,0,Morning
+61607459-85c7-404b-8693-da1139c6a1ca,2024-09-20 04:01:28,Friday,Theft,Yaba,Surulere,70.0215815,152.010824,Sunny,0,Morning
+6dc7cac7-fd72-4050-96a9-954fdc33e1f9,2024-05-22 03:38:33,Wednesday,Fraud,Agege,Ifako-Ijaiye,28.8420145,-20.359755,Rainy,0,Morning
+bd767e35-f5c9-4047-9c10-c5720f6b40d0,2024-01-30 10:08:41,Tuesday,Kidnapping,Ojota,Eti-Osa,62.640310,153.411505,Rainy,0,Morning
+14c8b3b4-a911-4192-83bf-d9313605bf54,2023-08-23 07:17:32,Wednesday,Fraud,Yaba,Ikeja,-34.2223595,155.820825,Cloudy,0,Morning
+00af5b3a-2812-459a-9337-739e8d4f5d27,2023-10-07 05:12:03,Saturday,Robbery,Ikorodu,Ikorodu,-25.6116815,-86.684561,Rainy,0,Morning
+3b4206c5-085b-45fb-8a8f-f810784c2f29,2024-04-19 12:45:50,Friday,Theft,Ojota,Surulere,30.9311665,138.799956,Clear,0,Afternoon
+ec856f37-3bc1-4987-aff8-754d1238d630,2024-01-17 00:06:31,Wednesday,Murder,Agege,Eti-Osa,-14.108365,63.756212,Stormy,0,Morning
+32a447b2-ef04-457d-8dcc-c33aa9434aa0,2023-12-29 17:06:00,Friday,Burglary,Ikeja,Ifako-Ijaiye,77.7877305,136.640873,Stormy,0,Evening
+e88da719-2624-4b40-a5cb-63a2398d1ca6,2024-05-02 10:36:33,Thursday,Theft,Ajah,Eti-Osa,-59.189972,112.359702,Stormy,0,Morning
+4ebfa5c3-cae9-44a7-aa79-ea680f44704f,2023-12-30 13:11:33,Saturday,Murder,Ajah,Ikeja,-51.8187375,-141.662135,Sunny,0,Afternoon
+b04d3376-77fc-4703-9fd5-a423706c5c56,2024-09-11 09:52:09,Wednesday,Kidnapping,Epe,Eti-Osa,62.7953525,-25.053369,Sunny,0,Morning
+7010f719-7e69-4d0d-8a3c-3b5e801ef1da,2024-01-29 10:06:54,Monday,Assault,Epe,Kosofe,18.0475575,-33.838940,Sunny,0,Morning
+5283aac7-bc0a-4a5d-ae99-6e3ee3b137fc,2023-08-08 16:59:21,Tuesday,Murder,Victoria Island,Agege,70.534244,-158.599905,Stormy,1,Afternoon
+ac9ed156-f63f-4e41-ba9a-ca5e176132ed,2024-09-18 03:28:56,Wednesday,Burglary,Victoria Island,Epe,-22.7923775,-166.113890,Sunny,0,Morning
+c3c75611-ffe3-4a49-854f-92fff366bad4,2025-03-17 12:50:32,Monday,Murder,Ojota,Agege,64.4038345,135.209223,Cloudy,0,Afternoon
+2cd94cbb-c19a-458c-835b-1c8c0a4c9f7f,2024-11-10 09:40:53,Sunday,Burglary,Surulere,Eti-Osa,-17.6536855,129.370245,Cloudy,0,Morning
+2e76128b-4735-44f9-aa83-bf007135f221,2024-06-06 16:12:55,Thursday,Fraud,Surulere,Epe,49.3082945,169.776495,Stormy,1,Afternoon
+175ba98d-f814-4102-bde1-bdfed0725b5c,2024-09-03 20:46:46,Tuesday,Burglary,Ikorodu,Ifako-Ijaiye,27.006984,160.797448,Clear,0,Night
+1ac70ec0-ab8d-4eb4-9230-dfbd5553b2fe,2024-06-06 07:04:23,Thursday,Assault,Ajah,Kosofe,3.405085,39.230215,Sunny,0,Morning
+49c8a43f-7ed7-4ed7-b194-990b6961929e,2025-04-03 10:44:53,Thursday,Kidnapping,Ajah,Agege,-46.828907,-2.938005,Cloudy,0,Morning
+50843242-168b-4625-b46f-78910964fbbf,2024-11-02 20:53:48,Saturday,Robbery,Ojota,Agege,17.495582,115.330870,Stormy,0,Night
+dd6ac7b8-6778-443b-85c5-b37af85e06a1,2023-12-20 06:30:00,Wednesday,Assault,Victoria Island,Surulere,-3.221854,-117.765066,Clear,0,Morning
+69ca97d2-7644-44fd-8ae7-69edde8ede0b,2024-07-10 22:12:49,Wednesday,Murder,Ikorodu,Epe,-89.6910135,173.078729,Stormy,0,Night
+7f9d3e64-c1a6-423b-9f64-eeed5c9d927d,2023-07-19 07:52:54,Wednesday,Burglary,Surulere,Epe,-39.646195,98.335031,Sunny,0,Morning
+218a1536-8c99-4894-845d-cc38341c6494,2024-10-04 23:54:30,Friday,Assault,Ikeja,Eti-Osa,28.6594645,-152.291137,Cloudy,0,Night
+1f15c7b6-7c16-428d-b2c0-8394e17f29e1,2025-05-27 18:31:05,Tuesday,Theft,Ikorodu,Surulere,-12.6827645,55.211784,Cloudy,0,Evening
+288b78b5-b5b4-43ca-bd42-993ccc9fd334,2023-06-29 15:36:35,Thursday,Fraud,Ojota,Ifako-Ijaiye,79.120316,146.885486,Sunny,1,Afternoon
+3985fb62-17dc-4eff-a872-13f98d605936,2024-02-03 14:14:48,Saturday,Theft,Victoria Island,Ifako-Ijaiye,57.8647215,-172.658578,Sunny,0,Afternoon
+d50755d9-a5d0-4d53-9e12-42e3f27292b6,2025-03-21 18:22:59,Friday,Theft,Victoria Island,Ifako-Ijaiye,-59.5430125,67.737949,Cloudy,0,Evening
+6a5d932b-45ff-4c83-b495-db4e82456fb4,2023-10-04 19:40:27,Wednesday,Kidnapping,Epe,Agege,43.7816555,-23.308019,Cloudy,0,Evening
+25074181-8d1f-4540-b4ef-f5453e652603,2025-03-16 13:49:35,Sunday,Kidnapping,Surulere,Eti-Osa,39.5199935,73.521065,Rainy,0,Afternoon
+22f235f2-e11b-468d-bf0d-073d821c1336,2024-03-31 04:00:21,Sunday,Assault,Yaba,Kosofe,-38.833419,141.788396,Rainy,0,Morning
+6a39aaa6-daba-450d-8a3d-d859c5ce099c,2025-04-08 08:04:26,Tuesday,Murder,Epe,Agege,-71.260499,-31.690805,Stormy,0,Morning
+b9de7a3a-4868-42b9-80a8-1de9d20f87d0,2024-02-26 05:10:41,Monday,Murder,Victoria Island,Agege,46.294795,-36.562771,Clear,0,Morning
+dd81b7f5-7d59-41c6-a8f1-e091ffb8102d,2024-01-25 02:55:43,Thursday,Kidnapping,Surulere,Agege,67.5548945,131.343993,Rainy,0,Morning
+8d4a75b8-551a-48ea-985a-0afa7bfdcc12,2023-09-30 15:27:49,Saturday,Theft,Lekki,Agege,29.8691535,109.148246,Clear,0,Afternoon
+de9e3757-5260-401e-aecf-67d2749176f4,2025-01-19 18:25:18,Sunday,Robbery,Victoria Island,Kosofe,55.8758975,22.513106,Cloudy,0,Evening
+c68a152f-db23-4a8c-bbca-bf85620a60ac,2023-10-31 18:10:46,Tuesday,Theft,Ikeja,Agege,-25.896125,126.981523,Rainy,0,Evening
+e9d68f23-b489-4070-b914-f8a8bea4ff31,2024-04-21 06:50:50,Sunday,Fraud,Epe,Eti-Osa,-78.2835175,-9.180385,Clear,0,Morning
+d21c82f8-cada-4f80-a9e7-82d4fd08b32c,2025-02-26 11:12:09,Wednesday,Burglary,Agege,Epe,12.335957,27.274450,Sunny,0,Morning
+80962718-2051-4cef-897a-1e10f6febc0e,2024-10-25 15:57:34,Friday,Kidnapping,Ajah,Kosofe,-49.1695395,85.927541,Clear,0,Afternoon
+1986b4b2-70b7-4868-9854-80f0dfcaf0b7,2024-09-07 15:12:18,Saturday,Burglary,Epe,Eti-Osa,-0.880851,-126.117168,Clear,0,Afternoon
+def57689-68f4-4bce-a4e7-5e8eb8f21423,2024-07-19 17:52:59,Friday,Theft,Epe,Eti-Osa,32.655697,-171.760321,Stormy,0,Evening
+43d88870-f81d-4aa1-8812-0a8e78308930,2024-10-27 19:27:10,Sunday,Murder,Ikeja,Kosofe,-48.5639755,-139.826889,Rainy,0,Evening
+541cdfcd-da0d-4a5f-948f-8b74a65bb1f2,2024-02-25 04:40:59,Sunday,Assault,Ojota,Agege,77.304921,33.397234,Clear,0,Morning
+b7fddd71-a075-4927-9110-b492f4427e0b,2025-03-30 06:14:18,Sunday,Fraud,Yaba,Ikorodu,53.243149,24.015990,Stormy,0,Morning
+3c19e71d-1184-45ad-9e11-d2cd0930aef6,2025-04-26 12:30:01,Saturday,Burglary,Ojota,Surulere,40.982404,110.455761,Stormy,0,Afternoon
+fa745761-6f18-4108-9723-199dbf2c14a0,2024-10-09 11:08:18,Wednesday,Murder,Epe,Epe,-12.8572865,-57.869234,Cloudy,0,Morning
+4ca9cf07-b1aa-4f6a-aa96-e1e27194eae2,2023-08-22 16:33:26,Tuesday,Fraud,Ojota,Ikorodu,80.1203865,-126.040587,Cloudy,0,Afternoon
+4b1a269b-0e5d-4462-8bd0-0ef2530a37df,2025-05-08 22:29:22,Thursday,Theft,Ojota,Ikeja,-82.2295305,-155.308788,Stormy,0,Night
+697c3923-87fa-441a-be83-b91f25440fe0,2024-03-11 15:41:07,Monday,Kidnapping,Yaba,Surulere,10.6206385,51.223208,Rainy,0,Afternoon
+deef580f-9c07-4751-9437-45092cd1586a,2024-08-19 19:06:29,Monday,Assault,Yaba,Kosofe,-41.666347,-88.740724,Rainy,0,Evening
+24a35cf2-9549-4931-a9af-299d7f671eec,2024-03-30 08:35:13,Saturday,Robbery,Victoria Island,Eti-Osa,76.3522345,-50.705490,Rainy,0,Morning
+aab612c9-415d-474a-b5a6-69814104a8b5,2023-12-04 13:45:02,Monday,Burglary,Ikorodu,Epe,33.7889875,162.472440,Stormy,0,Afternoon
+12e89d10-2871-4733-8bed-db12ad77e82f,2023-06-14 12:37:30,Wednesday,Kidnapping,Agege,Ikeja,34.890469,-25.578927,Rainy,0,Afternoon
+6c9f82b9-f647-4986-a391-7c994c955f6a,2024-05-15 07:53:03,Wednesday,Theft,Agege,Epe,2.7620645,135.450156,Clear,0,Morning
+ffd6f232-32ff-4294-8d57-d880d865d69a,2024-11-24 09:49:15,Sunday,Theft,Surulere,Agege,-22.864769,65.261856,Stormy,0,Morning
+5be4bf51-9269-4698-a1a1-17293cb98350,2024-04-01 00:38:46,Monday,Fraud,Surulere,Ikorodu,39.710176,-122.740961,Clear,0,Morning
+a881bfd3-d47d-477b-ba5a-91ca059dd55d,2024-08-26 16:42:55,Monday,Murder,Surulere,Kosofe,-10.5773605,-21.499194,Cloudy,0,Afternoon
+c73f6e1b-af90-4e3c-9d75-0e9890e0b95f,2024-04-09 15:47:53,Tuesday,Assault,Lekki,Eti-Osa,-16.319733,-175.652438,Clear,0,Afternoon
+e776b886-d534-4e1d-bf29-84f5bec39a37,2025-01-05 15:04:39,Sunday,Robbery,Agege,Agege,-76.834786,145.562007,Sunny,1,Afternoon
+3810ae66-5a31-44cc-8d4b-69a99b689c88,2025-05-08 13:22:16,Thursday,Kidnapping,Epe,Agege,-13.1753425,-56.456129,Sunny,0,Afternoon
+b88ec318-c16d-43ed-ad81-f8bd402913ec,2024-10-13 16:51:42,Sunday,Robbery,Victoria Island,Epe,-38.9618325,153.338407,Sunny,0,Afternoon
+a0a11839-e745-4704-98df-bc3ca0d4de3d,2025-01-23 08:08:11,Thursday,Theft,Ojota,Ikeja,86.947696,-106.567208,Sunny,0,Morning
+945ef2e4-088a-43ec-b0d9-c9f8c9e26074,2024-10-21 06:06:24,Monday,Robbery,Ajah,Agege,-79.4175825,-14.142924,Clear,0,Morning
+bf5ae7e6-53a3-4d5a-8b8c-5bdce8dd5e5a,2024-03-16 14:57:02,Saturday,Fraud,Surulere,Ikeja,-54.7244115,-131.610014,Cloudy,0,Afternoon
+e05fb8bc-8a16-406c-8958-e75e21d53971,2024-04-24 22:59:00,Wednesday,Fraud,Ikeja,Kosofe,-42.851977,-72.199114,Sunny,0,Night
+2a1f955a-d499-4a99-85c4-5a3ee9da484a,2024-03-17 09:31:23,Sunday,Fraud,Epe,Agege,52.4995995,89.399011,Rainy,0,Morning
+cde22f1c-56b6-4afc-9ed2-55d0bf1e8366,2023-12-23 19:42:50,Saturday,Burglary,Ikorodu,Epe,39.3450415,-21.547142,Clear,0,Evening
+39c1e262-f76c-4ede-8110-12662408a6dc,2023-09-04 16:21:48,Monday,Kidnapping,Ajah,Ikorodu,35.716748,-139.573963,Cloudy,0,Afternoon
+6502d6a2-ca6a-4224-971e-16cc5da36f1b,2025-04-05 07:37:38,Saturday,Burglary,Yaba,Kosofe,16.679335,119.204934,Cloudy,0,Morning
+ac3e7b0d-5e5b-413d-b46c-db771fa382e8,2023-06-18 00:54:25,Sunday,Murder,Epe,Agege,-19.009941,108.070067,Sunny,0,Morning
+f0b6f83f-a377-46f1-9289-f0ab618ae305,2025-01-09 00:01:57,Thursday,Robbery,Victoria Island,Ikeja,-19.6265825,133.833311,Sunny,0,Morning
+e25d36eb-9e9a-4f83-8668-03ee78b2b549,2024-03-21 18:12:54,Thursday,Robbery,Ajah,Agege,-60.916065,-54.467821,Cloudy,0,Evening
+a2a9d4d8-102e-4de5-a5cc-8bf738ab854c,2024-08-16 06:50:11,Friday,Burglary,Ikorodu,Ikeja,-1.9514855,147.535387,Stormy,1,Morning
+23c86d30-1dde-4969-a886-13dba6348e78,2025-03-08 03:13:16,Saturday,Fraud,Ikorodu,Ikeja,34.625866,-17.762888,Rainy,1,Morning
+18e19331-1dba-4267-be1c-a5a1fef518a6,2023-07-12 10:46:12,Wednesday,Murder,Ajah,Epe,-80.0109455,-16.595512,Sunny,1,Morning
+aba4fc03-5efa-4c5b-b421-ff46637e4b01,2023-12-06 14:26:03,Wednesday,Fraud,Ikeja,Surulere,54.296568,-107.165919,Cloudy,0,Afternoon
+278ed00d-ba02-46ef-be05-5787965befdf,2025-01-04 10:34:49,Saturday,Theft,Lekki,Agege,55.0068185,45.016962,Sunny,0,Morning
+9d9b6231-7d45-48ef-956c-e8ea19597b5a,2025-04-24 22:45:13,Thursday,Theft,Epe,Eti-Osa,21.3697175,171.608518,Clear,1,Night
+71818dcf-379e-4c6e-9edb-0d3cb0b63bcf,2024-04-19 05:16:33,Friday,Kidnapping,Ojota,Surulere,-14.9078265,-162.435578,Rainy,0,Morning
+5e09a9ee-af88-4dec-bb1e-143b196f4dfa,2024-05-17 15:10:33,Friday,Burglary,Victoria Island,Ikeja,-26.6189965,14.715587,Stormy,1,Afternoon
+30974b2b-46a0-4a9b-a5ec-7acd0f8035f5,2024-08-03 03:01:25,Saturday,Burglary,Yaba,Surulere,83.094378,12.561555,Clear,1,Morning
+a3b5cece-a446-4e72-b64c-911aa9ab364a,2023-09-10 02:39:59,Sunday,Theft,Yaba,Kosofe,32.0622655,-130.783207,Sunny,0,Morning
+fd235def-3e5a-47e3-9560-db22c96b5edb,2024-09-13 01:03:06,Friday,Murder,Agege,Agege,-84.2669015,-152.845869,Sunny,0,Morning
+8de08fc2-c3e1-4a85-946e-f10411906f50,2023-09-13 00:50:08,Wednesday,Burglary,Epe,Epe,61.5527465,-69.831096,Rainy,0,Morning
+541c7a86-3ba5-4d2f-9ea4-5c19d0243d72,2023-11-15 03:08:15,Wednesday,Assault,Victoria Island,Kosofe,67.4060115,-64.062001,Sunny,0,Morning
+fbe94499-dbc0-40fd-86fb-7bf300b9d4a3,2025-01-28 16:43:15,Tuesday,Kidnapping,Ojota,Kosofe,-50.391228,139.965205,Clear,0,Afternoon
+1c24220e-2cab-47e7-8c6b-66e5402adf9c,2023-09-27 14:37:25,Wednesday,Kidnapping,Ikorodu,Ifako-Ijaiye,-55.105503,110.025967,Stormy,0,Afternoon
+c9d6a63b-ca3c-4f5f-9bb5-c40c03cde2e3,2024-11-01 16:27:07,Friday,Murder,Ikeja,Agege,-83.079693,-109.238680,Cloudy,0,Afternoon
+0d6a05b3-43ef-4016-ac9b-662e040a3aae,2023-12-09 00:48:39,Saturday,Burglary,Ojota,Epe,68.0690025,-6.176517,Rainy,1,Morning
+79eb4168-1045-46e5-bee3-eb791d181ee9,2023-09-13 16:23:41,Wednesday,Kidnapping,Victoria Island,Epe,23.0007395,102.440017,Cloudy,0,Afternoon
+80fb9296-73b6-409b-9bea-f6ac97fa7f04,2024-05-20 09:54:00,Monday,Kidnapping,Victoria Island,Ikorodu,7.184097,95.542528,Sunny,0,Morning
+ddf275eb-e8a3-4341-8881-9065ba2c98ce,2023-11-26 07:25:52,Sunday,Burglary,Surulere,Surulere,75.1164855,-156.718575,Stormy,0,Morning
+07f97d05-f6ca-4b8b-a4b1-f99175424646,2024-10-31 00:17:16,Thursday,Kidnapping,Surulere,Ikorodu,49.975995,-18.063449,Clear,0,Morning
+7d824264-1ba3-42e7-afa4-15e56d204496,2023-07-24 11:18:43,Monday,Theft,Epe,Ikorodu,38.5757265,35.616622,Sunny,1,Morning
+9bb96155-5275-4b94-94ae-af5ce63658c9,2024-12-11 13:34:02,Wednesday,Assault,Lekki,Epe,29.067856,-140.544975,Clear,0,Afternoon
+95da75c1-a211-40f9-9fd3-4579466772ce,2023-09-30 10:35:14,Saturday,Murder,Victoria Island,Ifako-Ijaiye,-72.368559,-112.251407,Clear,0,Morning
+4b7e6b3c-87d2-42a6-98ee-ac2bfe9fecaa,2024-08-06 03:32:57,Tuesday,Burglary,Epe,Eti-Osa,-2.708697,24.496488,Stormy,0,Morning
+b3a7d0e0-cb08-487d-9963-c26d6e218b09,2024-05-24 15:18:46,Friday,Murder,Ikeja,Kosofe,45.7078335,145.036034,Sunny,0,Afternoon
+b888f6ed-8d24-4e3e-84da-bddbe0b15aba,2023-09-04 02:16:38,Monday,Murder,Lekki,Eti-Osa,85.748171,169.458220,Sunny,0,Morning
+69efafb1-3a7e-4e14-a359-eee173991a47,2025-04-09 11:23:26,Wednesday,Theft,Agege,Ifako-Ijaiye,-32.280186,50.892040,Stormy,0,Morning
+50032b35-1857-4baf-bac7-e2b96a7e4c36,2024-02-25 11:35:15,Sunday,Murder,Ikorodu,Eti-Osa,31.7351845,34.066637,Cloudy,0,Morning
+2713582c-f41e-43ac-9fd2-31094140752c,2024-05-03 16:54:07,Friday,Theft,Victoria Island,Ikorodu,-6.1075925,177.077067,Cloudy,0,Afternoon
+17dded81-15da-405c-94ef-00aa175a81ec,2024-11-21 16:42:59,Thursday,Robbery,Epe,Ikeja,37.310317,-143.958078,Stormy,0,Afternoon
+0f5ae9d3-8e6e-4003-a14f-3f12cfd01cbd,2024-05-07 16:12:22,Tuesday,Theft,Surulere,Agege,-64.078684,20.063257,Rainy,0,Afternoon
+692ac139-1f4a-4ca1-ab85-fd595463adc7,2024-09-04 17:56:45,Wednesday,Murder,Yaba,Ikorodu,60.749705,121.551469,Clear,0,Evening
+0d2b91ef-b897-4ec5-aa74-bb18de3b496f,2024-03-07 20:59:25,Thursday,Theft,Yaba,Epe,88.6009855,47.062494,Rainy,1,Night
+81e5c9f6-93f2-47cc-9a85-910d5a057c11,2024-01-16 15:14:42,Tuesday,Kidnapping,Agege,Ikeja,71.171357,-12.255274,Clear,0,Afternoon
+1bb43332-d8e7-412f-b968-1c817b70c3b8,2023-11-19 11:10:59,Sunday,Kidnapping,Ikeja,Agege,-48.4649355,172.582616,Cloudy,0,Morning
+92f837d4-4750-4f1d-833a-1f6c1d691fba,2024-03-05 04:02:32,Tuesday,Fraud,Ikorodu,Kosofe,59.321376,17.332836,Rainy,0,Morning
+9f294a8b-d184-4c39-8476-7556f97be2dd,2023-11-29 21:21:19,Wednesday,Assault,Ikorodu,Kosofe,25.1889845,121.166165,Rainy,0,Night
+a867a096-edd8-47c8-9be7-173706b89231,2024-09-25 19:16:45,Wednesday,Theft,Yaba,Ikorodu,82.5232425,118.897383,Stormy,0,Evening
+c32d4526-b3e4-410a-85f5-0c522e2fbf77,2025-03-12 11:42:51,Wednesday,Assault,Surulere,Epe,-18.207548,-164.455878,Stormy,0,Morning
+24ac2130-deaf-428d-ae70-983801902620,2024-02-02 05:20:11,Friday,Burglary,Surulere,Epe,1.2209875,8.454266,Cloudy,0,Morning
+a2178f84-bdb0-45ff-a451-e5a411d059b2,2024-08-20 02:26:05,Tuesday,Kidnapping,Agege,Ikeja,86.454606,35.169459,Sunny,0,Morning
+74222167-6b7a-4460-a04e-46cb3712f2d1,2023-07-01 00:56:03,Saturday,Burglary,Victoria Island,Kosofe,-65.3689845,104.800724,Clear,0,Morning
+c6deb2f0-530a-41c7-b8ba-83684fc77768,2024-02-27 00:12:22,Tuesday,Theft,Ajah,Agege,-47.745770,18.670740,Sunny,0,Morning
+284c03d2-27d4-45b6-8d77-c5a0e222b6a6,2024-08-21 02:09:18,Wednesday,Assault,Agege,Epe,70.0476015,-134.389038,Cloudy,0,Morning
+716fda0a-45a8-4829-94e2-86e5ac8936bc,2025-01-13 05:08:54,Monday,Assault,Ikorodu,Epe,75.8496745,-153.283968,Clear,0,Morning
+45ee432d-6a07-4213-b129-cec79b69554d,2024-11-02 08:52:33,Saturday,Kidnapping,Ikorodu,Ifako-Ijaiye,23.8205985,80.737643,Stormy,0,Morning
+4882d73c-1c63-45ab-ae0e-d1e8585d3f86,2023-11-21 15:56:28,Tuesday,Kidnapping,Agege,Ikeja,47.531915,-118.894692,Sunny,0,Afternoon
+0ba078e8-4ef4-42c1-aac9-331686e52753,2024-11-15 00:20:32,Friday,Theft,Ikeja,Ikeja,69.218262,81.258969,Stormy,0,Morning
+4d29d1ab-3455-42f7-81f7-c7ec0e0630cd,2023-11-25 12:12:21,Saturday,Fraud,Epe,Agege,16.1027085,141.760138,Rainy,0,Afternoon
+01fa964e-1eb7-4b56-93ff-d3a24a193501,2023-11-18 07:07:52,Saturday,Fraud,Ajah,Surulere,-53.161314,-42.819009,Rainy,0,Morning
+b423ccde-8857-4117-a155-46672112507c,2024-06-27 13:22:44,Thursday,Theft,Agege,Kosofe,25.6030755,-85.674570,Clear,0,Afternoon
+5aaab32f-ce63-42b6-ab05-347fd556b37d,2023-12-02 23:01:08,Saturday,Robbery,Ikeja,Agege,44.2881505,119.962429,Sunny,0,Night
+ebd14d2c-75b2-4455-84cc-3ede6fac1673,2023-08-02 05:01:44,Wednesday,Robbery,Ojota,Ifako-Ijaiye,16.587980,-157.289146,Rainy,0,Morning
+b5a1b949-6788-4209-92ca-525a6de59332,2023-08-06 16:54:31,Sunday,Assault,Agege,Ifako-Ijaiye,-5.963428,129.108346,Sunny,0,Afternoon
+f758dce2-0556-4aea-a7b0-32831d7c0098,2024-10-16 10:33:00,Wednesday,Kidnapping,Surulere,Kosofe,22.123868,-24.567706,Stormy,0,Morning
+eb7607c9-b08a-4895-94ff-a66675c8e90d,2024-02-14 11:33:43,Wednesday,Kidnapping,Victoria Island,Agege,-43.8631445,151.853473,Rainy,0,Morning
+6f887f28-3e49-4d09-9b19-d8b8d8302081,2024-03-14 06:52:03,Thursday,Murder,Epe,Agege,-66.342815,54.457851,Cloudy,0,Morning
+4f6e274b-deda-4027-a550-f74a1422373f,2024-09-06 14:48:03,Friday,Assault,Yaba,Epe,17.494928,101.300250,Clear,0,Afternoon
+138d994c-2b0a-4edd-8774-44cb5543fc3c,2025-01-06 12:15:14,Monday,Kidnapping,Surulere,Ikorodu,1.137403,-61.044407,Stormy,0,Afternoon
+e7ea8d5a-31a3-4c4d-828c-37e787d5b7be,2024-07-07 17:32:33,Sunday,Kidnapping,Yaba,Ikorodu,79.979952,-118.782414,Clear,0,Evening
+a53bc024-d1a6-4d87-b54e-2019ba35844e,2025-01-30 03:23:14,Thursday,Kidnapping,Victoria Island,Eti-Osa,3.7847095,8.495233,Sunny,0,Morning
+328067a1-4187-422b-a57d-5e521a5165ca,2025-03-01 06:50:07,Saturday,Robbery,Agege,Ikorodu,-50.354812,-53.154128,Cloudy,0,Morning
+134a5a2f-a7cf-405c-8257-cf73c29d782b,2023-10-19 23:42:02,Thursday,Fraud,Surulere,Epe,71.7052465,-97.928659,Clear,0,Night
+c2874f06-9050-47ef-8123-5c9176c5a0dc,2023-10-22 19:41:15,Sunday,Assault,Victoria Island,Ifako-Ijaiye,78.563715,85.277059,Stormy,0,Evening
+9fe0a8c7-fc8d-4b93-a2a2-e91fa49b1cd9,2024-08-30 07:30:45,Friday,Theft,Yaba,Epe,30.502087,123.059219,Cloudy,1,Morning
+780b3657-117b-455b-b094-4bdb26a524e3,2024-02-13 06:28:57,Tuesday,Robbery,Ikorodu,Eti-Osa,78.367390,-10.274222,Rainy,0,Morning
+0e614bcd-9767-4900-8651-0367cbdc4318,2024-05-15 16:48:00,Wednesday,Robbery,Ikeja,Agege,79.486152,-17.424518,Sunny,0,Afternoon
+09a0a0f6-73b0-4091-b634-c1694f76e388,2024-03-06 14:07:22,Wednesday,Assault,Yaba,Surulere,46.1872085,-140.169193,Stormy,0,Afternoon
+fa34d2e8-dd3f-4d7e-a508-dc9513a4a492,2023-07-21 09:57:06,Friday,Theft,Ikorodu,Epe,8.982245,-25.876691,Cloudy,0,Morning
+7674456f-626d-419d-81cf-325298159d6c,2025-04-01 13:16:06,Tuesday,Theft,Victoria Island,Ikorodu,-65.7612165,150.180112,Stormy,0,Afternoon
+925817b7-cf50-4889-a8b7-7f7b7321bf6b,2024-08-30 23:34:07,Friday,Murder,Lekki,Ikorodu,58.7981665,-157.976099,Clear,0,Night
+269ed4c9-8059-4b93-b9c2-d2e49ae1a991,2024-10-25 12:34:31,Friday,Robbery,Epe,Ikorodu,-39.469853,-7.381633,Cloudy,0,Afternoon
+57eb89b1-d65e-49dd-a62d-2d06cf9b8558,2023-07-25 06:51:13,Tuesday,Burglary,Ajah,Surulere,30.9363775,-124.432853,Sunny,1,Morning
+3f6c21f7-0a05-47f0-ac2c-d22ba56895c6,2024-12-13 01:15:05,Friday,Theft,Surulere,Ifako-Ijaiye,-67.363072,90.877683,Clear,0,Morning
+28a39779-9c1c-4517-85d2-d0a686295b5d,2024-12-07 20:28:08,Saturday,Burglary,Ajah,Ifako-Ijaiye,27.509841,55.912778,Clear,0,Night
+569f3ab3-c643-4300-a8a5-1c68632dbb5e,2024-03-15 20:59:38,Friday,Murder,Agege,Surulere,10.0866915,-28.122665,Clear,0,Night
+55ab946d-a5b5-4dc2-a181-c85eca0ac6ac,2024-11-15 13:00:54,Friday,Theft,Epe,Eti-Osa,70.4937655,-151.886479,Rainy,0,Afternoon
+48bddb3e-62f5-4f2b-adaa-44ca8ed6ad5e,2023-07-28 10:07:49,Friday,Murder,Ojota,Ikeja,-1.4993105,-129.262508,Clear,0,Morning
+14dd5061-5557-46f8-a67e-ddcedf8f4197,2023-12-19 22:59:10,Tuesday,Murder,Ajah,Surulere,86.245078,143.572534,Rainy,0,Night
+f7baf55e-4f6b-48c8-998d-daeceaafe543,2024-09-01 20:29:46,Sunday,Murder,Ojota,Surulere,88.1370185,-104.071217,Clear,0,Night
+f020e992-b576-455e-9854-9f222102f9c9,2024-10-28 19:11:26,Monday,Assault,Victoria Island,Surulere,87.7405535,30.430840,Stormy,0,Evening
+54170a17-caaa-4bbe-a4bb-f962606e0e1c,2023-08-12 00:43:16,Saturday,Murder,Surulere,Ifako-Ijaiye,-6.8972455,120.069001,Rainy,0,Morning
+bd20563b-f275-45f3-9436-a7a8b3ecb951,2025-02-27 20:18:27,Thursday,Murder,Ojota,Ikeja,-55.695624,179.766002,Cloudy,0,Night
+822c4d32-6c64-4c15-aba3-01cba561e1e9,2024-11-20 14:29:44,Wednesday,Kidnapping,Lekki,Kosofe,51.3026365,-129.827821,Stormy,1,Afternoon
+36d55494-f37f-450d-ae25-b5ee4f11d8dc,2024-03-14 06:24:32,Thursday,Assault,Lekki,Eti-Osa,-85.106277,14.668141,Clear,0,Morning
+27aa7cbc-2337-4bbc-bffe-77c839feb99c,2024-02-27 15:47:49,Tuesday,Fraud,Ikeja,Ifako-Ijaiye,40.5323565,-76.917975,Rainy,0,Afternoon
+d5ca69ab-8a2e-4a93-8558-0bb281f7f3fb,2023-08-06 03:54:21,Sunday,Kidnapping,Ajah,Ikeja,-10.5989135,-125.700467,Rainy,0,Morning
+c42cbc39-e05b-46c5-9636-3094a97431db,2024-12-31 22:45:59,Tuesday,Fraud,Ikeja,Kosofe,51.339759,-159.734472,Sunny,0,Night
+2e4bebc4-2989-4880-a77d-1be96070b6a1,2024-09-29 06:23:09,Sunday,Burglary,Yaba,Eti-Osa,-54.8217905,140.644243,Sunny,0,Morning
+692e07b6-0b2f-4d5c-b00b-5d5fb89f72f3,2025-03-13 22:50:22,Thursday,Fraud,Ajah,Eti-Osa,77.7024955,-91.126838,Sunny,0,Night
+bfa016c2-c09c-4506-88f1-096d9c4ffb46,2024-03-16 04:28:39,Saturday,Kidnapping,Surulere,Ikeja,-26.2384735,58.477365,Stormy,0,Morning
+f7315749-4f39-49a8-bd3a-258288b4f474,2025-02-05 00:32:31,Wednesday,Burglary,Epe,Ikeja,30.5081825,-54.370626,Clear,0,Morning
+92070158-f277-4f63-ada5-84175e2ad32d,2025-02-24 07:17:09,Monday,Burglary,Ikorodu,Ikorodu,35.900416,-75.838358,Clear,0,Morning
+87079ad4-80be-4e35-a1c2-645ac7332304,2024-05-14 10:46:31,Tuesday,Kidnapping,Epe,Eti-Osa,33.931274,-28.724956,Clear,0,Morning
+df7d0dd7-236e-4608-9acb-394acd1f5318,2024-04-27 09:50:52,Saturday,Assault,Ojota,Kosofe,-46.4978405,-72.788097,Clear,0,Morning
+8df661da-5f07-41a5-9fc6-20ce7b07fd31,2023-12-18 09:50:31,Monday,Fraud,Agege,Ifako-Ijaiye,-75.9930915,164.230372,Sunny,0,Morning
+1578d709-48f9-43d0-9fea-e1e0d9e604b3,2025-06-01 21:56:19,Sunday,Fraud,Victoria Island,Agege,-62.461280,96.976742,Sunny,0,Night
+25b8a42f-836b-45c7-a7c2-25da73069588,2025-01-19 22:58:23,Sunday,Murder,Ojota,Ikorodu,-46.9664845,-33.546287,Clear,0,Night
+d11376e0-38d7-4b9a-a916-da57f24823ab,2025-03-13 17:16:41,Thursday,Burglary,Yaba,Surulere,27.433147,-130.761653,Sunny,0,Evening
+808389c8-657e-41c9-8da2-3e5c6a36af18,2024-05-22 15:04:46,Wednesday,Murder,Surulere,Ikorodu,3.841028,-165.681550,Cloudy,0,Afternoon
+397b5f51-5ffa-46ef-94e4-180cfe9936a3,2024-03-23 16:35:30,Saturday,Theft,Epe,Ikorodu,-26.708806,27.321354,Sunny,0,Afternoon
+55d596af-a663-42cd-b6f6-dbf1d6d441cc,2023-06-29 02:53:54,Thursday,Kidnapping,Yaba,Ifako-Ijaiye,-4.453682,-126.805153,Sunny,0,Morning
+d46b415d-eada-49a3-8970-ed9a09ce3cfb,2025-02-10 21:50:55,Monday,Theft,Agege,Ifako-Ijaiye,-50.795188,-106.126781,Rainy,0,Night
+e7e646c7-0158-4463-9d87-76a072d78bdd,2024-06-08 04:38:33,Saturday,Murder,Epe,Eti-Osa,-52.743121,71.851583,Clear,0,Morning
+8c7e6f42-2646-4af9-95c0-244d3735262d,2023-08-07 18:19:11,Monday,Robbery,Yaba,Eti-Osa,-84.898683,-42.601888,Sunny,0,Evening
+49c10669-c6b3-4fe6-9c76-bdf66c5a6c93,2025-06-06 12:31:35,Friday,Robbery,Ajah,Kosofe,73.445007,103.345168,Stormy,0,Afternoon
+a3925731-6b79-4fcc-bd0a-5f0c0c394ec7,2023-12-08 19:22:45,Friday,Burglary,Ojota,Ifako-Ijaiye,-9.1603405,-114.583168,Clear,0,Evening
+e7b7b4c6-d631-4a80-9c61-2ec210142131,2025-02-12 20:47:47,Wednesday,Kidnapping,Ajah,Ikorodu,77.1844385,65.411006,Clear,0,Night
+93364f7e-83ef-49f3-a1c7-cc8a04351b64,2024-06-29 10:56:11,Saturday,Robbery,Ojota,Agege,70.1859165,107.791686,Cloudy,0,Morning
+5a5226e6-9d64-4932-8066-853d6de299a1,2023-12-12 03:29:53,Tuesday,Theft,Ojota,Surulere,-51.4588845,-23.624543,Rainy,0,Morning
+15eacbcf-ab10-41ce-aa14-3cd82ff3cde4,2023-12-11 01:53:12,Monday,Kidnapping,Epe,Surulere,63.186375,43.643027,Clear,0,Morning
+81e03a5e-8b48-4496-86ab-d4e7f4124360,2024-07-17 19:54:13,Wednesday,Murder,Victoria Island,Ifako-Ijaiye,6.798834,-143.664941,Clear,0,Evening
+785ac5d0-df92-4621-a3f4-c69d0534a101,2025-02-07 01:13:58,Friday,Murder,Agege,Surulere,46.263901,117.508067,Sunny,0,Morning
+bf5023f4-40ef-4935-9f90-bed6fb25664d,2023-07-11 00:59:05,Tuesday,Theft,Victoria Island,Ikeja,80.6365785,27.705324,Stormy,0,Morning
+a837fe68-bba2-45ca-bdba-6da85844f9fc,2023-06-19 20:13:17,Monday,Kidnapping,Agege,Ikeja,5.856656,-143.729240,Rainy,0,Night
+2227219f-551f-4086-81b5-b5cabc3536df,2024-10-07 05:00:11,Monday,Robbery,Agege,Ifako-Ijaiye,-62.1729425,132.406967,Cloudy,0,Morning
+2cd2a404-a48e-40f1-9042-1dfa56ab087a,2023-07-11 15:55:17,Tuesday,Theft,Lekki,Kosofe,4.5695545,113.138896,Stormy,0,Afternoon
+2285b2ef-cfbe-4fe9-aea9-c542a1b970d0,2025-03-13 04:55:03,Thursday,Theft,Ikorodu,Eti-Osa,34.7212585,76.909467,Rainy,1,Morning
+ca862225-0b36-4356-b39b-77a84b1f0d7b,2023-07-26 05:43:25,Wednesday,Assault,Ikeja,Eti-Osa,32.857426,-160.144478,Stormy,0,Morning
+65f202f9-83f0-4dc7-8f61-2217eef16694,2023-11-09 03:49:53,Thursday,Kidnapping,Ikorodu,Ikorodu,-78.7509595,-10.565787,Sunny,0,Morning
+a59b457f-c0d7-4c73-895f-fa8140d92bce,2025-03-01 13:42:55,Saturday,Theft,Lekki,Ifako-Ijaiye,55.7686925,74.154564,Cloudy,0,Afternoon
+dda4f4a7-0c3c-4284-87e5-3bbbdcb51c53,2023-11-02 15:52:14,Thursday,Assault,Ajah,Eti-Osa,-13.1976915,11.649051,Clear,0,Afternoon
+6fdc0bad-5e36-4127-8ca1-b45c1fdd980a,2024-10-28 13:09:47,Monday,Kidnapping,Lekki,Ikeja,-0.8996455,-33.317949,Clear,0,Afternoon
+56cb1ab0-62fb-46d7-b4db-ca07e506f670,2025-04-28 02:40:29,Monday,Fraud,Epe,Ikorodu,17.3800275,56.081807,Sunny,1,Morning
+84ef4324-cc1b-4157-ac9f-9c545e0a72ab,2023-10-30 07:58:11,Monday,Assault,Epe,Ikorodu,43.1985395,87.105836,Cloudy,0,Morning
+febec0db-9a3a-4103-ae3c-453214348f62,2023-12-31 09:28:42,Sunday,Burglary,Victoria Island,Eti-Osa,-67.8241425,47.901521,Cloudy,1,Morning
+147f6570-1a43-4b54-923a-e9934b3446bc,2025-03-06 22:59:49,Thursday,Burglary,Yaba,Agege,-41.559082,112.849337,Stormy,1,Night
+b7b8c1a5-9a45-493d-b227-890e4e76833a,2024-02-16 22:18:52,Friday,Assault,Victoria Island,Agege,87.414153,-21.279509,Clear,0,Night
+ba108217-0ad7-49a2-b277-16ec59fefbbc,2024-05-03 04:49:25,Friday,Assault,Ikorodu,Ikeja,-45.266636,58.321498,Clear,0,Morning
+a3b442bd-4649-4296-af58-42c3ff86cc31,2025-04-13 00:06:46,Sunday,Murder,Agege,Surulere,4.639419,150.095874,Rainy,0,Morning
+5d01f55f-67fd-44c4-a334-058aabd2b512,2025-02-10 23:39:37,Monday,Robbery,Agege,Agege,-74.603061,-139.712581,Cloudy,0,Night
+ad973b67-9b89-45cb-9942-644c248d31ec,2024-07-09 18:03:39,Tuesday,Assault,Ikeja,Epe,-47.0538915,-163.281506,Sunny,0,Evening
+c74cc890-3c6a-4174-9136-34a520509c62,2025-02-03 02:09:18,Monday,Theft,Lekki,Ikorodu,27.621122,-161.317446,Stormy,0,Morning
+084a6780-9136-41f8-b310-46dc6202bee6,2024-10-20 08:09:07,Sunday,Burglary,Surulere,Ifako-Ijaiye,8.335550,14.428115,Clear,0,Morning
+71a6014c-5f3c-44dc-9ef7-87b8f2e6195f,2024-09-19 05:13:46,Thursday,Burglary,Ikeja,Ikorodu,-48.8117565,61.550338,Clear,0,Morning
+65e58f34-5df0-4e8c-878a-aed9233ffc82,2025-01-19 22:22:12,Sunday,Burglary,Yaba,Ifako-Ijaiye,-69.361225,128.121909,Stormy,0,Night
+06a241af-1d0a-47f7-b5e4-a4713fe68c9c,2024-02-06 10:00:49,Tuesday,Kidnapping,Ojota,Ikorodu,84.3651335,-30.379569,Sunny,0,Morning
+8fc9c86b-e9dd-4bf5-a311-9aca848af440,2024-12-29 15:25:04,Sunday,Kidnapping,Yaba,Ikorodu,-40.058108,87.922187,Clear,0,Afternoon
+ff11c8ba-36ee-4640-b23e-f466b43bd27f,2023-09-06 16:40:06,Wednesday,Robbery,Lekki,Epe,-19.729860,-40.257996,Cloudy,0,Afternoon
+da52d2ee-22bf-48f5-9f65-2a87333ee344,2024-09-24 11:39:42,Tuesday,Burglary,Ikorodu,Eti-Osa,-13.3410415,83.711096,Rainy,0,Morning
+ff4c96d6-71f2-4e8f-b69f-68c3e60fd420,2023-08-03 17:52:28,Thursday,Robbery,Ojota,Ikorodu,31.3442855,-87.305823,Stormy,0,Evening
+8ccc9cea-109f-48ee-b5a4-720058f0dd23,2023-08-14 09:58:56,Monday,Assault,Ikorodu,Agege,-4.2113115,178.543756,Cloudy,0,Morning
+b5a5f8e6-b639-4f04-a852-4385d9f2dd0d,2024-08-01 08:15:04,Thursday,Fraud,Ajah,Kosofe,-12.056470,-18.961986,Clear,0,Morning
+3967e60a-823d-4107-9c8a-c066cb2fafa3,2025-05-27 12:01:30,Tuesday,Kidnapping,Yaba,Surulere,81.1812965,-86.535601,Cloudy,0,Afternoon
+06ba8cd3-7e78-48c9-8a55-e38b3c9abe10,2023-09-09 11:48:16,Saturday,Assault,Lekki,Surulere,-36.0497435,-105.441048,Clear,0,Morning
+fba6abf7-cdbc-4653-b7a7-e8b75e70f65f,2024-03-13 13:02:35,Wednesday,Fraud,Agege,Surulere,58.7189975,127.239093,Rainy,0,Afternoon
+4f2dad3f-10d4-4e39-9612-37c9e25df9a8,2024-08-08 16:53:19,Thursday,Murder,Lekki,Eti-Osa,-55.164802,148.537272,Rainy,0,Afternoon
+d2c65ee4-68d0-42a8-84e7-f7dd6929de73,2024-04-11 11:41:03,Thursday,Murder,Epe,Epe,38.4906865,102.230707,Stormy,0,Morning
+12fc7a87-a470-4d48-9128-b9b1f8ede0ca,2024-08-26 18:22:00,Monday,Theft,Ojota,Epe,-70.202694,-112.715698,Stormy,0,Evening
+d43cdd6d-e0c1-4f1e-a0da-897258321ee4,2024-05-21 17:34:37,Tuesday,Assault,Ojota,Ifako-Ijaiye,35.046147,97.755542,Cloudy,1,Evening
+f75d1e3c-c48d-4650-ae95-22d696792482,2025-02-02 06:35:58,Sunday,Burglary,Epe,Eti-Osa,57.989390,163.486748,Sunny,0,Morning
+d4d60735-0e2f-4958-9e43-1e06e9247069,2023-09-15 10:47:35,Friday,Robbery,Agege,Agege,26.1300865,89.972938,Stormy,0,Morning
+5299e505-2976-4ab2-aa26-f7704ddb1b36,2023-09-11 15:58:31,Monday,Burglary,Ajah,Eti-Osa,49.0769825,-97.850447,Cloudy,0,Afternoon
+e519dd7e-84d6-4c4f-b0df-1684f28e4122,2025-06-02 06:13:14,Monday,Kidnapping,Epe,Ikeja,-29.475781,5.769726,Clear,0,Morning
+8d03f17a-f4d3-45c1-a293-19fa3240d7a1,2024-01-13 20:29:19,Saturday,Fraud,Agege,Eti-Osa,-68.8312055,-45.457297,Clear,1,Night
+17eaec83-8892-442f-9d4b-2bf94d85e9c7,2024-01-06 09:34:57,Saturday,Fraud,Ojota,Ikorodu,-56.399856,155.556324,Sunny,0,Morning
+27794685-94a5-4fde-b10d-27c89780c215,2024-07-01 14:05:12,Monday,Murder,Victoria Island,Ikeja,82.063753,-89.464291,Sunny,0,Afternoon
+566e3cbe-9aea-422f-a6e9-87cab87b6384,2023-10-18 04:51:19,Wednesday,Fraud,Ojota,Surulere,86.8272585,155.264709,Cloudy,0,Morning
+14cb0564-0743-4c3b-9d20-c3bfd342af08,2025-03-22 15:20:31,Saturday,Burglary,Epe,Kosofe,61.295064,-157.883978,Clear,0,Afternoon
+c4576cc3-35f7-49bc-a6b0-745843c07d43,2023-07-12 12:54:49,Wednesday,Fraud,Yaba,Ifako-Ijaiye,82.1889245,129.651698,Clear,0,Afternoon
+e3954cb1-7f7f-4c0a-87c0-d116a394ed54,2024-08-24 14:51:17,Saturday,Theft,Lekki,Ikeja,21.8266625,151.844433,Rainy,1,Afternoon
+7ba24588-4d56-4a3d-b4e7-069aa4540937,2024-10-06 08:37:44,Sunday,Fraud,Epe,Epe,56.452340,-24.483714,Stormy,0,Morning
+0f5675f8-b048-4aa1-92ae-5c22741b77f5,2023-12-14 10:17:58,Thursday,Kidnapping,Ojota,Kosofe,19.009632,-20.316406,Cloudy,0,Morning
+5716dc2e-343a-4a2a-b6e5-ae787bf7e1d3,2023-10-08 00:16:39,Sunday,Murder,Agege,Ikorodu,28.0057025,43.135225,Sunny,0,Morning
+bbf483ce-51be-480e-b7e6-a14cdc8a4922,2024-09-20 10:24:41,Friday,Robbery,Ajah,Ikeja,-51.434230,-12.183551,Cloudy,0,Morning
+83d5bceb-5edb-48ee-82ba-f0e02179e3f0,2025-04-05 19:29:51,Saturday,Theft,Ajah,Eti-Osa,2.7097025,34.059350,Stormy,0,Evening
+44790612-1f5d-488f-b76a-bf093de28859,2024-08-16 11:22:55,Friday,Theft,Ikorodu,Agege,-61.4964665,-8.675961,Cloudy,0,Morning
+f204be89-4a4b-4563-8cf4-77ef18c8a616,2024-05-21 10:31:17,Tuesday,Robbery,Ojota,Kosofe,-23.4497815,-104.366893,Cloudy,1,Morning
+e6fdd7af-dd84-4acc-b672-94643f8ea40a,2024-03-31 14:30:58,Sunday,Kidnapping,Ojota,Kosofe,75.189124,44.484380,Cloudy,0,Afternoon
+c35bec2c-3098-47b2-900e-15c0b89bdf7f,2023-10-09 06:27:42,Monday,Theft,Ikorodu,Kosofe,-2.1046175,130.143366,Stormy,0,Morning
+4efc8248-e10b-4a47-bfae-b7487781321e,2023-10-08 23:48:08,Sunday,Burglary,Yaba,Agege,43.752136,96.340793,Stormy,1,Night
+750d112e-8164-4eec-a4ab-851bf1fac6e7,2024-06-27 13:05:54,Thursday,Robbery,Ajah,Kosofe,-83.778659,-131.655264,Stormy,1,Afternoon
+4806f804-0cf0-474c-8c74-dc0f5a575539,2023-12-11 04:57:05,Monday,Kidnapping,Ikorodu,Ifako-Ijaiye,-32.247610,133.180485,Clear,0,Morning
+896490ab-4926-4e5f-b878-6140ac2a4f71,2024-06-25 14:56:27,Tuesday,Kidnapping,Agege,Kosofe,70.3952235,171.253182,Rainy,0,Afternoon
+ba3df7ff-43b4-4ee5-a1e8-9e7e22498f66,2023-06-13 13:52:56,Tuesday,Assault,Epe,Surulere,-61.143972,51.352585,Rainy,0,Afternoon
+91fdfa4f-0d18-4b95-a68c-84770b95017c,2024-03-17 08:02:01,Sunday,Murder,Lekki,Eti-Osa,18.2476915,16.461120,Cloudy,0,Morning
+62e7c1a6-12d2-4a06-89e1-cd138da00495,2024-08-16 14:28:11,Friday,Murder,Yaba,Ikeja,-37.7476155,14.628469,Cloudy,0,Afternoon
+9f8cc29f-fd35-4c5f-9347-9a3b479bc637,2024-07-02 21:26:55,Tuesday,Burglary,Ojota,Kosofe,30.891082,115.202279,Stormy,0,Night
+64d6dfbf-18c0-4e2b-b99f-070420f0156a,2024-11-16 16:59:39,Saturday,Murder,Lekki,Kosofe,74.025645,-116.213819,Rainy,0,Afternoon
+24eeb4a6-c145-45c7-9d98-6115f05eeefe,2024-03-23 02:21:56,Saturday,Robbery,Ojota,Kosofe,1.022516,119.483685,Sunny,0,Morning
+0b990034-0a4e-4552-8005-1b1066c14dca,2023-11-08 20:09:08,Wednesday,Burglary,Ikorodu,Ifako-Ijaiye,71.7224175,93.333068,Rainy,0,Night
+74fd33d1-84f2-4d0f-b947-4bfacdd0b4d4,2023-07-07 10:51:12,Friday,Assault,Ojota,Agege,-53.2145795,-1.200133,Sunny,0,Morning
+9cf20859-ee6e-4e72-93f5-91dc23c8afdb,2023-09-30 21:53:58,Saturday,Murder,Victoria Island,Surulere,72.741818,96.760034,Cloudy,0,Night
+d7b4c294-bd44-489d-9dd2-f9defd98fe33,2024-02-09 15:16:28,Friday,Theft,Epe,Surulere,-46.3786895,30.965885,Cloudy,0,Afternoon
+88476c56-827c-4f8c-940a-c5e981df6517,2024-01-25 15:34:36,Thursday,Murder,Ojota,Epe,69.376748,0.589122,Sunny,0,Afternoon
+5e4cb287-0442-41db-90d4-ea6779928faa,2024-06-21 16:50:52,Friday,Fraud,Agege,Ikorodu,61.1088305,-19.051165,Stormy,0,Afternoon
+e61599c8-cbf8-4f86-8ec3-f970956d80e4,2024-02-19 12:11:52,Monday,Murder,Ikorodu,Kosofe,-60.5782425,43.628354,Rainy,0,Afternoon
+f791f1e5-43f9-4d6b-b97e-be8798cf1188,2024-12-21 14:28:03,Saturday,Robbery,Ojota,Kosofe,78.9158255,-165.693918,Cloudy,0,Afternoon
+9561c813-0d25-4caa-b8ad-ad873a4045dd,2024-10-28 10:32:45,Monday,Robbery,Epe,Ifako-Ijaiye,65.2830215,130.115104,Stormy,0,Morning
+c64c9647-9ea7-417c-b89f-7039a107cc46,2024-06-14 09:39:32,Friday,Robbery,Victoria Island,Eti-Osa,-44.228517,101.445091,Cloudy,0,Morning
+08150147-3e00-480e-ae44-1e21d25864f2,2025-03-21 13:56:10,Friday,Fraud,Lekki,Agege,12.056566,-100.663521,Sunny,0,Afternoon
+6b352f85-504e-4687-b0e7-e75604d9145e,2024-08-24 22:55:40,Saturday,Assault,Lekki,Ikorodu,-60.5001455,-77.573442,Clear,0,Night
+9c89d374-c664-45a7-8077-3e33690e7e62,2023-10-02 20:19:39,Monday,Burglary,Epe,Ifako-Ijaiye,20.8531355,-70.536488,Clear,0,Night
+35145890-84c8-4c46-a359-5fa4b4adaf89,2025-05-22 05:11:55,Thursday,Kidnapping,Ikeja,Ikorodu,36.595626,-146.562989,Stormy,0,Morning
+50521700-6077-46a3-8685-abaa7a768555,2024-08-15 21:07:54,Thursday,Kidnapping,Surulere,Ikorodu,-2.7451805,175.530307,Clear,0,Night
+ad05b912-5ab2-4d4a-8bd8-8fcd57a2be4e,2023-10-19 17:47:55,Thursday,Robbery,Surulere,Ikeja,33.3899885,106.220412,Cloudy,0,Evening
+f5141058-3138-4975-bbf3-3a349c2dfa97,2025-01-26 20:22:37,Sunday,Robbery,Ajah,Kosofe,82.6869715,-38.071636,Rainy,0,Night
+f910abb3-f105-4252-b990-e2c94c6a70f4,2023-12-15 16:53:39,Friday,Murder,Agege,Epe,-15.1047915,119.620489,Rainy,0,Afternoon
+5129950d-7d2f-4e58-b47a-1c5bb0b39015,2024-01-24 09:22:55,Wednesday,Robbery,Epe,Epe,-12.4210425,-68.718582,Stormy,0,Morning
+b8beff3d-cb9f-4f6d-af3a-6f27ef06fccb,2024-06-13 21:37:42,Thursday,Assault,Yaba,Ikeja,3.6311395,120.909483,Cloudy,0,Night
+6133a34d-8b0e-4eb1-ad37-1d9e92cf6021,2024-01-05 15:03:44,Friday,Murder,Lekki,Ikorodu,-12.747128,-114.569339,Clear,1,Afternoon
+257f7595-cdfb-4db9-85e7-8b23f4613f09,2025-05-02 23:37:46,Friday,Robbery,Agege,Surulere,15.906498,5.292767,Cloudy,0,Night
+58ab4778-143b-45e3-b6d1-f6bbf48f709c,2024-01-18 19:52:27,Thursday,Theft,Ikeja,Surulere,-78.707864,-25.579640,Sunny,0,Evening
+36c7d6fa-7aa4-4052-bf51-936241a64fed,2025-05-24 22:13:56,Saturday,Robbery,Ojota,Epe,28.7494325,172.172315,Clear,0,Night
+4588fc1b-b238-4849-8fe0-69b6eedaa802,2023-11-11 04:15:54,Saturday,Fraud,Epe,Ikeja,54.573410,-34.436732,Stormy,1,Morning
+3e11bafe-3d41-46fe-963a-8617bdab07e7,2023-09-21 20:23:52,Thursday,Burglary,Surulere,Kosofe,-60.679713,150.539089,Cloudy,1,Night
+0d700ea4-3b9b-4d45-a350-55e439c59df9,2023-07-16 15:46:50,Sunday,Fraud,Ikeja,Ifako-Ijaiye,89.8071855,105.100730,Rainy,0,Afternoon
+ae62990c-19bd-4f93-b8ef-7666b7a4c719,2023-08-24 01:16:11,Thursday,Fraud,Ikorodu,Kosofe,20.9447405,-2.674963,Clear,0,Morning
+edd97a1a-fa58-4b27-8ce3-e7c3f6eab3a0,2025-01-25 21:33:54,Saturday,Fraud,Ajah,Eti-Osa,-53.0989735,-177.218236,Stormy,0,Night
+79c773a0-e0de-4c3d-a172-1c83ef5e4376,2023-10-07 21:40:46,Saturday,Murder,Victoria Island,Ikeja,19.2283875,170.519150,Sunny,0,Night
+52380bf2-4988-4418-b6c3-1218c1836315,2024-06-12 01:43:47,Wednesday,Kidnapping,Epe,Ikeja,84.627650,-72.917892,Sunny,0,Morning
+a6fd0cb1-16e6-45c0-84cb-294fe86e8e63,2024-01-14 21:58:19,Sunday,Murder,Agege,Ikeja,83.381902,-148.237329,Cloudy,0,Night
+efc9909e-d9af-4e09-b91e-3d6ebd1a8f4b,2024-08-26 04:03:57,Monday,Theft,Yaba,Ifako-Ijaiye,-27.6638655,107.307688,Rainy,1,Morning
+ef158d5b-2d00-4d05-966d-4627e1dace6a,2023-07-06 04:44:02,Thursday,Robbery,Yaba,Ifako-Ijaiye,-43.0064065,44.350289,Rainy,0,Morning
+efc59738-2fb2-4e66-bed1-7aabc9b7c9bc,2025-05-21 12:40:47,Wednesday,Murder,Ajah,Ifako-Ijaiye,-80.2450975,33.134837,Rainy,0,Afternoon
+9a4ffc0c-9165-42ed-8c63-6e95025f5543,2025-01-08 23:52:33,Wednesday,Murder,Epe,Epe,-12.296801,-159.885497,Rainy,0,Night
+8b15bd94-a42d-4cd7-bd35-9f6a74503887,2023-08-29 13:40:27,Tuesday,Robbery,Lekki,Eti-Osa,-0.0628165,-27.227128,Sunny,0,Afternoon
+45d8a6ad-77d0-459e-8114-14f8d9df0d0e,2024-07-18 11:27:01,Thursday,Murder,Agege,Surulere,42.583605,-107.951955,Clear,0,Morning
+a5f60735-757b-4b29-bb2a-a1462999394c,2023-11-03 23:42:33,Friday,Kidnapping,Surulere,Ikeja,-59.7616155,-2.465325,Cloudy,0,Night
+4b86b5a1-ca6f-4ff8-964c-fbd2bc92fd81,2023-12-24 01:12:33,Sunday,Burglary,Victoria Island,Ikorodu,-40.0175675,-172.438607,Stormy,0,Morning
+e5a4983b-a383-489a-9b2c-6ac89c678393,2024-08-21 05:39:12,Wednesday,Kidnapping,Agege,Ikeja,-38.148661,-85.781887,Rainy,0,Morning
+ab545a15-669d-41ff-9634-725b53f30073,2024-04-17 04:19:58,Wednesday,Kidnapping,Ajah,Ikeja,24.810717,96.639198,Cloudy,0,Morning
+3f800385-ef92-40b6-92d7-8f107a3a6e96,2023-08-20 07:33:06,Sunday,Burglary,Yaba,Ifako-Ijaiye,-40.3981745,-104.509574,Sunny,0,Morning
+4459bd6e-c0f6-4229-b25d-42593c4b1eec,2023-06-12 12:46:01,Monday,Assault,Epe,Ikorodu,-19.9959855,25.929934,Cloudy,1,Afternoon
+42f525b9-02ed-43ce-92a8-1713b90ed44b,2024-02-18 06:06:19,Sunday,Murder,Epe,Epe,-8.947032,132.706234,Cloudy,0,Morning
+77242041-1e43-4bd2-aaf4-07f70fe76149,2024-10-26 22:59:08,Saturday,Theft,Victoria Island,Agege,6.516529,-53.136019,Clear,0,Night
+e5267a2b-ec50-4ce4-80a5-2e65afa28559,2024-01-31 12:43:45,Wednesday,Fraud,Ikorodu,Eti-Osa,-47.126341,37.656384,Sunny,0,Afternoon
+4b87959f-f0cd-4f05-aa87-855ea38295d3,2025-04-26 19:15:44,Saturday,Robbery,Lekki,Agege,-6.522494,-116.962904,Cloudy,0,Evening
+7a6a2107-2231-4050-b515-94943818cfd3,2024-03-18 16:57:33,Monday,Kidnapping,Yaba,Ifako-Ijaiye,74.9872625,-61.432467,Cloudy,1,Afternoon
+8c9aa1e9-b3b2-4337-aa74-dbb75fa5e0aa,2023-10-04 05:01:49,Wednesday,Theft,Epe,Ikorodu,32.132406,145.203622,Rainy,0,Morning
+37e9d2e2-d35a-407a-aa02-17d0cd4f8b2b,2025-05-16 05:12:42,Friday,Robbery,Epe,Ifako-Ijaiye,36.3869495,108.577610,Sunny,1,Morning
+86879aa9-14f5-43d0-8991-2032df85c777,2025-01-18 23:32:13,Saturday,Theft,Ajah,Ikorodu,-23.571505,139.875455,Cloudy,0,Night
+1cb9b73a-906d-4c8c-aad0-8c8913fe8a29,2024-05-19 05:25:49,Sunday,Kidnapping,Ikeja,Eti-Osa,51.780392,14.231772,Sunny,0,Morning
+265cb9d9-8962-4f6e-929c-93b333c08bf1,2023-07-25 04:41:52,Tuesday,Assault,Victoria Island,Kosofe,57.008475,91.381299,Clear,0,Morning
+3495311e-ae27-4432-9dc1-e7eb711c7673,2023-10-13 00:38:21,Friday,Assault,Ojota,Epe,-1.921594,99.356237,Clear,1,Morning
+720b274b-82a7-4586-a61d-9cde1747f387,2024-12-15 01:45:50,Sunday,Kidnapping,Yaba,Surulere,66.537512,82.437519,Cloudy,0,Morning
+74f0beae-6a59-43ce-8364-35e321c71aa3,2025-02-24 08:33:27,Monday,Assault,Ikorodu,Ikeja,-75.065377,63.434614,Stormy,0,Morning
+4ee4334e-ce92-4136-ac3a-812f765e6cb5,2024-08-18 05:30:39,Sunday,Burglary,Epe,Ifako-Ijaiye,-74.501402,120.001960,Cloudy,1,Morning
+beed0af9-00c5-4f30-9103-142441241bb4,2024-12-20 00:21:44,Friday,Kidnapping,Yaba,Kosofe,-84.156038,32.573345,Stormy,0,Morning
+b34c6c73-5833-4b30-ac77-6e950b981ccd,2023-11-23 11:25:09,Thursday,Assault,Ikorodu,Ifako-Ijaiye,65.239248,-140.792571,Cloudy,0,Morning
+fc737d92-11ab-4d11-a4eb-8000ef40d162,2023-07-26 18:00:55,Wednesday,Burglary,Yaba,Ikeja,55.267471,-147.650505,Rainy,0,Evening
+c4db5a62-2e13-418d-a8ab-80ea497ec6d1,2025-06-01 12:16:57,Sunday,Robbery,Victoria Island,Ikorodu,36.7206485,-162.962469,Stormy,0,Afternoon
+fe2bd987-5fdc-4bbf-ab9c-d71cf6ba745b,2023-09-20 10:01:17,Wednesday,Assault,Agege,Agege,82.2080555,166.754620,Sunny,0,Morning
+60a399d4-e821-4716-aac8-0da1de9f6f5b,2025-04-29 13:06:25,Tuesday,Assault,Ojota,Agege,12.671091,60.806539,Sunny,0,Afternoon
+a74e02a9-220b-4ea9-8a0f-9508dfe2c0a0,2024-03-24 23:59:05,Sunday,Burglary,Yaba,Kosofe,-68.458057,175.297160,Clear,1,Night
+649f7d88-8989-45ab-be2b-34d82db0728d,2025-04-05 10:20:55,Saturday,Murder,Lekki,Epe,3.3537695,-116.309302,Clear,0,Morning
+05d1fb63-c194-497f-80e3-a026d5b6de85,2024-07-21 23:47:02,Sunday,Fraud,Ajah,Ifako-Ijaiye,-55.815528,-60.444101,Clear,0,Night
+d2c7bffb-6118-433b-882c-cd1e6c93a791,2024-01-24 23:20:01,Wednesday,Murder,Victoria Island,Agege,34.286662,112.296866,Cloudy,1,Night
+3040413c-4690-4b15-a7b6-08dc589decb0,2023-12-02 14:41:34,Saturday,Fraud,Lekki,Kosofe,-23.558993,67.296312,Cloudy,0,Afternoon
+9d6b9b62-6b53-4a19-a902-b73fcf39f648,2025-06-04 08:02:24,Wednesday,Murder,Surulere,Eti-Osa,-59.7084965,-162.703464,Rainy,0,Morning
+980cb95c-19d4-4deb-9139-fa1234c1c3ea,2025-01-22 05:42:57,Wednesday,Robbery,Lekki,Surulere,-85.8001135,-50.793268,Sunny,0,Morning
+0c760d28-df49-4037-b40a-9181ac09bdb7,2023-07-03 07:21:05,Monday,Murder,Ajah,Ifako-Ijaiye,29.8406105,140.933320,Sunny,0,Morning
+379ef467-8a2d-42e6-bbfd-a8a6705fddf5,2023-12-14 07:37:10,Thursday,Robbery,Victoria Island,Kosofe,-78.125293,35.964564,Stormy,0,Morning
+3bf2025f-4a0d-4b73-be54-ee4b80ff5173,2025-01-13 04:12:47,Monday,Theft,Yaba,Agege,-74.848419,-104.765286,Sunny,0,Morning
+ac2b0cfc-c5c5-4060-9911-21e793d563ae,2025-03-01 20:48:08,Saturday,Murder,Epe,Ikorodu,64.6484415,-8.789884,Sunny,0,Night
+fc568b53-24ac-4722-a052-77394d406f1b,2025-03-03 21:11:59,Monday,Kidnapping,Ojota,Eti-Osa,-3.922113,-52.813115,Rainy,0,Night
+0f9aeb70-4670-4cd6-8ced-a16469df14e9,2024-11-01 00:41:45,Friday,Theft,Yaba,Epe,49.9222655,-61.328581,Sunny,0,Morning
+8e4c3ab5-6d5d-4477-adc2-9178a0411612,2024-08-12 15:25:20,Monday,Murder,Victoria Island,Ifako-Ijaiye,68.824433,-85.976085,Rainy,1,Afternoon
+61935990-abdd-4a8f-a4b0-5c89f10bce9c,2024-06-26 04:29:08,Wednesday,Burglary,Victoria Island,Kosofe,-77.4146475,4.906301,Rainy,1,Morning
+26332018-6883-4c6e-aa94-4054b2414482,2025-02-06 13:54:13,Thursday,Fraud,Victoria Island,Ikeja,50.784480,-8.880741,Clear,0,Afternoon
+3db0174e-7938-478a-89b5-aab0c12169db,2024-01-26 03:46:16,Friday,Assault,Lekki,Agege,11.0552625,-81.280726,Rainy,0,Morning
+ce4758be-24f4-4c62-b523-c0dedb87d29c,2025-03-27 22:18:25,Thursday,Fraud,Ajah,Surulere,-29.5095335,-18.543368,Cloudy,0,Night
+8eaa5841-6aa0-426d-b7c0-d5f769a53b4f,2024-05-31 20:51:32,Friday,Assault,Agege,Eti-Osa,-74.5316925,121.928659,Cloudy,0,Night
+548c1d84-340d-4049-8147-65063e2bf9c9,2024-07-22 21:12:28,Monday,Theft,Victoria Island,Agege,-54.004752,28.530891,Rainy,0,Night
+891f6912-17ab-4863-9efe-ef4fd8ddbbc0,2024-10-21 12:54:55,Monday,Theft,Agege,Eti-Osa,-68.774693,61.477460,Stormy,0,Afternoon
+9adf4709-ac75-4344-a08e-149e44b9e602,2024-12-21 00:40:56,Saturday,Theft,Lekki,Kosofe,-38.867979,-152.331483,Rainy,1,Morning
+966be275-c2fe-4954-8dfd-9531302b7831,2024-09-17 12:43:33,Tuesday,Robbery,Ojota,Ifako-Ijaiye,-79.3840345,-140.924209,Stormy,0,Afternoon
+e8334da5-de95-4695-b579-c1437ab99428,2024-12-20 19:28:21,Friday,Theft,Ikeja,Eti-Osa,60.0152835,-63.490142,Clear,1,Evening
+f64ab6ec-30a5-448e-afe9-b3d0363908bf,2024-02-20 20:20:56,Tuesday,Murder,Ojota,Agege,-8.6135855,-171.767777,Rainy,0,Night
+9aba0f15-b214-4062-be1a-963eea18d32c,2025-01-03 03:32:38,Friday,Theft,Ojota,Ikorodu,-58.508174,77.118686,Stormy,0,Morning
+52555c75-8d55-419e-bd44-cb2cea45ba41,2024-12-04 20:38:30,Wednesday,Kidnapping,Ikeja,Epe,-35.101421,32.940212,Stormy,0,Night
+5bf86f3c-a612-4a1c-889d-4b76775c30b5,2025-01-29 14:04:15,Wednesday,Murder,Agege,Epe,-14.016875,24.366217,Rainy,1,Afternoon
+774c0afa-7f4d-408c-a1ff-f6c08347f1da,2024-02-01 18:51:09,Thursday,Robbery,Ikorodu,Agege,-19.787585,13.082733,Sunny,0,Evening
+501ba851-5ee6-4495-b400-29c3ea11905b,2023-08-22 19:38:06,Tuesday,Burglary,Ikeja,Kosofe,36.027875,-8.076065,Sunny,0,Evening
+255b30e2-bdc2-474b-b8a5-6b49dd34aa18,2024-04-23 17:39:43,Tuesday,Kidnapping,Epe,Epe,-77.728354,122.003162,Rainy,0,Evening
+b852b3cd-9442-45e6-9583-1d58ef4c5119,2023-06-19 19:48:19,Monday,Murder,Ojota,Kosofe,-19.998983,117.056883,Cloudy,0,Evening
+613d2de9-3ae2-4023-9472-0d2d32399ffb,2024-04-26 13:39:50,Friday,Assault,Ajah,Ifako-Ijaiye,-10.7599235,-98.174748,Sunny,0,Afternoon
+af521b94-f186-447a-a794-63208cf6e8b8,2024-08-22 19:05:26,Thursday,Assault,Ajah,Eti-Osa,-24.037352,88.060440,Cloudy,1,Evening
+bd5609c4-a446-4663-b93b-17fbf76d15fd,2024-02-24 10:05:55,Saturday,Burglary,Epe,Eti-Osa,-20.9243755,82.326452,Cloudy,0,Morning
+2b54ff7a-5a28-47b2-8b83-83f2bb96f602,2024-06-22 06:48:32,Saturday,Robbery,Surulere,Kosofe,33.7028425,-89.680250,Clear,0,Morning
+8ac97b01-e3ad-44d4-aab9-eb022f1dc121,2023-09-23 22:27:37,Saturday,Burglary,Agege,Ikorodu,56.712412,82.162829,Stormy,0,Night
+13075157-d8c1-48e7-96cd-315508a8ac7f,2024-10-17 17:38:23,Thursday,Fraud,Surulere,Kosofe,-74.2342345,101.290517,Cloudy,1,Evening
+2332a50e-6992-496e-81a2-5ed1c3abb5f1,2025-03-03 13:59:36,Monday,Burglary,Ajah,Surulere,89.3727455,-153.954034,Rainy,0,Afternoon
+02571851-26a9-4100-b509-109b116658ce,2025-03-22 15:36:58,Saturday,Kidnapping,Victoria Island,Epe,79.302684,-55.750144,Sunny,0,Afternoon
+a3422e50-9e2a-4324-8f79-a8a75f8a14bd,2023-11-24 02:40:28,Friday,Burglary,Epe,Ikeja,45.756646,64.818322,Clear,0,Morning
+01b158e9-0406-4f44-bce4-0679a8c6dbc0,2024-11-06 02:39:12,Wednesday,Assault,Victoria Island,Epe,75.495655,79.418255,Rainy,0,Morning
+b8e19f56-8787-4a21-8448-2a220308aa5e,2024-07-24 14:36:15,Wednesday,Robbery,Ojota,Ifako-Ijaiye,58.080690,40.835680,Clear,0,Afternoon
+b2a6e468-d02b-4243-8091-3ac10463750e,2024-01-06 14:58:58,Saturday,Murder,Agege,Epe,53.8111015,-26.085262,Stormy,0,Afternoon
+863e1f2a-18a8-46ef-ab05-3fc41b656dab,2024-11-11 18:19:45,Monday,Robbery,Epe,Agege,25.5811145,-83.756846,Stormy,0,Evening
+d0b1e3eb-409e-4a80-86c5-d1d69ea9f508,2023-09-30 21:05:41,Saturday,Kidnapping,Yaba,Ikorodu,-25.315421,-76.957262,Rainy,0,Night
+67f1698c-f594-4a54-9f80-4eeb143a9aff,2024-03-08 12:42:19,Friday,Robbery,Ajah,Ikorodu,-18.2405625,33.082144,Cloudy,1,Afternoon
+4ccb2355-39d1-47ff-b27e-1442fd7fe973,2024-05-28 17:46:57,Tuesday,Fraud,Ikorodu,Ikeja,61.6666195,-49.428757,Stormy,1,Evening
+c27437eb-a65f-4b8a-9bb4-4021fdde64af,2024-11-19 12:54:16,Tuesday,Kidnapping,Surulere,Ifako-Ijaiye,-68.3595605,170.971691,Stormy,0,Afternoon
+79db7862-8d7d-4772-a08e-2f5c61177270,2023-07-01 20:05:11,Saturday,Burglary,Yaba,Ikorodu,-64.901150,37.582129,Stormy,0,Night
+7ff6b824-152a-4aec-abdf-cb41b3eda8f1,2023-07-20 19:30:09,Thursday,Theft,Victoria Island,Agege,80.925760,-174.926480,Stormy,1,Evening
+fa323f69-90db-4ad6-94ce-26bec8cce2c2,2025-03-24 19:32:02,Monday,Robbery,Ojota,Eti-Osa,26.476735,166.231939,Rainy,0,Evening
+361f6d90-3ad1-4a33-8ae4-ac11eb4d8f42,2025-04-03 14:59:01,Thursday,Fraud,Ikorodu,Ifako-Ijaiye,-64.401503,103.553300,Cloudy,0,Afternoon
+13087974-ec95-43ac-8beb-7c3445667c48,2025-05-07 06:23:24,Wednesday,Fraud,Ajah,Kosofe,62.144960,75.282273,Rainy,0,Morning
+2dea2d2d-086c-405f-a879-d8f890422eb7,2024-11-19 20:07:15,Tuesday,Robbery,Victoria Island,Ikorodu,-14.7379435,111.537386,Stormy,0,Night
+24e9bcfd-9647-4f9f-b508-507af622d842,2025-05-28 14:54:15,Wednesday,Theft,Ikeja,Ikeja,-5.581158,-171.593625,Rainy,1,Afternoon
+3d8f95f4-905f-4096-a996-56e24c9d6907,2025-01-11 12:29:02,Saturday,Burglary,Ajah,Epe,16.916773,-138.694499,Stormy,0,Afternoon
+bd5ff093-c16f-4bcc-a243-bed754ec3f33,2024-08-20 09:25:19,Tuesday,Fraud,Lekki,Kosofe,14.463431,110.212247,Cloudy,0,Morning
+0dbf0caf-588a-4f87-b96d-40f8bed63da0,2023-09-23 22:18:45,Saturday,Fraud,Ajah,Kosofe,-68.9472275,88.861112,Sunny,0,Night
+9aec56a8-5731-4609-9375-ee90d6b361e4,2023-08-22 02:26:22,Tuesday,Murder,Agege,Ifako-Ijaiye,27.3299845,-55.368639,Stormy,0,Morning
+538d6b8c-c607-41e9-b80b-2cea658e54a2,2025-01-24 12:44:55,Friday,Kidnapping,Victoria Island,Epe,74.7831935,139.764966,Stormy,0,Afternoon
+7d98302f-7357-41e5-be1a-1ba9c8969c5b,2023-06-30 05:42:24,Friday,Kidnapping,Epe,Ikeja,80.2210835,-33.258671,Cloudy,0,Morning
+2f8c83e5-6e8d-4644-a01b-fbcbf0eebcce,2023-12-01 10:15:08,Friday,Kidnapping,Yaba,Ikorodu,5.5123415,116.909865,Stormy,0,Morning
+9e5d9c7a-c5ac-4354-95f0-0cb4614c721d,2024-11-16 03:52:29,Saturday,Theft,Ikeja,Epe,67.269655,174.695529,Cloudy,0,Morning
+6147adeb-277b-4667-8499-d0a615007170,2024-01-22 15:43:01,Monday,Fraud,Ojota,Surulere,-23.844141,-140.536400,Clear,0,Afternoon
+5c56d9bc-5111-431d-a3be-441dbd5a0c9e,2024-12-11 00:04:05,Wednesday,Theft,Epe,Kosofe,80.1614735,-97.173227,Stormy,0,Morning
+5c238d8d-71da-45b9-8eea-9db8f165d779,2023-08-28 23:41:51,Monday,Murder,Ojota,Ikorodu,-65.4326705,-177.210838,Rainy,0,Night
+6e54ac6d-2ff8-487e-9659-1c8921ebfaa9,2025-01-18 13:58:18,Saturday,Theft,Surulere,Ikeja,-17.5851215,-125.114925,Stormy,0,Afternoon
+06b919aa-1a71-47c7-a875-9545832f52c4,2024-05-20 20:29:49,Monday,Burglary,Yaba,Surulere,59.514530,117.823769,Clear,0,Night
+c8d0f9e5-9919-45ea-98d0-0c2c17d30f32,2023-08-15 20:03:38,Tuesday,Burglary,Ajah,Ikorodu,5.0031425,117.544493,Rainy,0,Night
+c777a07f-6346-44ef-a9ef-74e34ab6821c,2024-02-14 05:15:50,Wednesday,Murder,Surulere,Ikorodu,13.4115175,-173.374682,Stormy,0,Morning
+af70de70-2b69-495e-8567-1b58926bffa5,2023-08-12 00:21:28,Saturday,Theft,Ojota,Epe,60.1994475,-49.678601,Clear,0,Morning
+7e3d5ee4-44b6-4ec1-8d16-f04944d7df9a,2024-03-28 22:48:13,Thursday,Kidnapping,Lekki,Surulere,-44.4997205,-105.460810,Stormy,0,Night
+4cbc9044-6bcd-4ce7-86a5-6fe86f46f1b1,2023-09-28 13:52:00,Thursday,Assault,Epe,Ikorodu,-73.016853,-90.231211,Cloudy,0,Afternoon
+b88cddde-3f20-46c2-b1b8-8d65406f64d6,2024-06-17 08:10:13,Monday,Kidnapping,Epe,Ifako-Ijaiye,-69.3515785,13.877463,Stormy,0,Morning
+1b628a9d-7536-4b9f-b20f-72c09dde0188,2024-10-04 16:55:00,Friday,Assault,Agege,Epe,43.0909525,138.797381,Rainy,0,Afternoon
+d773f98d-550c-4fe9-a54c-11d9f2e61828,2023-09-20 11:09:08,Wednesday,Kidnapping,Agege,Agege,-8.218991,-176.366797,Rainy,0,Morning
+d0c30018-6e3c-4d4f-95b1-45e470b27304,2024-09-30 22:39:53,Monday,Kidnapping,Agege,Surulere,11.975933,-3.078639,Sunny,0,Night
+9a6c0db9-5217-4c88-8ce9-53a722d90db3,2025-03-07 21:15:14,Friday,Murder,Epe,Ifako-Ijaiye,84.761374,139.112270,Stormy,0,Night
+65f30779-f6ee-4cdb-ad79-a2d1506e50c7,2024-11-28 06:37:56,Thursday,Fraud,Agege,Agege,-36.0843395,77.166397,Clear,0,Morning
+c82f78fd-936c-431c-b7bf-52447db2a7aa,2024-02-10 02:36:06,Saturday,Murder,Victoria Island,Ikorodu,-11.7649825,159.786921,Sunny,0,Morning
+64976593-c92e-4c93-9105-c8d647c1c017,2023-12-12 12:33:39,Tuesday,Robbery,Ajah,Kosofe,-2.520579,21.893153,Cloudy,0,Afternoon
+8bae591e-ff4c-410f-979c-30cf33261887,2024-03-16 17:49:38,Saturday,Burglary,Agege,Eti-Osa,-59.4284705,122.714939,Cloudy,0,Evening
+f166cdcf-762c-4fbc-ba2a-a7baf3f81c31,2023-10-24 23:31:50,Tuesday,Assault,Agege,Epe,57.666118,-165.549527,Rainy,1,Night
+b15da72d-d4ce-427c-8a94-ae9fcc351e4f,2024-12-08 10:21:48,Sunday,Theft,Victoria Island,Agege,-33.722938,55.393711,Stormy,0,Morning
+3df51967-4d86-40bd-a222-4f9623a13e20,2023-07-30 22:39:19,Sunday,Fraud,Agege,Kosofe,19.828109,88.061373,Clear,0,Night
+6082786f-ca00-4f58-ac52-1d13b719bb68,2023-12-20 11:46:20,Wednesday,Robbery,Ojota,Surulere,86.808495,-97.244984,Rainy,0,Morning
+88cc4d49-669b-49b8-950d-f1a07aaf2001,2023-08-03 16:15:16,Thursday,Robbery,Victoria Island,Surulere,30.5454295,141.013293,Rainy,0,Afternoon
+5c0a1feb-f7ea-466e-8a6c-af9b09697101,2024-07-04 17:23:18,Thursday,Theft,Yaba,Ikorodu,22.2867375,111.867297,Cloudy,0,Evening
+1bffa279-15c1-404f-aa16-3354a35fc9c1,2024-12-03 04:51:19,Tuesday,Robbery,Epe,Eti-Osa,54.1246035,138.804652,Rainy,0,Morning
+a5a1c825-2a95-48c3-9ae1-dbadaa2960fd,2025-01-24 11:47:12,Friday,Theft,Victoria Island,Kosofe,-23.366007,173.047195,Sunny,1,Morning
+a590fd3c-ad6e-4c57-a520-c3d0fbcdbf5e,2024-09-25 02:35:18,Wednesday,Murder,Epe,Epe,-78.109198,122.376588,Rainy,0,Morning
+423cad9d-193e-4783-82b3-42541b1f2eb1,2024-04-12 14:51:32,Friday,Theft,Agege,Ifako-Ijaiye,-0.9876885,51.099061,Cloudy,1,Afternoon
+9342a09f-b00a-464c-949c-d8d48ed8a80d,2023-11-26 15:50:40,Sunday,Assault,Ikeja,Eti-Osa,47.083608,98.527431,Stormy,0,Afternoon
+adf75924-c5b8-486b-b68b-4f7e64215e66,2023-11-25 21:46:28,Saturday,Burglary,Victoria Island,Ikeja,29.6627695,20.853914,Rainy,0,Night
+7b96e2d1-0649-4cf6-bf69-723d584fc85b,2024-09-06 09:33:23,Friday,Murder,Lekki,Ikeja,44.342761,-99.069431,Sunny,0,Morning
+1db6b844-15fa-4483-b633-cc2deba900e1,2023-08-27 10:23:08,Sunday,Robbery,Epe,Kosofe,-10.695517,43.325106,Cloudy,1,Morning
+c8c5eb2a-7490-4deb-97d3-37d34fd80bbb,2025-03-13 22:19:49,Thursday,Fraud,Ikeja,Agege,-51.969360,7.007520,Stormy,0,Night
+702ba49f-18fd-42b9-b9e5-c9aa592a3549,2023-11-14 21:43:51,Tuesday,Burglary,Yaba,Ifako-Ijaiye,49.885696,79.268922,Cloudy,0,Night
+cf685878-0b70-4933-8cde-1b6b1132567c,2024-12-19 00:23:13,Thursday,Murder,Victoria Island,Epe,31.452869,-8.786779,Rainy,0,Morning
+1bff3142-a5e1-4b55-97d3-f4ddd963dc72,2024-12-10 07:19:30,Tuesday,Assault,Victoria Island,Epe,-59.107034,-167.874711,Cloudy,0,Morning
+28fea761-8d49-4e3f-aca8-f78384182d35,2024-11-14 04:14:11,Thursday,Theft,Yaba,Ifako-Ijaiye,-45.8815345,-49.050234,Rainy,0,Morning
+cc39b925-3b5a-4288-b649-2e64f55dce6d,2024-02-19 07:32:19,Monday,Robbery,Epe,Agege,60.283309,48.905318,Rainy,0,Morning
+6ea05d13-a845-44c3-a3f6-6c612fb70dab,2024-04-16 20:04:33,Tuesday,Theft,Ajah,Agege,79.049998,-80.973208,Stormy,0,Night
+979aa051-7317-491a-b283-daa4e212ab7c,2024-04-09 11:38:04,Tuesday,Murder,Surulere,Kosofe,-82.1637595,149.696150,Stormy,0,Morning
+47419b48-34ae-4abd-b6fc-e0acb4698db3,2024-05-05 20:53:23,Sunday,Kidnapping,Ikorodu,Ikorodu,14.377311,-177.610903,Stormy,0,Night
+89718eea-df3a-498a-8cac-2fb51a0c6c04,2025-01-11 13:48:29,Saturday,Assault,Yaba,Ikorodu,-73.205672,129.961298,Clear,0,Afternoon
+43299780-1d2c-4721-b522-0646327375bf,2023-10-30 10:37:42,Monday,Assault,Lekki,Epe,8.1918195,-4.988183,Cloudy,0,Morning
+98d3148b-503b-4078-a39c-9ec6f7464c02,2024-11-09 04:13:30,Saturday,Assault,Ikeja,Agege,41.3948545,103.314840,Sunny,0,Morning
+5a1baf0e-5911-46dc-9d3e-503a9645f0e4,2024-04-04 02:12:19,Thursday,Kidnapping,Epe,Agege,74.096855,30.745458,Cloudy,0,Morning
+b4bba73f-ac70-41d1-9051-267f2c2ac34b,2025-03-24 23:02:19,Monday,Theft,Ojota,Ikeja,32.9060145,151.444064,Cloudy,0,Night
+224a66a6-ac0f-4801-95b2-4e1d97154633,2025-02-18 01:57:34,Tuesday,Theft,Ajah,Surulere,-10.155262,149.898862,Clear,0,Morning
+5f90fc87-2edc-417e-9df0-5d184e2d6255,2024-02-05 11:38:59,Monday,Assault,Yaba,Epe,-58.3617525,-51.917241,Cloudy,0,Morning
+234b4562-98af-4cca-ab11-b7cb63725424,2024-11-26 20:02:18,Tuesday,Theft,Ikorodu,Agege,-52.0543545,94.247012,Clear,0,Night
+8991b01a-a2b0-4c4b-bc96-6b552f8d8ded,2024-08-26 16:36:20,Monday,Assault,Agege,Ifako-Ijaiye,13.0013595,47.117217,Stormy,0,Afternoon
+49f1137d-7d59-4e19-aab7-b2ef8e0ec033,2024-11-26 19:58:15,Tuesday,Assault,Surulere,Kosofe,83.2106865,-86.995275,Sunny,0,Evening
+0db977a9-9e91-471c-b374-ccbfd78c57d3,2023-09-24 04:45:41,Sunday,Theft,Epe,Ifako-Ijaiye,-39.776108,-11.111142,Sunny,0,Morning
+d0b1fde0-31f3-40c0-a2f3-f0687c0f549d,2025-04-09 11:56:53,Wednesday,Murder,Victoria Island,Epe,6.378843,-174.854930,Stormy,0,Morning
+af4847f0-68bd-475b-beb6-581ea72f947d,2024-03-31 10:40:57,Sunday,Murder,Surulere,Surulere,60.748541,91.354969,Stormy,0,Morning
+90bde900-1529-46f5-aad1-1fe87d1b695e,2024-06-23 03:52:45,Sunday,Theft,Yaba,Epe,21.569944,58.291091,Stormy,0,Morning
+89a0b7eb-398f-469b-865c-c2cb085eb489,2023-07-01 04:43:46,Saturday,Robbery,Ajah,Eti-Osa,-30.8020605,-23.185424,Stormy,0,Morning
+c4134dc2-c5c5-4e8a-be15-ad1290ce77e9,2024-01-17 10:38:56,Wednesday,Fraud,Ikeja,Surulere,-44.846748,65.522551,Stormy,0,Morning
+44945e09-1d3c-45a4-929d-63771cfb655f,2024-06-25 22:45:15,Tuesday,Murder,Lekki,Kosofe,57.565998,94.236873,Cloudy,0,Night
+0aa6fcb9-c1bc-4e59-9296-a12d8ac35ac4,2025-01-29 06:35:54,Wednesday,Theft,Victoria Island,Epe,55.7889545,16.957414,Clear,0,Morning
+1a37f6bd-6cd6-4011-bd61-f13b37f25d36,2025-01-17 12:56:53,Friday,Fraud,Surulere,Epe,28.478439,113.321180,Clear,0,Afternoon
+0840405a-ffd2-4491-9ff3-89aa4c36a70c,2024-12-29 21:16:05,Sunday,Assault,Epe,Ikeja,85.4686615,-47.107471,Sunny,0,Night
+7066e289-1644-44a0-9115-1fffdcb91d5f,2024-05-21 13:03:46,Tuesday,Fraud,Victoria Island,Ikorodu,-19.4510755,7.140837,Sunny,0,Afternoon
+96822e22-bcd4-444f-8f8a-368e35ba9357,2025-04-09 07:37:40,Wednesday,Theft,Ikeja,Epe,-58.489429,-52.790554,Cloudy,0,Morning
+9dbc15c0-2a7d-457c-ad9c-5b50a1fd4187,2024-11-23 11:49:32,Saturday,Murder,Ikeja,Ikorodu,4.121749,147.631809,Cloudy,0,Morning
+59cf0b0d-91f0-447d-8f32-1333ce315937,2023-09-23 08:58:20,Saturday,Robbery,Ikeja,Surulere,-34.5359585,-68.898474,Stormy,0,Morning
+fa9fc10e-52da-4681-ab1a-c76c89ecbc51,2024-07-24 15:52:39,Wednesday,Theft,Ikeja,Ikorodu,-14.5468145,140.435530,Cloudy,1,Afternoon
+dba6fdf8-f3d0-4ffb-8470-9848929ecc92,2024-12-05 01:57:28,Thursday,Burglary,Yaba,Ikeja,-11.4464715,-24.665400,Clear,0,Morning
+695e5ea9-c923-4c64-8006-2b5bf67839b2,2024-07-10 18:50:05,Wednesday,Assault,Ikeja,Agege,-64.4381895,-107.206262,Sunny,0,Evening
+b390b059-207b-4e21-a7e8-d18eddf6d4ac,2025-05-20 20:32:04,Tuesday,Burglary,Lekki,Ikorodu,-74.085567,-31.113062,Cloudy,0,Night
+d4176230-5274-4e11-b61d-f906257035db,2025-04-09 22:19:24,Wednesday,Robbery,Epe,Ikorodu,-54.3810695,-45.955551,Sunny,0,Night
+44caa5a2-a1e5-48a2-93d2-28d424655c39,2023-12-16 12:11:57,Saturday,Robbery,Victoria Island,Kosofe,15.414804,82.776155,Cloudy,0,Afternoon
+cb6ad0c7-a235-4dd4-9355-08d073b5bad5,2024-10-06 20:43:25,Sunday,Assault,Lekki,Ikorodu,21.192701,21.419110,Stormy,0,Night
+b1d81887-4739-4c7b-bff3-0c8d83ff3e96,2025-04-20 20:09:54,Sunday,Kidnapping,Surulere,Ikeja,-65.0100585,36.278862,Clear,0,Night
+94fb09f0-53c9-4ae7-bcf0-7bb3f343d9eb,2025-06-03 12:00:52,Tuesday,Burglary,Epe,Ikorodu,9.0717885,64.112864,Stormy,0,Afternoon
+5bb47c18-b281-47c4-aa05-5442a284e8fd,2023-06-09 03:32:45,Friday,Kidnapping,Surulere,Surulere,-64.9974765,66.128069,Sunny,0,Morning
+6dfd171a-f7d7-465d-b7c3-b3c965d0b517,2025-03-28 12:34:24,Friday,Theft,Lekki,Agege,-72.9997995,106.916951,Rainy,0,Afternoon
+48998e5f-d40e-43ce-92a7-4a4144bed486,2025-03-08 21:43:08,Saturday,Fraud,Yaba,Ikeja,-33.1315555,85.598064,Sunny,0,Night
+7c3f1add-da38-4db5-90ee-b067216e9fe5,2024-02-24 13:39:24,Saturday,Robbery,Ikeja,Surulere,56.917552,130.275762,Rainy,0,Afternoon
+c8acffcf-a04d-4d14-997d-bae10bc2ea72,2025-02-08 12:29:22,Saturday,Fraud,Yaba,Ikeja,2.2719015,-154.010476,Sunny,0,Afternoon
+28719b9b-db8f-4e32-adef-50031fce01e3,2025-03-18 02:42:12,Tuesday,Burglary,Ikeja,Surulere,33.368040,-171.259015,Clear,0,Morning
+33cb202e-6d84-414d-b541-91eafde91c42,2024-05-14 23:36:38,Tuesday,Assault,Epe,Surulere,32.545655,-179.637116,Stormy,0,Night
+eec71a30-dfda-45b2-a8b2-bf214d470ed6,2024-11-23 01:43:38,Saturday,Kidnapping,Ikeja,Kosofe,-54.589852,168.964589,Stormy,0,Morning
+1519830c-4019-4303-9c45-7e4da79313b8,2025-04-18 02:21:37,Friday,Fraud,Surulere,Ifako-Ijaiye,-16.4434605,-129.888478,Stormy,0,Morning
+a0279a18-6576-4410-8d41-ee472a5fda18,2024-03-22 01:06:52,Friday,Assault,Ajah,Surulere,88.377724,168.381554,Cloudy,0,Morning
+185df528-b425-4e19-9758-d47ea7cde143,2024-01-30 12:32:58,Tuesday,Kidnapping,Victoria Island,Surulere,-27.147492,50.441605,Sunny,0,Afternoon
+39e7a4f1-97fb-413a-a1f8-9d0613f3cade,2023-06-08 01:41:40,Thursday,Fraud,Agege,Ikeja,-32.7101895,75.983655,Stormy,0,Morning
+d12e0eb5-57f4-49b5-b212-a6ee02106371,2024-07-14 16:35:13,Sunday,Burglary,Lekki,Ikorodu,29.4717305,-175.014108,Stormy,0,Afternoon
+6210def6-3a9c-4308-9221-cddf7a4a902f,2023-09-08 21:28:31,Friday,Murder,Ikeja,Ifako-Ijaiye,23.364032,-109.039007,Sunny,0,Night
+4c9bff5c-e188-4eaf-9e18-85c35037cd6b,2023-08-15 14:41:47,Tuesday,Burglary,Victoria Island,Ifako-Ijaiye,-62.504915,-124.594097,Sunny,0,Afternoon
+249204c7-ad58-4b1b-be31-537aa43e558c,2023-09-21 17:43:11,Thursday,Assault,Lekki,Agege,12.7358995,-108.517664,Sunny,0,Evening
+2a038ad4-a667-4982-9c3d-e1b0022b6683,2023-07-30 08:43:45,Sunday,Murder,Victoria Island,Epe,52.4072315,122.414668,Rainy,0,Morning
+eb7e2e64-26c0-447e-bf8e-8bfaa0c9da72,2024-05-14 01:29:32,Tuesday,Murder,Surulere,Agege,4.2712355,-65.616728,Rainy,0,Morning
+e5871d89-1631-4fc6-b79d-58f9dc268108,2024-04-22 00:16:23,Monday,Burglary,Epe,Ikeja,75.3766445,57.503028,Stormy,0,Morning
+59fe3d53-624f-4a4b-bae1-e13796ee50e5,2023-08-24 06:14:59,Thursday,Assault,Ikorodu,Kosofe,-52.415510,-113.880472,Sunny,0,Morning
+159152f2-a505-4a9c-86e7-5a2c3f6eed9d,2024-05-05 17:49:50,Sunday,Theft,Agege,Surulere,-5.5760655,-104.929240,Cloudy,0,Evening
+48f091f0-9b8b-48ae-b89f-3a92999a1d86,2023-12-16 23:36:47,Saturday,Robbery,Yaba,Epe,58.551277,142.658912,Cloudy,0,Night
+848b34f0-3498-4735-8d38-e415e03635fc,2025-02-01 06:29:28,Saturday,Kidnapping,Victoria Island,Surulere,-82.7993795,173.478689,Clear,0,Morning
+a56b61e0-4ba8-44ca-a449-cb6fbf72ae52,2024-09-20 15:22:52,Friday,Assault,Ikorodu,Ikeja,46.7739235,-78.721170,Clear,0,Afternoon
+7fe4a42e-3db7-48a6-9cdc-c4c262c965b2,2023-07-19 14:41:12,Wednesday,Assault,Ojota,Surulere,-25.7523695,85.690821,Sunny,0,Afternoon
+0316d2d6-fa4a-48ef-a383-7348873dc8bd,2024-10-14 20:09:40,Monday,Assault,Ajah,Agege,69.4318095,-141.875721,Clear,0,Night
+91816091-d6c6-445c-9c5e-4e786307d4d1,2024-03-13 16:48:10,Wednesday,Assault,Surulere,Eti-Osa,-5.047519,-109.142229,Sunny,0,Afternoon
+78946a15-c342-41db-ac3a-acdcaed54a46,2024-04-29 02:54:33,Monday,Assault,Ojota,Surulere,8.089661,113.322763,Sunny,0,Morning
+431e930f-0387-474d-9149-d096965d744f,2025-01-25 14:07:37,Saturday,Burglary,Victoria Island,Ifako-Ijaiye,-70.406402,-171.039947,Cloudy,0,Afternoon
+81b13b80-65e1-40f5-8a0e-e8c4f2dcb12b,2023-11-21 19:11:03,Tuesday,Kidnapping,Epe,Ifako-Ijaiye,-79.309059,-147.536032,Cloudy,0,Evening
+b3a9dcaa-6c6f-4d2e-aa59-c043c4615234,2024-01-15 17:57:50,Monday,Robbery,Ajah,Epe,78.730661,88.998614,Sunny,0,Evening
+271610c1-9db5-4283-89a3-c811895c4fde,2024-04-14 16:26:20,Sunday,Kidnapping,Epe,Ifako-Ijaiye,-67.8734525,163.885837,Rainy,0,Afternoon
+3404c02a-ebc1-4b52-82e4-dd4a143ac1c5,2024-01-08 17:49:04,Monday,Fraud,Ajah,Ikorodu,-67.559581,-13.620006,Clear,0,Evening
+a2611b8d-9620-4ee6-a406-face53a5e850,2025-02-23 20:46:34,Sunday,Kidnapping,Surulere,Kosofe,-48.291269,107.972282,Clear,0,Night
+6fff15cc-b2dc-4c34-8f67-448e10eceb1f,2025-01-20 00:58:24,Monday,Assault,Victoria Island,Ikorodu,84.4399705,165.290982,Cloudy,0,Morning
+6f3a5115-ecb4-478c-9612-0aa63e9639ba,2024-12-25 04:51:17,Wednesday,Burglary,Surulere,Ifako-Ijaiye,-25.941263,-148.911981,Rainy,0,Morning
+aa8430f8-4f2d-4233-8e16-5b129bdc70d1,2023-09-05 07:35:27,Tuesday,Fraud,Ojota,Surulere,31.7010775,148.724337,Sunny,0,Morning
+23204ff5-b538-496c-833e-02f71e93d127,2025-01-03 07:36:48,Friday,Theft,Ajah,Agege,86.644584,-85.700824,Sunny,1,Morning
+85e3ade5-58c1-4ad6-b3f8-dea47f14eafa,2024-12-03 02:20:42,Tuesday,Theft,Epe,Epe,-86.9530955,-92.043025,Rainy,0,Morning
+c7f7bda1-bff1-4840-a07e-863f5f32d5d8,2024-07-12 23:10:37,Friday,Theft,Ajah,Kosofe,-20.4089225,-90.362448,Rainy,0,Night
+55c34853-0783-443c-a65f-ad87c57c7498,2025-04-15 15:55:12,Tuesday,Fraud,Victoria Island,Epe,-17.8540825,-116.618782,Rainy,0,Afternoon
+b65ad0f1-4350-4b06-9059-ea28861b4f5b,2025-02-23 03:01:30,Sunday,Murder,Ikeja,Ikeja,25.2459365,-33.981529,Clear,0,Morning
+5c311464-82c2-49f0-b487-d7727f0386fa,2024-08-28 03:00:38,Wednesday,Assault,Ikeja,Ikeja,78.452062,-138.623342,Sunny,0,Morning
+414f4994-2845-4780-9e20-c9572ab8bd33,2023-07-20 06:54:15,Thursday,Robbery,Surulere,Eti-Osa,44.113039,124.344673,Rainy,0,Morning
+3a78b64a-1d86-40cb-b908-00f3ac93281a,2025-01-27 21:20:27,Monday,Robbery,Surulere,Epe,-62.376674,128.116822,Cloudy,0,Night
+03254fbd-dce8-41c5-9bd3-0aec0b461173,2025-01-02 14:35:01,Thursday,Robbery,Ojota,Epe,46.586641,-178.621042,Sunny,0,Afternoon
+266bf2ea-eb93-478c-a20a-f1585d2d904f,2023-12-14 04:12:50,Thursday,Robbery,Ikeja,Ikorodu,-77.656928,73.276686,Clear,0,Morning
+bd9c4693-b6ca-4127-a9f8-7970cd98f9e2,2023-10-24 05:31:04,Tuesday,Kidnapping,Victoria Island,Agege,-80.507163,116.817021,Stormy,0,Morning
+ea75752d-6a8f-4acb-bf8e-2d0d52619dec,2024-10-28 12:38:23,Monday,Robbery,Ikeja,Ikorodu,22.573591,-59.464258,Rainy,0,Afternoon
+5f705b25-9250-4e59-93f0-6822d3748a11,2024-12-17 16:35:04,Tuesday,Assault,Yaba,Kosofe,-4.118066,-34.369493,Rainy,0,Afternoon
+8409c5ea-cde9-48b3-b922-a7e42de982f8,2023-09-07 23:14:20,Thursday,Kidnapping,Ojota,Agege,44.765588,-151.721856,Cloudy,0,Night
+48454343-ddb4-49dc-b710-6966e0827f76,2023-07-12 21:36:55,Wednesday,Burglary,Ikorodu,Eti-Osa,17.622445,-142.995402,Cloudy,1,Night
+020a4497-74ed-4145-8d97-65c7161d5c87,2025-01-28 01:02:30,Tuesday,Kidnapping,Epe,Surulere,-6.597701,-4.281653,Rainy,0,Morning
+bd54da04-4dcd-4009-88d5-77179055a36f,2024-03-19 18:35:59,Tuesday,Burglary,Yaba,Ikeja,-36.1327465,-23.451078,Clear,0,Evening
+7e4ce29f-f8cb-4b4c-9779-0e845e472e22,2024-10-02 21:44:25,Wednesday,Burglary,Ikorodu,Ikorodu,-24.8818545,69.068744,Stormy,1,Night
+268b84b6-3ec0-4285-8bc4-ec0ec2aef674,2025-01-27 07:59:58,Monday,Robbery,Ikeja,Ikeja,-37.5416925,113.431759,Rainy,0,Morning
+a2cd1590-58af-493c-8aa2-b4c93ba5bd76,2023-06-12 04:20:12,Monday,Fraud,Epe,Ikorodu,20.068230,-167.163278,Cloudy,0,Morning
+60538c1b-a845-40a1-8249-2e5e005fd0e6,2025-03-20 08:14:17,Thursday,Assault,Yaba,Ikeja,-87.424412,-0.138917,Rainy,0,Morning
+3cf88d20-fbad-493f-87a1-ec0234879e41,2025-03-27 16:03:47,Thursday,Robbery,Ojota,Epe,-7.4532405,-124.192795,Cloudy,0,Afternoon
+b62edb49-2472-46a4-bf38-b918f8f9a45d,2024-04-28 07:22:44,Sunday,Fraud,Yaba,Agege,42.0779955,-147.844078,Stormy,0,Morning
+d872f72e-e5b4-41ae-bb41-c943ebd8a3b1,2024-01-10 13:45:56,Wednesday,Robbery,Ikeja,Kosofe,-65.028351,-156.431226,Cloudy,1,Afternoon
+15bc2a3e-bf76-45d7-b97c-6c3c755d814b,2024-07-14 22:27:30,Sunday,Robbery,Surulere,Kosofe,20.8790915,19.980106,Sunny,0,Night
+64f434d6-d1e9-4691-a320-9116222df6a4,2024-08-31 07:47:37,Saturday,Assault,Agege,Kosofe,-64.343744,91.349465,Stormy,0,Morning
+f6d70248-a995-4cc3-af5b-09a60ff1c51f,2023-08-04 08:23:08,Friday,Kidnapping,Ojota,Ikorodu,68.885809,124.846435,Stormy,0,Morning
+ed1115d7-50a4-4c85-99d5-7b0242d04d55,2023-09-16 18:01:24,Saturday,Fraud,Ikorodu,Kosofe,-26.4420715,-23.407626,Clear,0,Evening
+3bcdf203-459e-4674-b3e7-f042516c3b0a,2025-02-18 05:45:07,Tuesday,Burglary,Ajah,Ikeja,15.4824295,-4.845021,Clear,0,Morning
+1be5a4c3-95af-4d0c-8528-5425c7a9f33c,2023-08-04 05:43:08,Friday,Fraud,Surulere,Eti-Osa,-35.584744,-106.925510,Cloudy,0,Morning
+681134e2-5064-4c59-b74f-63547316ce64,2023-10-05 22:30:25,Thursday,Robbery,Ojota,Ikorodu,-61.6377135,-91.751854,Cloudy,0,Night
+73b0d676-3527-45c8-8534-ca08f6f24d1c,2023-09-09 00:08:25,Saturday,Assault,Agege,Epe,53.861151,12.354105,Sunny,0,Morning
+28597b34-1725-42c7-9eb2-a7b8da3c45ca,2024-02-01 16:43:00,Thursday,Assault,Ajah,Ikorodu,34.378654,-37.724955,Sunny,0,Afternoon
+db4862c2-d5ff-4a1f-b70b-9a290a530df9,2025-02-23 12:08:30,Sunday,Murder,Ojota,Ikorodu,-8.3379125,143.895559,Clear,0,Afternoon
+5b11f51f-f7e9-401d-bf8b-4433b60e695c,2024-02-16 19:57:40,Friday,Theft,Ojota,Agege,-50.184633,-131.030446,Rainy,0,Evening
+d1f16485-429a-4a7c-8c80-d33aad5be3c8,2024-04-09 23:58:35,Tuesday,Assault,Yaba,Eti-Osa,47.830782,-153.719838,Cloudy,0,Night
+bf8211bc-8e52-4c42-b3c3-74a6dac726b6,2023-10-20 06:34:26,Friday,Kidnapping,Ikorodu,Kosofe,-81.656466,37.106422,Sunny,0,Morning
+cb371d97-cdcc-4d6a-9a16-998c7648776e,2024-08-07 12:26:28,Wednesday,Robbery,Ajah,Eti-Osa,-22.9306945,-129.144754,Clear,0,Afternoon
+fb8986c8-c7ec-4e71-9493-47fc0fc98d2e,2023-09-23 19:22:32,Saturday,Murder,Agege,Epe,-57.397639,-173.580675,Cloudy,0,Evening
+afb06406-5f4b-4a97-a68c-879bd2dc42c8,2023-11-26 21:11:44,Sunday,Robbery,Agege,Eti-Osa,-54.911395,-73.628139,Rainy,0,Night
+eadc9960-4242-41e2-960b-e0f495132c22,2024-10-08 19:02:32,Tuesday,Fraud,Lekki,Ikorodu,83.0563175,-134.881677,Sunny,0,Evening
+e709fba6-329f-4417-9081-3d45ff45f8a2,2025-02-27 12:08:54,Thursday,Robbery,Victoria Island,Ikorodu,-69.870781,-168.296119,Clear,0,Afternoon
+d450afa2-d8e7-4aeb-a7b3-3085178be968,2024-10-20 23:30:46,Sunday,Robbery,Yaba,Ifako-Ijaiye,29.032689,-110.855564,Stormy,0,Night
+0cf697a5-7603-436c-b139-4e3c0aee2557,2025-02-24 12:11:41,Monday,Robbery,Ojota,Ifako-Ijaiye,-1.000253,-114.218462,Sunny,0,Afternoon
+7f0223bc-651e-4252-b974-4cded259f960,2023-10-15 16:59:24,Sunday,Murder,Agege,Ikorodu,64.050866,52.549056,Sunny,1,Afternoon
+e886a011-36f7-426c-9a9c-06792c3d17e2,2023-06-30 03:02:03,Friday,Fraud,Yaba,Surulere,12.7381515,49.063502,Stormy,0,Morning
+08dec921-260c-4547-a228-0fe3722dce13,2023-10-30 14:11:38,Monday,Assault,Lekki,Ikorodu,-16.185143,-29.754232,Rainy,0,Afternoon
+7fb75c57-4b8c-431f-a5b4-09833eebc04a,2024-09-26 05:13:14,Thursday,Burglary,Agege,Agege,76.2089385,151.237093,Cloudy,0,Morning
+620d4a1f-479f-4628-9674-eb650f9c5300,2024-04-22 05:32:08,Monday,Burglary,Lekki,Eti-Osa,57.8243625,77.177772,Rainy,0,Morning
+869bc00f-cc15-4a1b-a278-9642a484e035,2023-09-21 19:42:33,Thursday,Burglary,Agege,Ikorodu,22.5374915,-72.916908,Cloudy,0,Evening
+61eb64e6-fd49-4e20-84ff-eab2cb7b0b3a,2023-12-17 17:53:42,Sunday,Assault,Yaba,Ifako-Ijaiye,79.316841,111.873457,Cloudy,0,Evening
+58129eb2-7c13-447a-880c-21958b6584ce,2025-02-03 13:24:38,Monday,Robbery,Epe,Surulere,6.398423,77.528622,Sunny,0,Afternoon
+2e0869c1-453b-45fe-a36c-f4995254aad3,2025-05-16 02:58:37,Friday,Burglary,Lekki,Agege,61.8408145,89.720327,Clear,0,Morning
+cf89569d-e550-4736-8780-6e713811b519,2023-06-27 11:17:36,Tuesday,Burglary,Ajah,Ikorodu,-4.4019545,140.574401,Cloudy,0,Morning
+8788dfed-78c0-4ed8-bdd4-ff21cf03f0c8,2025-01-31 22:26:59,Friday,Assault,Ajah,Ikorodu,-14.5877115,-148.544073,Stormy,1,Night
+3f738f50-19a2-476f-a8dd-2bfdf956be95,2024-03-10 20:28:35,Sunday,Theft,Agege,Ifako-Ijaiye,66.7633305,-55.036786,Stormy,0,Night
+ead18464-ca8e-458c-90f8-1063889fe107,2024-10-29 10:17:05,Tuesday,Assault,Surulere,Epe,-25.266039,-36.909407,Cloudy,1,Morning
+cc21cbdb-fb8f-48c4-98b4-8ead93608edf,2024-12-30 17:14:28,Monday,Theft,Ikorodu,Ifako-Ijaiye,-74.992136,-62.204304,Cloudy,0,Evening
+5168bbf2-97af-4bde-bc8e-9d782d14e9f4,2024-04-03 22:09:54,Wednesday,Burglary,Epe,Surulere,5.2421425,-86.739063,Cloudy,0,Night
+5a07d758-b357-43f9-b415-7cea07388ba4,2025-02-22 10:17:32,Saturday,Robbery,Agege,Ikorodu,6.3101125,137.592699,Cloudy,1,Morning
+d631c383-3030-44d0-b2c8-47439027e770,2024-08-21 03:13:58,Wednesday,Fraud,Ojota,Surulere,61.291964,-103.709414,Stormy,0,Morning
+09b7fdf7-7d8d-4ddd-acf1-49cb4f1e1a37,2025-02-25 16:25:01,Tuesday,Theft,Lekki,Ikeja,42.1311055,111.050930,Sunny,0,Afternoon
+86c5547c-051a-4039-b803-dcee9a069295,2023-08-16 07:57:50,Wednesday,Murder,Surulere,Epe,-74.9225225,-55.111288,Cloudy,0,Morning
+ce7334f2-3393-4b6c-9d37-efb6eafb3e90,2024-06-12 11:48:18,Wednesday,Assault,Yaba,Ikorodu,-89.816526,-1.901671,Sunny,0,Morning
+de4379cb-d823-4076-8d6b-b03beb3537a0,2023-09-16 13:56:45,Saturday,Theft,Agege,Surulere,1.471809,-84.726958,Cloudy,0,Afternoon
+eacf33a9-b466-4ab6-962c-04dd25d07461,2024-02-13 13:34:37,Tuesday,Robbery,Lekki,Ikorodu,-74.0130675,-168.235602,Sunny,0,Afternoon
+12916e60-f5e7-4daf-9d69-6bc8dc54d59b,2023-09-25 06:02:29,Monday,Burglary,Epe,Epe,-60.224982,102.552408,Stormy,0,Morning
+4d407b28-5628-4dcd-99dd-3e8c96053035,2024-03-23 09:40:52,Saturday,Robbery,Victoria Island,Ikorodu,87.741733,32.383750,Stormy,0,Morning
+cab63107-6fd6-4b3a-b2dd-9456bb7b6c05,2024-02-12 19:12:14,Monday,Murder,Ajah,Eti-Osa,-53.371536,-95.440748,Clear,0,Evening
+f7ff88d4-b509-408a-ac98-8bca51397c06,2024-10-15 18:13:34,Tuesday,Theft,Surulere,Ifako-Ijaiye,40.781759,168.526003,Rainy,0,Evening
+d08012b8-96c5-4fe7-aa60-4892392612e9,2024-08-16 17:27:38,Friday,Theft,Ojota,Ikeja,74.7412515,11.569257,Stormy,0,Evening
+2099e71f-4b65-4bcc-b041-6f19bbe71835,2023-10-21 10:14:08,Saturday,Robbery,Ikorodu,Ifako-Ijaiye,11.571711,-15.275535,Sunny,0,Morning
+c55523ed-fe89-46c8-99cb-3540643ffdae,2023-10-23 06:10:01,Monday,Assault,Ikeja,Eti-Osa,-89.517379,127.538336,Cloudy,0,Morning
+cf0df860-ebc9-4914-9176-a9d19a3624d6,2024-08-21 00:05:23,Wednesday,Kidnapping,Victoria Island,Surulere,-81.3073235,-82.245601,Sunny,0,Morning
+7f05fbf5-efca-4577-9aa6-f7cb90c7e6ac,2024-09-24 02:24:54,Tuesday,Theft,Ikorodu,Epe,-30.703883,163.407744,Stormy,0,Morning
+51cbf9e5-fb7d-4ba1-98c8-8c483ced4d1f,2023-09-24 11:13:36,Sunday,Robbery,Victoria Island,Kosofe,-1.1026525,-138.227879,Cloudy,0,Morning
+a39c3bd5-ab86-4afd-b57e-c883d2586d90,2023-10-15 15:05:33,Sunday,Burglary,Epe,Eti-Osa,80.775085,-132.365588,Cloudy,0,Afternoon
+3fe1e8f3-35ad-4e88-83e4-f66802ead2df,2024-12-24 16:19:11,Tuesday,Kidnapping,Yaba,Eti-Osa,0.127061,59.782620,Rainy,0,Afternoon
+b86d066b-1ba8-47c6-897a-24ad41b455b8,2024-11-26 15:10:59,Tuesday,Murder,Agege,Ifako-Ijaiye,-71.8014775,8.163141,Sunny,0,Afternoon
+f8170ebf-6b6e-44c5-bb8a-a843702f31e5,2023-06-08 05:19:37,Thursday,Burglary,Surulere,Epe,-77.0755155,27.198400,Cloudy,0,Morning
+8bc83a02-59ea-4936-a0f3-4ebce1bbb8cd,2023-10-14 10:13:03,Saturday,Kidnapping,Yaba,Epe,21.137422,84.721376,Sunny,0,Morning
+a6a5f0ff-93fb-41d0-9d32-6d9cc9ea356a,2024-03-24 18:25:49,Sunday,Murder,Yaba,Agege,-62.7729795,77.423831,Clear,0,Evening
+d883e3f8-cc98-43de-92de-9e5a7387928a,2025-01-16 04:07:42,Thursday,Theft,Yaba,Ikeja,-29.4455965,-92.674451,Cloudy,0,Morning
+1acf42c5-f3a0-4120-82d9-43ee51976e75,2023-07-03 04:18:14,Monday,Fraud,Yaba,Kosofe,-10.836072,-169.220705,Rainy,0,Morning
+bb635ff5-2931-4971-a01e-0211e34f76b4,2023-08-03 20:38:24,Thursday,Fraud,Lekki,Kosofe,1.753441,-88.675465,Cloudy,0,Night
+9d17d218-fc3b-4de5-9812-62ac5683ede0,2023-08-04 11:35:27,Friday,Murder,Ikorodu,Epe,56.8466115,-130.014804,Rainy,0,Morning
+2a3d418d-a754-429f-b143-e5456e6b34b9,2025-05-01 00:23:13,Thursday,Theft,Ikorodu,Kosofe,39.5836685,-163.360651,Rainy,0,Morning
+349ef4a9-54c2-4d5c-99ec-08290db5d441,2024-09-20 22:39:55,Friday,Theft,Ikorodu,Ikorodu,26.5547795,-95.655549,Clear,1,Night
+8a45a905-badf-4397-acf2-6429b8d77d2f,2023-11-01 19:00:27,Wednesday,Fraud,Ojota,Surulere,19.865227,117.486846,Sunny,0,Evening
+0cb4e891-188d-423b-bccf-f6eb4c2272f3,2023-12-30 06:20:17,Saturday,Theft,Ikorodu,Ikorodu,87.327897,-28.858452,Clear,0,Morning
+0df407b8-2751-4b86-bdae-c949d700b461,2024-04-07 09:40:21,Sunday,Murder,Surulere,Surulere,63.4832895,115.097879,Cloudy,1,Morning
+a97a2846-d2ea-4f18-8b67-97a1166ecfe3,2024-03-13 11:46:59,Wednesday,Assault,Yaba,Eti-Osa,-88.975765,49.569202,Stormy,0,Morning
+34fadee1-0696-4d48-98d4-2238331de35c,2024-10-04 17:59:03,Friday,Burglary,Ajah,Ifako-Ijaiye,71.1191295,77.874344,Rainy,0,Evening
+d8014004-793b-4d1b-94f9-c394fa207403,2023-10-17 21:59:14,Tuesday,Fraud,Yaba,Agege,81.313000,-23.334916,Sunny,0,Night
+a939ebd1-e516-40d4-bd35-72cc788fd0cd,2023-09-04 22:41:12,Monday,Burglary,Ajah,Ikorodu,-7.227016,33.388658,Stormy,0,Night
+5efb336e-2f54-4033-a334-fa2a8b4bd7e7,2023-12-30 01:29:04,Saturday,Kidnapping,Ojota,Eti-Osa,-65.5356315,164.599388,Cloudy,0,Morning
+43675d58-0b6c-43c8-b21e-54192fc3e649,2025-04-25 00:13:28,Friday,Fraud,Epe,Kosofe,12.393412,18.321010,Cloudy,0,Morning
+907276ea-44c0-4a9a-964a-cb1f39eb038a,2024-05-13 18:48:00,Monday,Kidnapping,Ojota,Eti-Osa,34.8380455,-38.587767,Rainy,0,Evening
+5802b640-ab0b-4cc5-95f0-ea1918c180d2,2023-07-25 02:29:08,Tuesday,Robbery,Yaba,Surulere,-49.431169,178.344402,Cloudy,0,Morning
+3a3e46b0-96f8-4ff7-81a7-2883f8802878,2025-02-23 23:00:52,Sunday,Fraud,Lekki,Ifako-Ijaiye,55.344111,42.257388,Rainy,0,Night
+f7336094-6b2b-48b9-85c7-f3bed183010f,2024-08-10 05:19:55,Saturday,Assault,Ikorodu,Ikorodu,-73.6298005,27.826003,Stormy,0,Morning
+4c819260-79ec-433c-bc53-090ee1b41171,2024-07-27 04:09:23,Saturday,Assault,Ojota,Ikorodu,37.4597015,127.473641,Sunny,0,Morning
+844e250b-e684-490c-923b-78208089b8c5,2023-08-07 13:16:23,Monday,Assault,Epe,Kosofe,15.9794895,-161.355282,Stormy,0,Afternoon
+c1d71f4a-f302-4d16-9eca-cae925bf213d,2025-02-17 22:55:12,Monday,Assault,Epe,Agege,63.4069445,153.006595,Rainy,0,Night
+31567f2a-cef7-4829-b63e-6ef4f8dfcc3a,2024-05-21 00:09:06,Tuesday,Robbery,Ajah,Epe,-43.593155,-90.254089,Stormy,0,Morning
+6f75ee8a-aee1-4f87-bcff-e9e3140ff589,2023-09-13 05:43:19,Wednesday,Assault,Ajah,Ikeja,-78.544276,47.297669,Sunny,0,Morning
+51db1a37-4204-4733-9855-0b1ed5881c1c,2023-11-11 01:29:33,Saturday,Fraud,Surulere,Ikorodu,78.369755,-100.608472,Stormy,0,Morning
+8d536c75-65b9-4e94-8e6d-e263635a775d,2025-05-14 16:04:14,Wednesday,Burglary,Epe,Ikorodu,-72.011616,-133.277497,Sunny,0,Afternoon
+032a461a-df9b-4c1f-aacb-1f6d7549c9f9,2024-02-15 12:53:19,Thursday,Robbery,Epe,Epe,-15.8579065,99.005466,Rainy,0,Afternoon
+1cce08e9-6b6a-4061-881c-8d3185c69fbf,2025-02-07 03:48:39,Friday,Kidnapping,Ojota,Ikeja,77.2508385,135.452509,Rainy,0,Morning
+c2250530-952a-4345-9682-d9ff910c4cb7,2024-04-24 03:12:38,Wednesday,Fraud,Ikeja,Agege,-49.8306945,-100.435871,Rainy,0,Morning
+c926a021-19da-4262-8790-3dc5900c0af7,2025-06-06 01:47:23,Friday,Fraud,Agege,Kosofe,-63.1016955,-123.287739,Sunny,0,Morning
+620f230b-439e-454c-a930-16eae0bda1ee,2024-01-15 10:36:06,Monday,Robbery,Epe,Eti-Osa,53.783016,4.613358,Stormy,0,Morning
+2c154804-0997-49a3-b919-955c9be4f19f,2024-10-27 19:34:16,Sunday,Murder,Agege,Ifako-Ijaiye,40.348174,127.102636,Stormy,0,Evening
+b193c8b8-ae49-4079-9bd0-d4c79e45455e,2024-01-07 03:32:10,Sunday,Assault,Ikeja,Epe,18.1724995,-102.769686,Stormy,0,Morning
+b0c58278-54dc-4ba5-a103-5e1ce3bb22ae,2024-04-14 06:02:46,Sunday,Kidnapping,Ikorodu,Eti-Osa,-79.589393,32.489610,Rainy,0,Morning
+5f584603-e5a3-48e9-84c1-f1b5ebbbd763,2023-12-08 18:14:36,Friday,Kidnapping,Ikeja,Epe,-76.768555,75.130823,Cloudy,0,Evening
+7ddac1b6-d7c4-4aed-87c4-cc514f9a5f98,2023-06-22 22:36:46,Thursday,Murder,Yaba,Epe,0.6952345,-17.298610,Clear,0,Night
+be64ac2a-f966-41a5-8cec-495b226716e3,2025-04-03 20:06:01,Thursday,Theft,Surulere,Surulere,-63.634972,-57.616296,Stormy,0,Night
+a543148e-9adf-4981-aab1-9e15ba92992e,2024-05-16 09:37:29,Thursday,Fraud,Ajah,Ikorodu,-3.867568,-35.356249,Rainy,0,Morning
+683c510e-d2ef-493b-a9d6-bb7e361db014,2023-08-15 13:52:19,Tuesday,Murder,Lekki,Surulere,-39.551397,57.144795,Rainy,0,Afternoon
+0e63813e-d22e-4226-9fb8-944dde0018aa,2025-01-02 17:39:23,Thursday,Kidnapping,Ikeja,Ifako-Ijaiye,40.0463295,97.294584,Stormy,0,Evening
+67443fb8-81bd-45d5-b5a6-571c4fa5c35e,2024-07-11 10:46:04,Thursday,Theft,Ojota,Kosofe,-47.3261585,-144.772160,Cloudy,0,Morning
+e00bd534-3158-41fb-ac7a-0d3107692583,2023-09-20 14:08:25,Wednesday,Kidnapping,Agege,Agege,50.737008,125.303619,Stormy,0,Afternoon
+0cf173f9-74d9-41f5-8877-58043fde9814,2025-03-15 04:23:01,Saturday,Murder,Victoria Island,Eti-Osa,-36.117817,-149.061463,Rainy,1,Morning
+76d70561-d2d1-4ef5-9e4c-4fd1462363a9,2025-05-20 06:47:02,Tuesday,Murder,Ikorodu,Ikeja,6.737448,-73.103755,Cloudy,0,Morning
+07d2fd4d-ae61-416a-9fb6-21aeec4e8cbb,2024-07-03 13:40:57,Wednesday,Assault,Lekki,Kosofe,16.5533815,161.133041,Rainy,0,Afternoon
+f5e4a9c1-2d76-4ffa-b233-d5af98133da1,2023-12-12 03:29:50,Tuesday,Burglary,Ajah,Surulere,9.9832845,82.415381,Sunny,0,Morning
+29dc073e-5820-43f2-9989-dd6c8d2434f9,2025-04-13 08:22:55,Sunday,Burglary,Lekki,Agege,37.394712,135.078935,Sunny,1,Morning
+0cb5ee5c-62f5-47c2-8706-fec248fa4e98,2025-03-18 20:26:32,Tuesday,Burglary,Epe,Eti-Osa,-20.566506,-131.471205,Clear,0,Night
+39a0f145-a5ba-4050-b8aa-76dfdb6ba39b,2023-10-11 18:15:30,Wednesday,Burglary,Victoria Island,Agege,63.614352,-64.938587,Cloudy,0,Evening
+052226b9-8366-4636-a8d5-76b8a6ce6d7a,2024-11-14 14:35:58,Thursday,Robbery,Epe,Ifako-Ijaiye,-34.506074,-35.536855,Stormy,0,Afternoon
+2c56e0cd-a5ba-4472-a1df-5609e959137f,2025-04-08 19:18:52,Tuesday,Murder,Yaba,Epe,-87.611466,74.528997,Cloudy,0,Evening
+f168c605-ce1a-4669-9bbc-6cbc409ca8f2,2024-09-16 03:32:33,Monday,Burglary,Yaba,Ikorodu,-87.7280345,-59.864380,Rainy,0,Morning
+da018d29-6060-41eb-a53e-5f4c6c7e9a2c,2024-01-30 11:37:33,Tuesday,Kidnapping,Surulere,Epe,82.5342885,-32.157263,Cloudy,0,Morning
+ad5cba24-4d59-416b-b779-857f37dc8c78,2024-03-04 01:51:18,Monday,Fraud,Agege,Ifako-Ijaiye,33.2113425,-44.709221,Stormy,1,Morning
+82f29004-01e1-47d8-9a31-204495a0f356,2024-07-15 14:50:17,Monday,Theft,Lekki,Epe,77.397986,33.219647,Cloudy,0,Afternoon
+485d831c-9bea-4529-9801-7a2fa5b83693,2024-11-02 16:38:41,Saturday,Theft,Ikeja,Ikeja,10.4565375,121.429993,Clear,0,Afternoon
+46c79b36-fd05-4963-9616-af7e1057a002,2024-01-25 01:26:20,Thursday,Murder,Epe,Ikeja,-60.9809115,78.631347,Clear,1,Morning
+f3c2944a-b60a-4dcc-a7f7-745142da8609,2024-10-16 18:59:45,Wednesday,Robbery,Lekki,Epe,-2.721683,-31.348536,Sunny,0,Evening
+c3f62136-846d-4a3b-a661-c42630385dd7,2025-04-30 08:29:51,Wednesday,Theft,Ikorodu,Surulere,84.876699,-19.587742,Rainy,0,Morning
+ae46024d-51d0-4ef3-a918-83fc6772fe9f,2023-12-10 20:59:59,Sunday,Robbery,Agege,Kosofe,-74.7596655,142.140427,Cloudy,0,Night
+4269c28c-4bac-4edf-bf5a-229e7f53d344,2023-09-23 21:55:10,Saturday,Kidnapping,Ajah,Agege,-83.166904,171.865500,Clear,0,Night
+95410a9d-090a-4a93-bc9a-79986365fc2a,2025-05-11 15:30:04,Sunday,Theft,Lekki,Ikeja,22.3578715,37.217377,Sunny,0,Afternoon
+38eccb4d-b69f-4eab-b9ff-2c2957d9cbb0,2024-12-08 04:48:23,Sunday,Theft,Agege,Surulere,63.5564705,-78.040073,Sunny,0,Morning
+f0cf9d73-e812-4ef0-b9c9-c839c8ef0377,2024-11-21 07:20:28,Thursday,Assault,Yaba,Eti-Osa,53.515016,162.691998,Clear,1,Morning
+d73418fe-2b84-4ef3-986d-655d4cd99164,2024-11-10 01:58:50,Sunday,Fraud,Epe,Eti-Osa,6.2333405,92.362590,Rainy,1,Morning
+20c0f275-7885-487d-98fc-83b74b356e9a,2024-10-30 00:16:14,Wednesday,Robbery,Surulere,Epe,59.8535695,-82.753427,Clear,0,Morning
+f269921c-2edd-4141-a9a1-c6d5c34e9baf,2025-01-02 17:10:25,Thursday,Theft,Ajah,Eti-Osa,-20.568673,120.127833,Sunny,0,Evening
+392c04da-5af3-4a5a-b8e5-9b2716dc5a6e,2024-11-16 04:12:04,Saturday,Assault,Lekki,Epe,0.0956525,171.346926,Clear,1,Morning
+5f269466-54d1-432a-a308-2ddcc9c04b7d,2025-01-05 06:31:22,Sunday,Robbery,Ikorodu,Eti-Osa,-7.5674255,45.739489,Clear,0,Morning
+787515b9-1e26-4d31-99e9-275876b90436,2023-12-26 14:37:14,Tuesday,Assault,Ajah,Ifako-Ijaiye,67.187937,-22.132506,Cloudy,0,Afternoon
+123b31cf-9ee3-49ff-b1bd-b598948f664a,2023-07-18 22:03:19,Tuesday,Robbery,Ikorodu,Kosofe,80.2945785,133.304239,Rainy,1,Night
+61b512ed-ae42-4568-9e14-553b1eac41d9,2024-06-08 00:15:26,Saturday,Theft,Victoria Island,Ikeja,-37.7775455,88.691745,Stormy,0,Morning
+26996aab-daaf-4529-9eef-f82a0dd70158,2024-07-22 18:21:00,Monday,Theft,Lekki,Epe,-9.9107375,41.785269,Cloudy,0,Evening
+e4917f7d-91c4-4efc-bcb8-96bb68c0cbef,2023-09-21 22:07:06,Thursday,Fraud,Surulere,Kosofe,-36.233293,3.969494,Sunny,0,Night
+2e2bdc6c-b736-4c4f-9cc5-d97550fe8199,2025-05-11 10:05:00,Sunday,Robbery,Epe,Surulere,32.8283965,-103.107120,Clear,0,Morning
+2d445af8-fc94-46b1-a18b-5d1555273407,2025-02-01 05:57:37,Saturday,Theft,Lekki,Eti-Osa,-68.307338,81.767973,Stormy,0,Morning
+359a1533-4605-4c0e-b3b9-c2ac0134e76b,2024-02-05 15:54:22,Monday,Kidnapping,Ikorodu,Ifako-Ijaiye,80.3220215,-148.854190,Sunny,0,Afternoon
+c90394ea-7d54-4c82-a88f-3435c3b534db,2025-01-18 11:06:56,Saturday,Theft,Lekki,Surulere,-44.740237,129.387385,Cloudy,0,Morning
+6dedcba5-a22c-4d4f-af07-b60f9d4e8b5d,2025-01-20 07:24:19,Monday,Fraud,Yaba,Surulere,-66.3665805,-110.525705,Stormy,0,Morning
+88a5fa0d-09a8-4dc5-8131-ff3b62210670,2024-04-15 13:14:38,Monday,Murder,Ojota,Agege,25.165641,76.302321,Clear,0,Afternoon
+d54e7948-c1c0-45e3-927c-8f50e45a87e8,2023-11-09 02:47:43,Thursday,Fraud,Agege,Surulere,10.153645,-172.442406,Stormy,0,Morning
+bbcd6c18-a06e-4de5-810e-4265ad3f5dd4,2024-07-23 16:37:54,Tuesday,Kidnapping,Victoria Island,Surulere,-38.8424525,-170.381353,Sunny,0,Afternoon
+62305d27-1a4b-4606-a101-9bff4fe54745,2023-12-17 11:50:37,Sunday,Burglary,Ikeja,Surulere,-29.262262,4.871376,Sunny,1,Morning
+0bb432b3-d2e7-4deb-90b6-a6622ac1d5ca,2024-07-02 04:18:59,Tuesday,Theft,Yaba,Surulere,68.0200845,-15.655710,Sunny,0,Morning
+862c92fd-98ab-42e7-8531-9f0fba533122,2024-01-24 20:20:14,Wednesday,Robbery,Ojota,Eti-Osa,-11.9315085,64.773572,Stormy,0,Night
+7d7c59a5-e6c1-4650-bf02-f5b057bd56c9,2024-02-24 15:08:53,Saturday,Burglary,Ajah,Ifako-Ijaiye,26.411123,-108.172345,Rainy,0,Afternoon
+cfdfc6f9-eb0f-427c-a82a-3879f2b5a7ea,2024-03-12 06:21:58,Tuesday,Fraud,Ojota,Ikorodu,-39.4197715,-91.478842,Cloudy,0,Morning
+2196b3b5-fc21-409b-ba27-bc64396d1ffb,2024-04-15 13:12:35,Monday,Robbery,Lekki,Epe,-84.866243,-57.368865,Clear,0,Afternoon
+5dd8effc-1f87-4b32-ab42-9596812faa38,2023-11-18 06:18:56,Saturday,Kidnapping,Ojota,Eti-Osa,-84.117702,136.588929,Clear,0,Morning
+417b6634-a3ec-452c-a065-3245600c9c71,2024-12-10 13:29:50,Tuesday,Murder,Surulere,Ikeja,84.6281035,-159.940664,Clear,0,Afternoon
+0c472187-fea3-4d37-980b-68530c7031eb,2025-01-26 06:34:48,Sunday,Murder,Ikorodu,Agege,53.5414125,154.542939,Stormy,0,Morning
+b0937085-0c59-41f8-850d-cbfed60bf603,2024-11-02 09:27:29,Saturday,Robbery,Ikorodu,Ikorodu,-60.9785175,170.881441,Sunny,0,Morning
+40b374f8-8c1a-42c7-9fa3-ed1f61584f88,2023-09-05 03:55:23,Tuesday,Robbery,Victoria Island,Kosofe,21.877339,58.539416,Cloudy,0,Morning
+0261c87a-a15c-459a-af8c-a888b1f81ad9,2024-06-09 16:49:59,Sunday,Assault,Agege,Eti-Osa,-48.895257,-69.675759,Stormy,1,Afternoon
+451d38fe-8532-4c74-a998-7bdf19d9d0b5,2024-01-27 02:39:43,Saturday,Fraud,Lekki,Ifako-Ijaiye,22.9768215,175.228466,Sunny,0,Morning
+1adba8cf-e60c-4638-94a5-a81e6b382a0a,2024-10-02 23:14:11,Wednesday,Theft,Yaba,Agege,72.5737285,-106.360895,Sunny,0,Night
+1b341937-c8e6-4939-9d2f-ed2a485f7888,2024-07-08 14:04:33,Monday,Robbery,Surulere,Ikeja,75.8120335,-116.791735,Rainy,0,Afternoon
+d4dd1b56-4353-41b2-8728-50c13322c68b,2024-06-27 19:58:23,Thursday,Fraud,Ikorodu,Eti-Osa,-36.676193,146.955357,Sunny,0,Evening
+290e3e89-4b9c-42f4-a8e5-c8cdb4146e4a,2024-07-17 13:35:40,Wednesday,Theft,Ojota,Ikeja,-35.863766,12.157820,Cloudy,0,Afternoon
+eee13cae-b02e-41aa-b52b-6ec8e90d21cb,2023-07-07 20:01:12,Friday,Theft,Lekki,Eti-Osa,57.139879,86.478406,Clear,0,Night
+16c8e3d7-abf0-463e-8343-8b6400b3700f,2024-06-14 13:40:11,Friday,Burglary,Lekki,Ikeja,-1.254267,-54.100942,Rainy,1,Afternoon
+f30ee4fe-262e-4559-be7d-9a19ab450578,2025-05-11 14:54:49,Sunday,Kidnapping,Ajah,Agege,-60.356427,128.245918,Rainy,0,Afternoon
+e79f9f3d-19ee-4c3b-b93c-4b0bb93b770c,2023-08-16 04:42:25,Wednesday,Murder,Lekki,Agege,47.3598585,-139.708799,Clear,0,Morning
+4bc81c16-fa2f-4d74-bd19-35cc74eda60e,2023-12-22 23:37:08,Friday,Kidnapping,Ikeja,Ifako-Ijaiye,82.962840,-55.896767,Sunny,0,Night
+dfc7ab26-2cb9-41fc-902c-75f9198d13a4,2023-12-29 09:05:30,Friday,Theft,Victoria Island,Eti-Osa,34.628505,-153.113400,Cloudy,1,Morning
+6d0e0597-500d-42a7-ad40-9244cd3566ef,2023-07-07 20:44:36,Friday,Burglary,Ojota,Eti-Osa,-12.0014665,13.388775,Sunny,0,Night
+0bbf6334-e3ea-4d7f-8219-a845d9eb404c,2024-12-31 20:49:53,Tuesday,Burglary,Victoria Island,Ifako-Ijaiye,-58.8880475,-128.998087,Clear,0,Night
+5b86ea69-5423-4dbe-aba6-b158a5aecf37,2023-06-14 17:44:58,Wednesday,Assault,Ojota,Kosofe,-52.850025,176.136017,Cloudy,0,Evening
+17cba85d-bbaa-474f-a0e3-c5ce44afecb7,2025-05-02 00:38:52,Friday,Theft,Agege,Eti-Osa,27.4980955,153.830111,Stormy,0,Morning
+f659f188-6676-4c75-a699-5af51d24181c,2024-03-22 15:37:29,Friday,Robbery,Yaba,Surulere,1.9989315,-81.822726,Stormy,0,Afternoon
+ccc62fed-7a6e-43d0-99c5-9cd9b09d721b,2024-05-26 19:56:32,Sunday,Robbery,Ikeja,Ikeja,-17.030361,27.079425,Rainy,0,Evening
+b9f6143b-b238-4056-a1ec-47541cf14654,2024-04-29 19:14:40,Monday,Assault,Epe,Ifako-Ijaiye,84.1734005,-90.461352,Sunny,0,Evening
+7b90942f-973b-4977-a946-28206a80cac2,2023-07-22 18:41:32,Saturday,Murder,Lekki,Ikeja,-47.2126225,-124.319449,Stormy,0,Evening
+c7774fae-6137-48c3-9c7f-aca62e671784,2025-02-19 08:44:38,Wednesday,Assault,Ikorodu,Surulere,62.7245895,55.236866,Cloudy,0,Morning
+d6aa5382-e144-4b45-af39-0a9ddcd1c413,2024-03-11 18:12:45,Monday,Murder,Ikorodu,Ifako-Ijaiye,74.110276,-164.529405,Cloudy,0,Evening
+e3395b1a-1ce9-4871-bcf5-9d5feb9f33cb,2024-12-23 02:54:02,Monday,Fraud,Yaba,Ifako-Ijaiye,-54.9274775,79.351413,Clear,0,Morning
+5071e5f0-a7ac-490c-82f9-0f921036ca81,2024-04-21 16:20:19,Sunday,Murder,Ikeja,Kosofe,28.2962525,-155.318793,Rainy,0,Afternoon
+fa575cea-3957-4344-90a4-a421b9493906,2023-06-16 19:51:19,Friday,Robbery,Victoria Island,Ikeja,50.879734,129.586077,Sunny,0,Evening
+9e44e98c-b359-490e-b030-9aaf85ea16e0,2024-11-08 12:14:53,Friday,Kidnapping,Epe,Agege,0.811887,98.689518,Cloudy,0,Afternoon
+588309de-7b5f-4e41-bfa2-bde0ba05dd0f,2023-08-20 04:53:11,Sunday,Kidnapping,Yaba,Epe,26.191725,175.254603,Clear,0,Morning
+8eefa5dd-d391-4dcf-96ca-de2c260e37cc,2024-11-03 17:54:27,Sunday,Murder,Surulere,Agege,82.175697,26.629060,Stormy,0,Evening
+282c6470-ef32-472a-a4b5-c72302fb2869,2025-04-30 02:40:59,Wednesday,Kidnapping,Agege,Surulere,74.527853,-150.705039,Sunny,0,Morning
+c05db774-132a-4e58-aa57-e880de9205ea,2024-07-03 21:54:25,Wednesday,Theft,Ojota,Epe,35.9737895,86.199349,Rainy,0,Night
+0ce3c8c8-4735-4e4f-b85b-6d0a54b58635,2024-06-23 02:25:36,Sunday,Robbery,Victoria Island,Surulere,-3.9305145,-50.672190,Rainy,0,Morning
+d12daea8-673d-4920-a0ee-64baa4b0718e,2024-07-04 23:17:31,Thursday,Fraud,Ikorodu,Ikeja,-30.217674,115.545056,Rainy,0,Night
+72b696ca-92b2-4acd-8d1f-75a371b65ca1,2023-12-06 18:09:43,Wednesday,Robbery,Ajah,Ikeja,-68.839073,66.474532,Cloudy,0,Evening
+7f53dc0a-fb0d-4cda-9e63-926150e96888,2023-08-14 14:15:12,Monday,Assault,Ikorodu,Agege,43.803303,60.017871,Clear,1,Afternoon
+092c4801-698f-44f8-a747-d24a1a46d536,2025-01-06 01:42:20,Monday,Burglary,Victoria Island,Surulere,85.388480,-170.460272,Sunny,0,Morning
+9aad10ce-cab2-4f24-9744-ee3fd36ec1bd,2024-08-12 23:07:09,Monday,Robbery,Ikeja,Kosofe,57.397585,-179.908885,Cloudy,0,Night
+34f43404-8ff5-4701-8222-6c16e3de4ec0,2024-09-30 01:40:26,Monday,Burglary,Ikeja,Surulere,81.1378365,-16.470217,Stormy,0,Morning
+d10bf4dc-0de4-4af4-9347-94cc5d04032d,2024-10-27 15:59:52,Sunday,Fraud,Ajah,Epe,32.462381,2.994704,Clear,0,Afternoon
+99966612-9ea8-4552-8475-66bf8f660bbd,2023-11-27 08:56:21,Monday,Robbery,Yaba,Kosofe,31.993172,-1.773555,Sunny,0,Morning
+18f1a1e4-1d30-4290-b3d9-2aceb7461b72,2024-06-08 17:17:43,Saturday,Theft,Ojota,Ikeja,86.4069785,15.042275,Sunny,0,Evening
+d4734534-5aea-4352-9763-2e1e008ffab9,2025-01-17 00:11:39,Friday,Kidnapping,Lekki,Surulere,86.8748755,-60.950425,Cloudy,0,Morning
+1b37ef19-b3bc-412f-9fb7-474e85a0d089,2024-10-11 09:44:41,Friday,Kidnapping,Ajah,Ikorodu,-11.6212585,114.039140,Cloudy,0,Morning
+be153187-b783-41d5-9264-04b923f47a55,2023-07-12 18:48:36,Wednesday,Robbery,Epe,Agege,-45.9348795,84.367126,Rainy,0,Evening
+3002d831-3227-48d8-9c60-c81b41191aa7,2024-12-18 16:16:51,Wednesday,Robbery,Surulere,Kosofe,19.8466765,-122.575478,Stormy,0,Afternoon
+30c9c51f-c80b-4af7-9315-fafa7500f785,2023-09-09 00:18:33,Saturday,Burglary,Lekki,Eti-Osa,15.4673495,-64.256265,Rainy,0,Morning
+ed376567-0be7-428e-aa1a-ba9dc1d48a10,2024-12-14 23:20:22,Saturday,Robbery,Epe,Ifako-Ijaiye,0.7133475,-122.143708,Sunny,0,Night
+75175f39-7354-44fb-a44a-0371c5ab4e57,2024-10-11 01:54:08,Friday,Burglary,Victoria Island,Ifako-Ijaiye,68.0577785,-113.847202,Rainy,0,Morning
+011c4544-7fb3-4be5-b6bf-2f7222778161,2024-10-30 15:58:00,Wednesday,Murder,Agege,Epe,68.193352,90.689013,Cloudy,0,Afternoon
+95ca788d-d6bc-4712-aecc-a931ef705d01,2024-07-23 04:09:08,Tuesday,Murder,Yaba,Eti-Osa,-76.961659,117.011121,Rainy,0,Morning
+bb01b2a5-2c74-4800-941c-23fab11af726,2024-06-16 07:56:55,Sunday,Murder,Agege,Ikeja,46.454573,-84.865166,Rainy,0,Morning
+9b2d5a2a-99bd-4240-a853-5961632d0302,2025-03-01 10:41:49,Saturday,Theft,Ajah,Kosofe,-55.5377765,-124.404889,Clear,0,Morning
+fac08fc4-6b2d-4ccc-a279-403ce1a2cfe7,2025-04-22 20:05:16,Tuesday,Fraud,Surulere,Ifako-Ijaiye,-3.6057225,90.642058,Sunny,0,Night
+f8722413-57c5-482c-b6ae-10e865daced0,2024-09-22 05:54:34,Sunday,Murder,Ikeja,Agege,-23.363907,-33.114332,Cloudy,0,Morning
+b33422cb-9a3f-4ad1-a9a9-aff9235fc3d5,2024-01-21 17:14:12,Sunday,Murder,Lekki,Ikeja,31.559842,-108.396544,Sunny,0,Evening
+dc57546d-8c3d-431a-b395-2193d7d3b9d9,2025-04-25 17:49:30,Friday,Burglary,Epe,Surulere,47.5180415,-19.522234,Clear,0,Evening
+9fc97264-35af-4b2d-b36d-778637a3c30a,2024-02-06 01:09:56,Tuesday,Robbery,Yaba,Kosofe,58.600919,159.615567,Clear,0,Morning
+fb38cd91-21f6-463d-ac20-af11ebd33927,2024-12-13 02:32:14,Friday,Assault,Ikeja,Surulere,-11.998161,5.378076,Rainy,0,Morning
+a30a6658-b1be-4df2-8ae0-b8a080ff2909,2024-12-10 00:11:38,Tuesday,Fraud,Ikorodu,Ifako-Ijaiye,84.506234,-84.537534,Clear,0,Morning
+9215583a-9532-4aba-baf9-85ff8ff19886,2024-02-12 15:04:09,Monday,Robbery,Ojota,Agege,-59.0211385,9.106231,Clear,0,Afternoon
+6c21835d-d8e8-497c-a0a2-59014932936e,2024-11-06 10:09:24,Wednesday,Murder,Yaba,Surulere,22.0658785,106.636886,Sunny,0,Morning
+253421bc-6180-478a-8678-3c341b41a61e,2025-02-24 01:20:15,Monday,Robbery,Lekki,Eti-Osa,-86.571941,100.638525,Cloudy,0,Morning
+c918a346-c00c-400c-8458-b006332cce0a,2023-07-18 10:38:51,Tuesday,Assault,Ikeja,Epe,89.9199865,-149.610541,Clear,0,Morning
+b0cad2eb-0fe1-421a-96e1-ba00257c54bc,2023-10-10 05:29:51,Tuesday,Burglary,Ojota,Ikorodu,-13.0622245,-45.481084,Sunny,0,Morning
+5bd29cb1-0845-4b2f-8a8a-4105c0eb8875,2025-02-05 10:55:34,Wednesday,Assault,Ikeja,Ikorodu,-10.7738075,-70.477851,Sunny,0,Morning
+bd4f6118-acef-45c4-9e37-90fb9db94eee,2025-02-28 11:59:34,Friday,Kidnapping,Ajah,Surulere,31.492412,-124.981466,Rainy,0,Morning
+82cbcdc7-3cd3-4e99-a38e-13888faf6d4a,2024-08-16 15:44:22,Friday,Robbery,Agege,Epe,-29.7879445,167.419607,Rainy,0,Afternoon
+6336c815-61af-463c-ad2e-1bcd0c06df90,2025-02-05 09:59:23,Wednesday,Burglary,Ojota,Surulere,-12.7875865,176.747268,Cloudy,0,Morning
+4057e470-be61-47a8-8351-b09d0dc5fb06,2024-04-25 18:48:06,Thursday,Robbery,Ikorodu,Epe,-6.0725875,116.419638,Clear,0,Evening
+a23ff67d-e957-4bc2-b9bd-8bd6d479cc36,2023-11-11 23:15:52,Saturday,Burglary,Agege,Ikorodu,76.580760,57.868094,Rainy,0,Night
+bd0b0fa2-8bee-483f-96a0-6bf2c14ebd10,2024-12-05 12:40:56,Thursday,Murder,Surulere,Surulere,83.8474945,17.429508,Stormy,0,Afternoon
+fbc398d8-2d6b-4882-b2e5-88e94b4f3b2e,2024-09-17 21:23:34,Tuesday,Burglary,Ikeja,Ikorodu,-37.2607325,-76.116707,Cloudy,0,Night
+838b77ad-bc2e-4b59-ac7d-d667f664c720,2024-11-18 11:07:40,Monday,Fraud,Victoria Island,Epe,-70.009882,-79.617715,Cloudy,0,Morning
+43a534d2-8e7d-4f5a-8773-e66a6db2b020,2023-09-07 22:21:38,Thursday,Kidnapping,Victoria Island,Ifako-Ijaiye,11.2533795,-158.184664,Sunny,0,Night
+549fc34c-0171-45a7-8148-bd11d89462e8,2023-09-16 06:03:37,Saturday,Fraud,Lekki,Ikeja,-46.800991,133.525127,Cloudy,0,Morning
+98cd2655-5297-41ad-adba-948427591ad4,2024-06-03 10:29:26,Monday,Robbery,Surulere,Ikeja,-48.444662,-158.557058,Cloudy,0,Morning
+7d94bf10-4d18-4b75-a971-a31fd7d80594,2023-07-16 17:27:30,Sunday,Assault,Epe,Ifako-Ijaiye,77.870585,150.502391,Stormy,0,Evening
+b52a9e6b-c8b6-48e0-92a8-50c55bab7f4a,2025-02-09 18:24:00,Sunday,Theft,Lekki,Eti-Osa,63.726808,115.364996,Rainy,0,Evening
+11740357-8546-4426-af12-0b9ef4fd25b7,2024-02-09 02:45:56,Friday,Murder,Surulere,Agege,51.0346645,-61.908793,Stormy,0,Morning
+67465743-897b-403d-8b07-4d1a6a7a7841,2025-02-06 22:21:37,Thursday,Murder,Ikeja,Surulere,45.5975805,-94.438619,Stormy,0,Night
+54f6516e-a9d0-49dc-b69e-5af8e22649ee,2023-08-17 15:26:01,Thursday,Assault,Ikorodu,Ifako-Ijaiye,3.792140,-61.245185,Rainy,0,Afternoon
+9e47a339-c0ae-4b1a-b347-673637ec07a6,2024-02-19 08:58:19,Monday,Fraud,Surulere,Ifako-Ijaiye,6.8509295,-22.388465,Cloudy,0,Morning
+a6388854-fb2b-4b80-808b-d674d2dd3e26,2024-07-23 06:39:38,Tuesday,Fraud,Ikeja,Ifako-Ijaiye,37.468505,121.364262,Stormy,1,Morning
+e78d147c-3d87-4034-b217-3fa35893ef12,2023-06-14 01:33:26,Wednesday,Fraud,Lekki,Surulere,-59.2045615,179.133604,Sunny,0,Morning
+aebbaf9c-0a35-453c-b57a-431e3e6b74fd,2024-10-18 02:07:11,Friday,Robbery,Agege,Kosofe,74.7391335,153.467543,Sunny,0,Morning
+1d06149e-f1ea-464a-8bd4-31ccea7a8c21,2025-04-25 03:20:47,Friday,Fraud,Yaba,Ikeja,-3.8491275,24.747859,Rainy,0,Morning
+e94d4fbe-0653-4d47-8867-7b30b9567731,2024-04-01 22:41:35,Monday,Burglary,Surulere,Ikeja,-21.1219975,110.037699,Stormy,0,Night
+7c9f3bc3-7210-445a-823c-7ef9cd8565ce,2024-07-12 16:33:32,Friday,Assault,Ikeja,Ifako-Ijaiye,10.652033,96.117574,Stormy,0,Afternoon
+15149755-838e-4a61-9200-044b31487df8,2023-07-11 06:53:55,Tuesday,Murder,Lekki,Ifako-Ijaiye,-10.4266135,169.786538,Rainy,0,Morning
+10c2c2e5-a07e-4fb1-81e0-6ad888802d4d,2023-08-20 18:12:07,Sunday,Assault,Ajah,Ikeja,-45.0652995,108.823037,Clear,0,Evening
+af76b6c2-dd6d-4b41-b692-a531c6097cd8,2023-11-17 22:41:45,Friday,Murder,Ojota,Kosofe,89.9417155,157.968013,Clear,0,Night
+e0ee5e8a-b3e6-44c6-9428-df6c89aa4293,2024-05-01 17:16:54,Wednesday,Kidnapping,Victoria Island,Ifako-Ijaiye,-62.1023585,-69.630310,Clear,0,Evening
+bf343ca7-1276-4d13-b093-8776d116d014,2025-01-03 01:40:36,Friday,Kidnapping,Ikorodu,Eti-Osa,26.833247,167.119877,Cloudy,0,Morning
+09b2eae6-54eb-4c91-b784-ae08758fc8fa,2024-11-21 02:13:22,Thursday,Theft,Ajah,Kosofe,-48.7268185,-167.247736,Rainy,0,Morning
+8ede9b46-407d-4aff-8b51-a9112d90e4ee,2023-08-14 04:57:08,Monday,Assault,Ikorodu,Epe,-70.3376315,-150.865049,Cloudy,0,Morning
+63561add-685a-4f2b-8236-c0bfe9366a85,2023-07-31 22:34:48,Monday,Theft,Victoria Island,Ifako-Ijaiye,64.340264,-57.783684,Rainy,0,Night
+63b664f4-0452-4779-90ff-de646edaba8c,2024-05-22 15:02:10,Wednesday,Kidnapping,Ojota,Kosofe,79.1726585,37.136378,Sunny,0,Afternoon
+9e4c24dd-b864-447b-a434-47fb01829782,2024-11-11 04:38:33,Monday,Theft,Agege,Kosofe,-58.242539,107.137018,Rainy,1,Morning
+5b923c67-1295-48df-9926-fe41b36d0121,2023-07-26 08:16:42,Wednesday,Robbery,Ikeja,Ikorodu,67.197954,-155.563327,Stormy,0,Morning
+4d2551eb-af95-4e79-8971-bf514a32bb22,2025-05-28 01:30:30,Wednesday,Assault,Lekki,Ifako-Ijaiye,44.979267,-123.018915,Stormy,0,Morning
+61a451ff-700b-4b43-ad3b-9d13c3e90323,2024-09-20 08:39:04,Friday,Assault,Ojota,Eti-Osa,-66.7789315,-28.861475,Sunny,0,Morning
+38491ecc-8891-47fd-a804-d0ac795741bb,2024-04-09 02:53:21,Tuesday,Kidnapping,Ajah,Eti-Osa,87.361524,-163.454093,Rainy,0,Morning
+24e2226c-a250-4133-b5cb-5be44b83b570,2023-09-21 03:46:44,Thursday,Murder,Ajah,Kosofe,14.956267,112.983595,Clear,1,Morning
+8db3c2c1-02da-4d76-b310-2525f5179e72,2024-01-24 17:37:13,Wednesday,Kidnapping,Ajah,Epe,83.930232,20.322916,Clear,0,Evening
+929daf9f-0149-42af-8ab1-a5041f8c56e0,2025-04-16 16:16:54,Wednesday,Kidnapping,Surulere,Surulere,59.000400,-104.100481,Clear,0,Afternoon
+4e003d55-15ca-4faf-b26d-3dd38c2aa0b1,2024-09-12 15:53:51,Thursday,Robbery,Agege,Eti-Osa,15.785500,108.381311,Clear,0,Afternoon
+d9f93502-a55b-444f-a7d7-3d1d69a3b991,2023-11-17 09:06:50,Friday,Assault,Ikorodu,Epe,2.301974,-66.324595,Sunny,0,Morning
+d5b211a9-9dec-4b83-b885-8f7e2f1a25a8,2024-07-09 08:07:09,Tuesday,Kidnapping,Ikorodu,Epe,-51.759996,-93.588286,Sunny,0,Morning
+913a1734-ccb6-4571-abc5-35452e6d7a04,2023-12-20 12:53:33,Wednesday,Murder,Victoria Island,Ikorodu,-37.835953,-118.462490,Clear,0,Afternoon
+12b99a50-8cb6-41f0-a509-6396761579e7,2025-03-30 04:33:25,Sunday,Burglary,Epe,Surulere,-75.4002515,114.662198,Rainy,0,Morning
+94a1eab0-b9c0-47aa-b289-f58b1923cafc,2024-01-18 23:36:10,Thursday,Robbery,Yaba,Ikeja,-71.917448,-45.413109,Cloudy,0,Night
+3c0a584e-a7cd-43cb-abda-06b220d2b528,2024-06-19 15:19:54,Wednesday,Robbery,Ajah,Agege,-1.187880,11.737199,Clear,0,Afternoon
+515a6b43-3189-4f48-a66e-2c1111defebf,2023-08-23 22:25:10,Wednesday,Assault,Ajah,Kosofe,-13.4590815,152.600003,Sunny,1,Night
+b18678ce-4e40-4fba-a8cf-e5899dc89e1a,2024-06-18 14:33:15,Tuesday,Fraud,Yaba,Eti-Osa,30.969359,-3.720544,Cloudy,0,Afternoon
+50fb35b0-cec5-4969-9d4f-7107911ddc79,2024-09-02 23:09:40,Monday,Burglary,Ojota,Epe,-49.091790,123.628420,Clear,0,Night
+38b5e89a-c921-457c-bf05-557c502ed818,2024-05-04 21:40:22,Saturday,Robbery,Lekki,Ikorodu,-44.7311755,-177.405901,Rainy,0,Night
+2261ddef-5c07-4653-9711-73e446d47d41,2024-12-11 09:47:54,Wednesday,Assault,Yaba,Ifako-Ijaiye,82.023786,54.142326,Rainy,0,Morning
+c65720ae-5bd6-4d4d-b202-fae5767d3b27,2024-11-16 01:44:13,Saturday,Kidnapping,Ikorodu,Agege,-0.9967485,77.673324,Cloudy,0,Morning
+9b4bf377-a542-4eb9-acff-45f81bdc74a9,2024-01-30 11:51:05,Tuesday,Burglary,Surulere,Eti-Osa,40.7203855,116.176558,Clear,1,Morning
+4363589c-3249-4cff-89e2-df24e42c0aea,2023-08-09 21:32:41,Wednesday,Robbery,Ojota,Epe,-14.6727325,-104.837177,Rainy,0,Night
+04c4f46a-e461-4160-934d-695aba388c8f,2024-12-27 23:42:25,Friday,Robbery,Ajah,Ikeja,78.2067275,-138.949574,Sunny,0,Night
+9432d797-94f6-467a-9009-550707fc584e,2025-03-28 02:53:56,Friday,Robbery,Agege,Epe,46.1446415,159.101892,Rainy,0,Morning
+42b7c048-8d35-43be-8962-4ec9e80382eb,2024-04-16 21:41:53,Tuesday,Theft,Ikeja,Surulere,68.386667,-65.774980,Rainy,0,Night
+5da64a3a-260c-4fb4-8673-5380a7668617,2024-08-02 08:26:48,Friday,Murder,Agege,Eti-Osa,54.868473,73.458876,Sunny,0,Morning
+22460ac9-4a7e-4bc2-9b6f-1c33bbb4c0ce,2024-04-07 02:08:38,Sunday,Burglary,Yaba,Agege,-30.056580,136.539494,Sunny,0,Morning
+808e08d2-5d26-4b1b-a593-b659172e8c68,2024-06-02 04:06:05,Sunday,Theft,Epe,Agege,44.5192275,94.025352,Clear,0,Morning
+fb5abb36-ce79-48b7-b6c8-b8b9d9155664,2023-06-15 10:53:15,Thursday,Kidnapping,Victoria Island,Ikorodu,87.886402,-51.751846,Rainy,0,Morning
+2ddc756b-28c2-4ce9-b23b-80d423ef5561,2024-09-26 03:54:16,Thursday,Burglary,Ikorodu,Ifako-Ijaiye,-45.4817115,96.025028,Rainy,0,Morning
+bc653d94-256d-4d11-b7bd-8499df482e7c,2024-08-20 03:06:31,Tuesday,Burglary,Ikeja,Agege,61.8841445,174.019820,Sunny,0,Morning
+7cd61da4-c2ef-4a8b-b804-87860a58f43c,2024-12-26 18:59:48,Thursday,Fraud,Agege,Surulere,39.789458,12.626890,Cloudy,0,Evening
+ab286d09-0af5-4e60-bbe8-a5df5e934de0,2023-12-04 05:34:33,Monday,Robbery,Ikeja,Kosofe,-73.125836,-38.074354,Clear,0,Morning
+7463835e-eafb-4f20-b83c-91eb635a11f2,2023-11-14 19:59:33,Tuesday,Assault,Ajah,Ikorodu,49.0187575,13.945351,Stormy,0,Evening
+1a6cf459-52f6-431f-a605-b7c9fb07ee93,2025-04-21 22:45:52,Monday,Murder,Victoria Island,Ikeja,-77.5345395,-158.576331,Sunny,0,Night
+bdedcb7a-d5ba-404c-8603-c9eed463c183,2024-12-04 20:02:20,Wednesday,Theft,Victoria Island,Ikorodu,49.954972,160.143682,Stormy,0,Night
+a75743f9-606c-42f5-ac81-6bf091f60406,2023-12-28 18:00:42,Thursday,Kidnapping,Epe,Surulere,65.325193,112.245712,Sunny,0,Evening
+13ed280a-d5e1-4d1f-a5f2-2dfba741104b,2024-03-27 05:32:27,Wednesday,Fraud,Yaba,Ikorodu,8.058606,135.507667,Clear,0,Morning
+8430f0fa-390f-4cf5-a841-0a39f9012b9c,2024-07-12 12:44:20,Friday,Murder,Ojota,Kosofe,-22.465287,22.039975,Clear,1,Afternoon
+e31db345-7b6b-411e-8aeb-99597ca2f582,2024-04-17 10:53:29,Wednesday,Assault,Epe,Kosofe,4.730336,5.237819,Rainy,0,Morning
+2a6524af-709d-438b-a393-6d45e1ccff0d,2024-09-18 12:45:12,Wednesday,Burglary,Surulere,Kosofe,-88.228948,89.421677,Clear,0,Afternoon
+267627ca-3625-4c20-87e3-21c2a4bae8bf,2023-12-02 20:46:59,Saturday,Murder,Yaba,Ikorodu,-69.306788,96.242240,Rainy,0,Night
+1e4ae3a7-d123-47c1-b7a1-267e9a1e0036,2023-10-30 09:37:07,Monday,Theft,Lekki,Agege,-47.759708,14.466962,Cloudy,0,Morning
+1d03c3d5-b862-4cc3-9489-9c37cfa9026b,2024-11-01 17:25:17,Friday,Fraud,Yaba,Eti-Osa,-28.166878,42.594024,Sunny,0,Evening
+a5b2c7ea-2947-4f54-973e-129c35f0b1be,2024-06-15 05:33:55,Saturday,Fraud,Ikorodu,Ifako-Ijaiye,38.5308275,77.172531,Cloudy,0,Morning
+92d00319-20bd-4422-8b0b-81de3e612d66,2025-03-15 12:29:38,Saturday,Fraud,Epe,Ikeja,20.299916,-167.949373,Stormy,0,Afternoon
+e40b50e4-0a08-4989-833c-8f55a1298fa2,2024-09-09 07:36:18,Monday,Burglary,Victoria Island,Ikorodu,-46.747226,-107.670580,Clear,0,Morning
+2e16f0b6-ec25-4a75-821d-4dca2a955908,2024-08-24 17:19:02,Saturday,Fraud,Lekki,Kosofe,-50.576200,-149.982469,Stormy,0,Evening
+04c44853-a33b-4dfd-9048-65c6f8205aa7,2024-07-12 12:19:29,Friday,Fraud,Ojota,Eti-Osa,18.8388515,141.777617,Clear,0,Afternoon
+72fefdc2-3772-4a97-95f3-9d39f27f3ad7,2025-04-19 14:02:19,Saturday,Kidnapping,Yaba,Agege,87.635836,-27.821459,Stormy,0,Afternoon
+6928043e-d492-451a-b828-3a052baa43c9,2024-09-20 07:54:23,Friday,Theft,Ikorodu,Agege,36.5440855,78.593753,Sunny,0,Morning
+9f8acdeb-2e8f-45a8-847a-3b7ed209383b,2024-09-15 21:53:23,Sunday,Assault,Epe,Epe,-51.6910035,132.805761,Clear,0,Night
+57b94dfb-af82-470c-b964-4e4f2aefcf3b,2024-10-31 14:11:18,Thursday,Fraud,Agege,Ikorodu,47.118149,-37.986531,Rainy,0,Afternoon
+60d2759a-3ad5-4382-919f-b03e97314c91,2025-05-23 15:19:51,Friday,Burglary,Ojota,Ikorodu,31.727464,140.261411,Clear,0,Afternoon
+dc0e3375-85d0-491c-b3cd-1d56043d72db,2024-04-01 14:58:29,Monday,Theft,Ajah,Surulere,-54.5092895,-121.711863,Clear,0,Afternoon
+18a70609-9b02-4535-a649-a478d3966f0a,2025-05-13 12:45:22,Tuesday,Robbery,Epe,Agege,45.3879785,45.375731,Cloudy,0,Afternoon
+c8ab96ac-e0b4-459a-89fe-4cdd998d65ba,2023-10-23 00:50:01,Monday,Kidnapping,Ajah,Agege,37.740160,150.040408,Cloudy,0,Morning
+215d3b1f-a8cd-444d-bb74-244017db4c2f,2024-07-24 00:01:00,Wednesday,Assault,Epe,Eti-Osa,45.111405,-116.908859,Rainy,0,Morning
+f00f63ef-e59f-41c2-804e-a81ad3d877a8,2025-05-07 19:39:32,Wednesday,Kidnapping,Agege,Epe,71.9939935,109.526959,Cloudy,0,Evening
+dff47c51-5ed1-4e7f-abb1-f2bc85a4b0cb,2025-01-29 02:04:33,Wednesday,Burglary,Ikorodu,Eti-Osa,84.2768175,51.658093,Rainy,0,Morning
+7b6c7129-cd63-4ba8-b03c-664b3abf9c65,2023-07-10 23:11:33,Monday,Murder,Surulere,Ikorodu,52.221538,50.294142,Sunny,0,Night
+e869707c-bdcb-4ffc-8dfb-a4e996cbdafb,2025-02-09 11:49:38,Sunday,Fraud,Victoria Island,Ifako-Ijaiye,12.3373935,8.182816,Clear,0,Morning
+7a25ed81-4128-47eb-a246-29cd6cecdf82,2025-01-18 17:33:52,Saturday,Theft,Lekki,Eti-Osa,64.6512555,-127.538634,Cloudy,0,Evening
+8b31f4d8-e073-41d0-9929-afeb48842a14,2025-01-22 02:05:20,Wednesday,Murder,Victoria Island,Ikorodu,-27.585298,-135.000779,Rainy,1,Morning
+ca179780-be5f-402f-b58a-c73801667221,2024-04-19 15:10:16,Friday,Assault,Victoria Island,Ikeja,-20.796003,-78.520113,Rainy,0,Afternoon
+6001f54d-01d7-4831-850f-1cdc1e2a03f1,2023-06-12 18:03:37,Monday,Robbery,Surulere,Ikeja,65.152242,100.536866,Rainy,1,Evening
+279f91ab-1b49-49b6-9cbd-b68268aa1236,2024-10-27 15:04:06,Sunday,Theft,Epe,Ikeja,-34.858339,-10.401560,Cloudy,0,Afternoon
