@@ -1,9 +1,10 @@
 # data/generate_data.py
+
 import pandas as pd
 import numpy as np
 from faker import Faker
 import random
-from datetime import datetime, timedelta
+from datetime import datetime
 
 fake = Faker()
 Faker.seed(42)
@@ -12,8 +13,32 @@ random.seed(42)
 
 crime_types = ['Robbery', 'Assault', 'Kidnapping', 'Burglary', 'Fraud', 'Theft', 'Murder']
 locations = ['Ikeja', 'Yaba', 'Lekki', 'Surulere', 'Agege', 'Ajah', 'Ikorodu', 'Epe', 'Victoria Island', 'Ojota']
-lgas = ['Ikeja', 'Eti-Osa', 'Kosofe', 'Surulere', 'Agege', 'Ifako-Ijaiye', 'Ikorodu', 'Epe']
 weather_conditions = ['Clear', 'Rainy', 'Cloudy', 'Sunny', 'Stormy']
+
+# 20 LGAs in Lagos State
+lgas = [
+    'Agege', 'Ajeromi-Ifelodun', 'Alimosho', 'Amuwo-Odofin',
+    'Apapa', 'Badagry', 'Epe', 'Eti-Osa',
+    'Ibeju-Lekki', 'Ifako-Ijaiye', 'Ikeja', 'Ikorodu',
+    'Kosofe', 'Mushin', 'Oshodi-Isolo', 'Somolu',
+    'Lagos Island', 'Lagos Mainland', 'Ojo', 'Surulere'
+]
+
+# 37 LCDAs in Lagos State
+lcdas = [
+    'Agbado/Oke-Odo', 'Agboyi-Ketu', 'Ayobo-Ipaja', 'Bariga', 'Coker-Aguda',
+    'Ejigbo', 'Egbe-Idimu', 'Eredo', 'Eti-Osa East', 'Iba',
+    'Ifelodun', 'Igando-Ikotun', 'Igbogbo/Bayeku', 'Ijede',
+    'Ikorodu North', 'Ikorodu West', 'Ikosi-Isheri', 'Ikoyi-Obalende',
+    'Imota', 'Iru-Victoria Island', 'Isolo', 'Itire-Ikate',
+    'Lagos Island East', 'Lekki', 'Mosan-Okunola', 'Odi-Olowo/Ojuwoye',
+    'Olorunda', 'Oriade', 'Orile-Agege', 'Oto-Awori', 'Ojodu',
+    'Ojokoro', 'Onigbongbo', 'Yaba', 'Akinyele', 'Otun-Akute', 'Ijanikin', 'Festac'
+]
+
+# Combine into all local areas
+all_areas = lgas + lcdas
+
 time_periods = ['Morning', 'Afternoon', 'Evening', 'Night']
 
 def generate_data(num_records=1000):
@@ -24,7 +49,8 @@ def generate_data(num_records=1000):
         location = random.choice(locations)
         lat = fake.latitude()
         lon = fake.longitude()
-        lga = random.choice(lgas)
+        area = random.choice(all_areas)
+        area_type = 'LGA' if area in lgas else 'LCDA'
         weather = random.choice(weather_conditions)
         crime_type = random.choice(crime_types)
         day_of_week = crime_time.strftime('%A')
@@ -46,7 +72,8 @@ def generate_data(num_records=1000):
             'day_of_week': day_of_week,
             'crime_type': crime_type,
             'location': location,
-            'lga': lga,
+            'area': area,
+            'area_type': area_type,
             'latitude': lat,
             'longitude': lon,
             'weather_condition': weather,

@@ -1,0 +1,226 @@
+<svg width="1600" height="600" viewBox="0 0 1600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1e293b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#334155;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="buildingGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#4b5563;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#374151;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="barGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f87171;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="alertGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Patterns -->
+    <pattern id="techGrid" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#3b82f6" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+    
+    <pattern id="buildingWindows" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="none"/>
+      <rect x="4" y="4" width="8" height="8" fill="#ffffff" opacity="0.1"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1600" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Tech Grid Overlay -->
+  <rect width="1600" height="600" fill="url(#techGrid)"/>
+  
+  <!-- Alert Banner -->
+  <rect width="1600" height="4" fill="url(#alertGradient)"/>
+  
+  <!-- Background Glows -->
+  <circle cx="320" cy="180" r="150" fill="#ef4444" opacity="0.1"/>
+  <circle cx="1280" cy="420" r="200" fill="#3b82f6" opacity="0.1"/>
+  
+  <!-- Title Section -->
+  <text x="80" y="200" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#f8fafc">LAGOS CRIME INTELLIGENCE</text>
+  <text x="80" y="240" font-family="Arial, sans-serif" font-size="24" fill="#94a3b8">Predictive Analytics &amp; Real-Time Monitoring Dashboard</text>
+  
+  <!-- Feature Icons and Text -->
+  <g transform="translate(80, 280)">
+    <!-- Predictive Analytics -->
+    <circle cx="10" cy="10" r="10" fill="#ef4444"/>
+    <text x="8" y="15" font-family="Arial, sans-serif" font-size="12" fill="white">🎯</text>
+    <text x="30" y="15" font-family="Arial, sans-serif" font-size="16" fill="#e2e8f0">Predictive Analytics</text>
+    
+    <!-- Real-Time Data -->
+    <circle cx="220" cy="10" r="10" fill="#ef4444"/>
+    <text x="218" y="15" font-family="Arial, sans-serif" font-size="12" fill="white">📊</text>
+    <text x="240" y="15" font-family="Arial, sans-serif" font-size="16" fill="#e2e8f0">Real-Time Data</text>
+    
+    <!-- Geospatial Analysis -->
+    <circle cx="400" cy="10" r="10" fill="#ef4444"/>
+    <text x="398" y="15" font-family="Arial, sans-serif" font-size="12" fill="white">🗺️</text>
+    <text x="420" y="15" font-family="Arial, sans-serif" font-size="16" fill="#e2e8f0">Geospatial Analysis</text>
+  </g>
+  
+  <!-- Crime Risk Indicators -->
+  <g transform="translate(80, 380)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f8fafc">RISK ZONES</text>
+    
+    <circle cx="8" cy="25" r="4" fill="#ef4444"/>
+    <text x="20" y="30" font-family="Arial, sans-serif" font-size="14" fill="#e2e8f0">High Risk Areas</text>
+    
+    <circle cx="8" cy="50" r="4" fill="#f59e0b"/>
+    <text x="20" y="55" font-family="Arial, sans-serif" font-size="14" fill="#e2e8f0">Medium Risk Zones</text>
+    
+    <circle cx="8" cy="75" r="4" fill="#10b981"/>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="14" fill="#e2e8f0">Safe Areas</text>
+  </g>
+  
+  <!-- Lagos Skyline -->
+  <g transform="translate(900, 300)">
+    <!-- Buildings -->
+    <rect x="0" y="180" width="40" height="120" fill="url(#buildingGradient)" stroke="#6b7280" stroke-width="2"/>
+    <rect x="0" y="180" width="40" height="120" fill="url(#buildingWindows)"/>
+    
+    <rect x="50" y="140" width="60" height="160" fill="url(#buildingGradient)" stroke="#6b7280" stroke-width="2"/>
+    <rect x="50" y="140" width="60" height="160" fill="url(#buildingWindows)"/>
+    
+    <rect x="120" y="200" width="45" height="100" fill="url(#buildingGradient)" stroke="#6b7280" stroke-width="2"/>
+    <rect x="120" y="200" width="45" height="100" fill="url(#buildingWindows)"/>
+    
+    <rect x="175" y="160" width="55" height="140" fill="url(#buildingGradient)" stroke="#6b7280" stroke-width="2"/>
+    <rect x="175" y="160" width="55" height="140" fill="url(#buildingWindows)"/>
+    
+    <rect x="240" y="210" width="35" height="90" fill="url(#buildingGradient)" stroke="#6b7280" stroke-width="2"/>
+    <rect x="240" y="210" width="35" height="90" fill="url(#buildingWindows)"/>
+    
+    <rect x="285" y="170" width="50" height="130" fill="url(#buildingGradient)" stroke="#6b7280" stroke-width="2"/>
+    <rect x="285" y="170" width="50" height="130" fill="url(#buildingWindows)"/>
+  </g>
+  
+  <!-- Data Visualization Charts -->
+  <g transform="translate(1150, 80)">
+    <!-- Chart Background -->
+    <rect x="0" y="0" width="400" height="300" fill="#1e293b" stroke="#374151" stroke-width="1" rx="8" opacity="0.8"/>
+    
+    <!-- Chart Title -->
+    <text x="20" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f8fafc">LIVE CRIME ANALYTICS</text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#94a3b8">Real-time incident tracking</text>
+    
+    <!-- Main Bar Chart -->
+    <g transform="translate(30, 80)">
+      <rect x="0" y="140" width="25" height="60" fill="url(#barGradient)" rx="2"/>
+      <rect x="35" y="120" width="25" height="80" fill="url(#barGradient)" rx="2"/>
+      <rect x="70" y="155" width="25" height="45" fill="url(#barGradient)" rx="2"/>
+      <rect x="105" y="100" width="25" height="100" fill="url(#barGradient)" rx="2"/>
+      <rect x="140" y="135" width="25" height="65" fill="url(#barGradient)" rx="2"/>
+      <rect x="175" y="110" width="25" height="90" fill="url(#barGradient)" rx="2"/>
+      <rect x="210" y="165" width="25" height="35" fill="url(#barGradient)" rx="2"/>
+      <rect x="245" y="125" width="25" height="75" fill="url(#barGradient)" rx="2"/>
+      
+      <!-- Chart Grid Lines -->
+      <g stroke="#475569" stroke-width="0.5" opacity="0.5">
+        <line x1="0" y1="200" x2="280" y2="200"/>
+        <line x1="0" y1="150" x2="280" y2="150"/>
+        <line x1="0" y1="100" x2="280" y2="100"/>
+        <line x1="0" y1="50" x2="280" y2="50"/>
+      </g>
+      
+      <!-- Chart Labels -->
+      <text x="12" y="220" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">MON</text>
+      <text x="47" y="220" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">TUE</text>
+      <text x="82" y="220" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">WED</text>
+      <text x="117" y="220" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">THU</text>
+      <text x="152" y="220" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">FRI</text>
+      <text x="187" y="220" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">SAT</text>
+      <text x="222" y="220" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">SUN</text>
+      <text x="257" y="220" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">TODAY</text>
+    </g>
+    
+    <!-- Side Statistics -->
+    <g transform="translate(320, 80)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f8fafc">ALERTS</text>
+      
+      <rect x="0" y="15" width="60" height="30" fill="#ef4444" rx="4" opacity="0.2"/>
+      <text x="5" y="28" font-family="Arial, sans-serif" font-size="10" fill="#ef4444">HIGH</text>
+      <text x="5" y="38" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f8fafc">47</text>
+      
+      <rect x="0" y="55" width="60" height="30" fill="#f59e0b" rx="4" opacity="0.2"/>
+      <text x="5" y="68" font-family="Arial, sans-serif" font-size="10" fill="#f59e0b">MED</text>
+      <text x="5" y="78" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f8fafc">23</text>
+      
+      <rect x="0" y="95" width="60" height="30" fill="#10b981" rx="4" opacity="0.2"/>
+      <text x="5" y="108" font-family="Arial, sans-serif" font-size="10" fill="#10b981">LOW</text>
+      <text x="5" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f8fafc">12</text>
+    </g>
+    
+    <!-- Trend Line -->
+    <g transform="translate(30, 80)" stroke="#3b82f6" stroke-width="2" fill="none" opacity="0.7">
+      <path d="M 12 160 Q 47 140 82 175 T 117 120 T 152 155 T 187 130 T 222 185 T 257 145"/>
+    </g>
+    
+    <!-- Data Points -->
+    <g transform="translate(30, 80)">
+      <circle cx="12" cy="160" r="3" fill="#3b82f6"/>
+      <circle cx="47" cy="140" r="3" fill="#3b82f6"/>
+      <circle cx="82" cy="175" r="3" fill="#3b82f6"/>
+      <circle cx="117" cy="120" r="3" fill="#3b82f6"/>
+      <circle cx="152" cy="155" r="3" fill="#3b82f6"/>
+      <circle cx="187" cy="130" r="3" fill="#3b82f6"/>
+      <circle cx="222" cy="185" r="3" fill="#3b82f6"/>
+      <circle cx="257" cy="145" r="3" fill="#3b82f6"/>
+    </g>
+  </g>
+  
+  <!-- Crime Hotspot Pins -->
+  <g transform="translate(1000, 150)">
+    <circle cx="50" cy="60" r="5" fill="#ef4444" stroke="#fef2f2" stroke-width="2"/>
+    <circle cx="120" cy="120" r="5" fill="#ef4444" stroke="#fef2f2" stroke-width="2"/>
+    <circle cx="200" cy="80" r="5" fill="#ef4444" stroke="#fef2f2" stroke-width="2"/>
+    <circle cx="150" cy="40" r="5" fill="#f59e0b" stroke="#fef3c4" stroke-width="2"/>
+    <circle cx="80" cy="180" r="5" fill="#f59e0b" stroke="#fef3c4" stroke-width="2"/>
+  </g>
+  
+  <!-- Map Grid Lines -->
+  <g transform="translate(900, 100)" stroke="#3b82f6" stroke-width="1" opacity="0.3">
+    <line x1="0" y1="0" x2="500" y2="0"/>
+    <line x1="0" y1="50" x2="500" y2="50"/>
+    <line x1="0" y1="100" x2="500" y2="100"/>
+    <line x1="0" y1="150" x2="500" y2="150"/>
+    <line x1="0" y1="200" x2="500" y2="200"/>
+    <line x1="0" y1="0" x2="0" y2="200"/>
+    <line x1="100" y1="0" x2="100" y2="200"/>
+    <line x1="200" y1="0" x2="200" y2="200"/>
+    <line x1="300" y1="0" x2="300" y2="200"/>
+    <line x1="400" y1="0" x2="400" y2="200"/>
+    <line x1="500" y1="0" x2="500" y2="200"/>
+  </g>
+  
+  <!-- AI/Neural Network Pattern -->
+  <g transform="translate(1300, 50)" stroke="#8b5cf6" stroke-width="1" opacity="0.4" fill="none">
+    <circle cx="20" cy="20" r="3"/>
+    <circle cx="60" cy="40" r="3"/>
+    <circle cx="100" cy="30" r="3"/>
+    <circle cx="140" cy="50" r="3"/>
+    <line x1="20" y1="20" x2="60" y2="40"/>
+    <line x1="60" y1="40" x2="100" y2="30"/>
+    <line x1="100" y1="30" x2="140" y2="50"/>
+    <line x1="20" y1="20" x2="100" y2="30"/>
+  </g>
+  
+  <!-- Status Indicators -->
+  <g transform="translate(1400, 500)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f8fafc">SYSTEM STATUS</text>
+    <circle cx="0" cy="20" r="4" fill="#10b981"/>
+    <text x="12" y="25" font-family="Arial, sans-serif" font-size="12" fill="#e2e8f0">Online</text>
+    <circle cx="70" cy="20" r="4" fill="#10b981"/>
+    <text x="82" y="25" font-family="Arial, sans-serif" font-size="12" fill="#e2e8f0">Active</text>
+  </g>
+</svg>

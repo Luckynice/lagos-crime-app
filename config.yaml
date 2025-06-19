@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    admin:
+      name: Admin User
+      password: '$2b$12$H8R7V...your_bcrypt_hash_here'
+      email: admin@example.com
+
+cookie:
+  name: crime_cookie
+  key: secret_key_here
+  expiry_days: 1
+
+preauthorized:
+  emails:
+    - admin@example.com
