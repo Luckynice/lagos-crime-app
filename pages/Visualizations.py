@@ -5,22 +5,29 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from datetime import datetime
 
+st.set_page_config(page_title="Crime Visualizations", page_icon="📊", layout="wide")
+
 @st.cache_data(ttl=3600)
 def load_lagos_crime_data():
-    """Load synthetic crime prediction data from CSV"""
     try:
         df = pd.read_csv("data/lagos_crime_data.csv")
 
-        # Parse datetime
+        # Ensure lowercase, remove duplicate columns
+        df.columns = df.columns.str.lower()
+        df = df.loc[:, ~df.columns.duplicated()]
+
+        # Parse datetime and extract components
         df['date_time'] = pd.to_datetime(df['date_time'], errors='coerce')
+        df = df.dropna(subset=['date_time'])
         df['date'] = df['date_time'].dt.date
         df['hour'] = df['date_time'].dt.hour
         df['day_of_week'] = df['date_time'].dt.day_name()
 
-        # Rename 'area' to 'lga' for visualization
-        df.rename(columns={'area': 'lga'}, inplace=True)
+        # Rename area to lga if needed
+        if 'area' in df.columns and 'lga' not in df.columns:
+            df.rename(columns={'area': 'lga'}, inplace=True)
 
-        # Map severity
+        # Map severity levels
         severity_map = {
             "robbery": "High", "assault": "Medium", "theft": "Medium",
             "vandalism": "Low", "burglary": "High", "fraud": "Medium",
@@ -30,43 +37,43 @@ def load_lagos_crime_data():
 
         return df
     except Exception as e:
-        st.error(f"Error loading data: {e}")
+        st.error(f"❌ Error loading data: {e}")
         return pd.DataFrame()
 
 def show_visualizations():
-    st.header("📊 Lagos Crime Data Explorer")
-    st.markdown("Explore patterns and trends in synthetic Lagos crime prediction data.")
+    st.title("📊 Lagos Crime Data Explorer")
+    st.markdown("Use the filters to explore visual trends in crime across Lagos.")
 
     data = load_lagos_crime_data()
     if data.empty:
-        st.warning("No data available.")
+        st.warning("⚠️ No data loaded.")
         return
 
-    # Sidebar Filters
-    with st.sidebar:
-        st.header("🔍 Filter Crime Data")
+    # --- Sidebar Filters ---
+    st.sidebar.header("🔍 Filter Crime Data")
 
-        with st.expander("📍 Location Filters"):
-            lgas = sorted(data['lga'].dropna().unique())
-            selected_lgas = st.multiselect("Select LGAs", lgas, default=lgas[:5])
+    # Fix lga selection if lga column is not a Series
+    try:
+        lgas = sorted(data['lga'].dropna().unique())
+    except AttributeError:
+        lgas = sorted(data['lga'].iloc[:, 0].dropna().unique())  # fallback if lga is a DataFrame
 
-        with st.expander("🦹 Crime Type Filters"):
-            crimes = sorted(data['crime_type'].dropna().unique())
-            selected_crimes = st.multiselect("Select Crime Types", crimes, default=crimes)
+    selected_lgas = st.sidebar.multiselect("📍 LGAs", lgas, default=lgas[:5])
 
-        with st.expander("⚠️ Severity Filters"):
-            severities = sorted(data['severity'].dropna().unique())
-            selected_severity = st.multiselect("Select Severity", severities, default=severities)
+    crimes = sorted(data['crime_type'].dropna().unique())
+    selected_crimes = st.sidebar.multiselect("🦹 Crime Types", crimes, default=crimes)
 
-        with st.expander("🕒 Time Filters"):
-            hour_range = st.slider("Hour Range (24h)", 0, 23, (6, 20))
-            if 'date' in data.columns:
-                min_date = data['date'].min()
-                max_date = data['date'].max()
-                date_range = st.date_input("Date Range", [min_date, max_date])
+    severities = sorted(data['severity'].dropna().unique())
+    selected_severity = st.sidebar.multiselect("⚠️ Severity Levels", severities, default=severities)
 
-    # Apply Filters
-    filtered_data = data[
+    hour_range = st.sidebar.slider("🕒 Hour Range", 0, 23, (6, 20))
+
+    min_date = data['date'].min()
+    max_date = data['date'].max()
+    date_range = st.sidebar.date_input("📅 Date Range", [min_date, max_date], min_value=min_date, max_value=max_date)
+
+    # --- Apply Filters ---
+    filtered = data[
         (data['lga'].isin(selected_lgas)) &
         (data['crime_type'].isin(selected_crimes)) &
         (data['severity'].isin(selected_severity)) &
@@ -74,59 +81,61 @@ def show_visualizations():
         (data['hour'] <= hour_range[1])
     ]
 
-    if 'date' in data.columns and len(date_range) == 2:
-        filtered_data = filtered_data[
-            (filtered_data['date'] >= date_range[0]) &
-            (filtered_data['date'] <= date_range[1])
+    if len(date_range) == 2:
+        filtered = filtered[
+            (filtered['date'] >= date_range[0]) &
+            (filtered['date'] <= date_range[1])
         ]
 
-    st.caption(f"📌 {len(filtered_data)} records match your filters")
+    st.caption(f"🔎 Showing **{len(filtered)}** records based on selected filters")
 
-    # Tabs for Visualizations
+    # ---------- TABS ----------
     tab1, tab2, tab3 = st.tabs(["📍 By Location", "📅 By Time", "🌡️ Heatmaps"])
 
-    # ---- TAB 1: Location-based ----
+    # ---------- TAB 1: Location ----------
     with tab1:
+        st.subheader("📍 Crimes by Location & Map")
+
         col1, col2 = st.columns(2)
 
         with col1:
-            if not filtered_data.empty:
+            if not filtered.empty:
                 fig_lga = px.histogram(
-                    filtered_data,
+                    filtered,
                     x="lga",
                     color="severity",
                     title="Crimes by LGA (Grouped by Severity)",
                     barmode='group',
                     labels={'count': 'Crime Count'},
-                    color_discrete_map={
-                        "High": "#EF553B",
-                        "Medium": "#636EFA",
-                        "Low": "#00CC96"
-                    }
+                    color_discrete_map={"High": "#EF553B", "Medium": "#636EFA", "Low": "#00CC96"}
                 )
                 st.plotly_chart(fig_lga, use_container_width=True)
+            else:
+                st.info("No data to display for selected filters.")
 
         with col2:
-            if not filtered_data.empty:
+            if not filtered.empty and 'latitude' in filtered.columns and 'longitude' in filtered.columns:
                 fig_map = px.density_mapbox(
-                    filtered_data,
+                    filtered.dropna(subset=['latitude', 'longitude']),
                     lat='latitude',
                     lon='longitude',
                     radius=10,
                     center=dict(lat=6.5244, lon=3.3792),
                     zoom=9.5,
-                    mapbox_style="stamen-terrain",
+                    mapbox_style="carto-positron",
                     title="Crime Density Map"
                 )
                 st.plotly_chart(fig_map, use_container_width=True)
 
-    # ---- TAB 2: Time-based ----
+    # ---------- TAB 2: Time ----------
     with tab2:
-        if not filtered_data.empty:
-            col1, col2 = st.columns(2)
+        st.subheader("📅 Crimes by Time")
 
-            with col1:
-                trend_data = filtered_data['date'].value_counts().sort_index()
+        col1, col2 = st.columns(2)
+
+        with col1:
+            if not filtered.empty:
+                trend_data = filtered['date'].value_counts().sort_index()
                 fig_trend = px.line(
                     x=trend_data.index,
                     y=trend_data.values,
@@ -136,8 +145,9 @@ def show_visualizations():
                 )
                 st.plotly_chart(fig_trend, use_container_width=True)
 
-            with col2:
-                hour_data = filtered_data['hour'].value_counts().sort_index()
+        with col2:
+            if not filtered.empty:
+                hour_data = filtered['hour'].value_counts().sort_index()
                 fig_hour = px.bar(
                     x=hour_data.index,
                     y=hour_data.values,
@@ -146,48 +156,48 @@ def show_visualizations():
                 )
                 st.plotly_chart(fig_hour, use_container_width=True)
 
-    # ---- TAB 3: Heatmaps & Pie ----
+    # ---------- TAB 3: Heatmap + Pie ----------
     with tab3:
-        st.markdown("### Weekly Crime Patterns")
+        st.subheader("🌡️ Weekly Crime Heatmap")
 
-        if 'day_of_week' in filtered_data.columns and 'hour' in filtered_data.columns:
-            pivot = pd.pivot_table(
-                filtered_data,
+        if 'day_of_week' in filtered.columns and 'hour' in filtered.columns:
+            heatmap_data = pd.pivot_table(
+                filtered,
                 values='crime_type',
                 index='day_of_week',
                 columns='hour',
                 aggfunc='count',
                 fill_value=0
             )
-            days_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
-            pivot = pivot.reindex(days_order)
 
-            if not pivot.empty:
-                fig, ax = plt.subplots(figsize=(12, 5))
-                sns.heatmap(pivot, cmap="YlOrRd", linewidths=.5, ax=ax)
-                ax.set_title("Crime Frequency by Day/Hour")
-                st.pyplot(fig)
+            # Sort days for clarity
+            day_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+            heatmap_data = heatmap_data.reindex(day_order)
 
-        st.markdown("### Severity Distribution")
-        if not filtered_data.empty:
+            fig, ax = plt.subplots(figsize=(12, 5))
+            sns.heatmap(heatmap_data, cmap="YlOrRd", linewidths=0.5, ax=ax)
+            ax.set_title("Crime Frequency by Day and Hour")
+            st.pyplot(fig)
+
+        st.markdown("### 🔄 Severity Distribution")
+        if not filtered.empty:
             fig_pie = px.pie(
-                filtered_data,
+                filtered,
                 names='severity',
                 title='Crime Severity Distribution',
                 color='severity',
-                color_discrete_map={
-                    "High": "#EF553B",
-                    "Medium": "#636EFA",
-                    "Low": "#00CC96"
-                }
+                color_discrete_map={"High": "#EF553B", "Medium": "#636EFA", "Low": "#00CC96"}
             )
             st.plotly_chart(fig_pie, use_container_width=True)
 
-    # Footer
+    # ---------- Footer ----------
     st.markdown("---")
     st.markdown(f"""
-    **ℹ️ About This Dashboard**
-    - Visualizations based on synthetic predictions in `lagos_crime_data.csv`
-    - Last updated: {datetime.now().strftime("%Y-%m-%d %H:%M")}
+    ℹ️ **About This Dashboard**  
+    - Data is synthetic and used for demonstration only  
+    - Last update: **{datetime.now().strftime("%Y-%m-%d %H:%M")}**
     """)
 
+# Optional direct run
+if __name__ == "__main__":
+    show_visualizations()

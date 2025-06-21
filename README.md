@@ -50,3 +50,118 @@ new_lagos_crime_predictor/
    ```bash
    git clone https://github.com/Luckynice/lagos-crime-app.git
    cd lagos-crime-app
+
+
+📍 Lagos Crime Predictor
+
+An AI-powered web app to predict, visualize, and manage crime trends in Lagos, Nigeria. Built with Streamlit, scikit-learn, MongoDB Atlas, and Plotly.
+
+🚀 Features
+
+🔐 User Authentication
+
+Secure login & registration with hashed passwords
+
+Role-based access for admin and user
+
+🤖 Crime Prediction
+
+Input: location, time, date, weather, LGA
+
+Output: most likely crime + top 3 predictions with confidence scores
+
+Location geocoding via OpenStreetMap
+
+Holiday recognition using Nigeria's holiday calendar
+
+Predictions stored in MongoDB
+
+📊 Visualizations
+
+Crime trends by time, date, weather, LGA
+
+Interactive bar charts & pie charts
+
+🗺️ Crime Map
+
+Density map of all recorded predictions using Plotly Mapbox
+
+👤 User Dashboard
+
+View your own predictions
+
+Delete or download them as PDFs
+
+🧑‍💼 Admin Panel
+
+View all users' predictions
+
+Filter by user email
+
+Delete or impersonate users
+
+Admin-only access
+
+📁 Project Structure
+
+new_lagos_crime_predictor/
+├── App.py                   # Main router
+├── auth.py                 # Login/register backend
+├── train_model.py          # ML model training
+├── models/
+│   └── crime_model.pkl     # Saved classifier
+├── pages/
+│   ├── Login.py            # Login and registration
+│   ├── Predict.py          # Prediction form
+│   ├── Admin.py            # Admin dashboard
+│   ├── Profile.py          # User dashboard
+│   ├── Visualizations.py   # Charts
+│   ├── Map.py              # Crime density map
+│   └── Home.py             # Landing page
+├── data/
+│   └── lagos_crime_data.csv
+
+☁️ Deployment Instructions
+
+✅ Prerequisites
+
+Python 3.9+
+
+MongoDB Atlas Cluster with a users and predictions collection
+
+📦 Install dependencies
+
+pip install -r requirements.txt
+
+🔐 Environment Variables
+
+Edit auth.py and replace MONGO_URI with your Atlas URI.
+
+🧠 Train the model
+
+python train_model.py
+
+🚀 Run the app
+
+streamlit run App.py
+
+App will run at: http://localhost:8501
+
+📌 Feature Roadmap
+
+✅ Completed
+
+
+
+🧪 In Progress / Future
+
+
+
+🤝 Authors
+
+Lucky Osehi & ChatGPT
+
+📃 License
+
+MIT License - use freely for educational/non-commercial projects.
+

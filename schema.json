@@ -1,0 +1,13 @@
+{
+  "input_schema": {
+    "location": "string",
+    "lga": "string",
+    "latitude": "float",
+    "longitude": "float",
+    "weather_condition": "string",
+    "is_holiday": "int",
+    "time_period": "string",
+    "day_of_week": "string",
+    "hour": "int"
+  }
+}

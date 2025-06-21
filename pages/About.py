@@ -1,5 +1,8 @@
 import streamlit as st
 
+# This sets the title shown in the browser tab and sidebar
+st.set_page_config(page_title="About", page_icon="ℹ️")
+
 def show_about():
     st.title("ℹ️ About Lagos Crime Prediction System")
 
@@ -29,7 +32,6 @@ def show_about():
     ---
     """)
 
-    # Optional: Team credits, future roadmap, or data disclaimer
     with st.expander("📌 Project Notes"):
         st.markdown("""
         - 🔐 Only authorized admins can access prediction logs  
@@ -39,3 +41,7 @@ def show_about():
 
     st.caption("© 2025 Lagos Crime Prediction System | Built with ❤️ using Streamlit")
     st.markdown("For issues or suggestions, please contact the admin.")
+
+# Optional: call the function if this page is run directly
+if __name__ == "__main__":
+    show_about()

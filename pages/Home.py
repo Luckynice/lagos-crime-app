@@ -8,7 +8,6 @@ def load_data():
     df.columns = df.columns.str.strip().str.lower()
     df['date_time'] = pd.to_datetime(df['date_time'], errors='coerce')
 
-    # Assign severity if not already present
     if 'severity' not in df.columns and 'crime_type' in df.columns:
         severity_map = {
             "robbery": "High",
@@ -22,13 +21,19 @@ def load_data():
             "murder": "High"
         }
         df['severity'] = df['crime_type'].map(lambda x: severity_map.get(str(x).lower(), "Low"))
-    
+
     return df
 
 def show_home():
+    # Check login
+    if "user" not in st.session_state or not st.session_state.user:
+        st.warning("🚫 Please login to access the dashboard.")
+        st.switch_page("pages/Login.py")  # ✅ corrected path
+        return
+
     df = load_data()
 
-    # Welcome admin
+    # Welcome
     admin_name = st.session_state.get("user", {}).get("name", "Admin")
     st.markdown(f"## 👋 Welcome, **{admin_name}**")
     st.markdown("Explore, understand, and predict crime patterns in Lagos using interactive maps, analytics, and machine learning.")
@@ -53,7 +58,7 @@ def show_home():
     col2.metric("Areas Covered", f"{total_lgas}")
     col3.metric("Date Range", date_range)
 
-    # Filter section
+    # Filters
     st.divider()
     st.markdown("### 🎯 Filter Crime Data for Pie Chart")
     lga_column = 'area' if 'area' in df.columns else 'lga'
@@ -67,7 +72,7 @@ def show_home():
     if selected_severity:
         filtered_df = filtered_df[filtered_df['severity'].isin(selected_severity)]
 
-    # Pie chart
+    # Pie Chart
     st.markdown("### 🧩 Crime Type Distribution")
     if not filtered_df.empty and 'crime_type' in filtered_df.columns:
         pie_data = filtered_df['crime_type'].value_counts().reset_index()
@@ -87,26 +92,26 @@ def show_home():
     - 🔐 **Administer** users & access levels  
     """)
 
-    # Navigation buttons
+    # Quick Navigation Buttons
     st.markdown("### 🔗 Quick Navigation")
     colA, colB, colC = st.columns(3)
     with colA:
         if st.button("🗺️ View Crime Map"):
-            st.switch_page("pages/Map.py")
+            st.switch_page("pages/Map.py")  # ✅ corrected path
     with colB:
         if st.button("🔮 Launch Predictor"):
-            st.switch_page("pages/Predict.py")
+            st.switch_page("pages/Predict.py")  # ✅ corrected path
     with colC:
         if st.button("📊 Open Visualizations"):
-            st.switch_page("pages/Visualizations.py")
+            st.switch_page("pages/Visualizations.py")  # ✅ corrected path
 
     colX, colY = st.columns(2)
     with colX:
         if st.button("ℹ️ About"):
-            st.switch_page("pages/About.py")
+            st.switch_page("pages/About.py")  # ✅ corrected path
     with colY:
         if st.button("🛠️ Admin Panel"):
-            st.switch_page("pages/Admin.py")
+            st.switch_page("pages/Admin.py")  # ✅ corrected path
 
     # Footer
     st.markdown("---")
@@ -114,5 +119,7 @@ def show_home():
     st.markdown("For issues or suggestions, please contact the admin.")
     st.markdown("### 📞 Contact: [Luckynize24@gmail.com](mailto:Luckynize24@gmail.com)")
     st.markdown("### 📄 License: [MIT License](https://opensource.org/license/mit/)")
-# This code is part of the Streamlit app for the Lagos Crime Data Analysis project.
-# It provides the home page functionality, including data loading, overview statistics,
+
+# Call the function if this is run directly (optional)
+if __name__ == "__main__":
+    show_home()

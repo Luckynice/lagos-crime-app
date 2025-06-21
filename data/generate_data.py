@@ -24,19 +24,24 @@ lgas = [
     'Lagos Island', 'Lagos Mainland', 'Ojo', 'Surulere'
 ]
 
-# 37 LCDAs in Lagos State
-lcdas = [
-    'Agbado/Oke-Odo', 'Agboyi-Ketu', 'Ayobo-Ipaja', 'Bariga', 'Coker-Aguda',
-    'Ejigbo', 'Egbe-Idimu', 'Eredo', 'Eti-Osa East', 'Iba',
-    'Ifelodun', 'Igando-Ikotun', 'Igbogbo/Bayeku', 'Ijede',
-    'Ikorodu North', 'Ikorodu West', 'Ikosi-Isheri', 'Ikoyi-Obalende',
-    'Imota', 'Iru-Victoria Island', 'Isolo', 'Itire-Ikate',
-    'Lagos Island East', 'Lekki', 'Mosan-Okunola', 'Odi-Olowo/Ojuwoye',
-    'Olorunda', 'Oriade', 'Orile-Agege', 'Oto-Awori', 'Ojodu',
-    'Ojokoro', 'Onigbongbo', 'Yaba', 'Akinyele', 'Otun-Akute', 'Ijanikin', 'Festac'
-]
+# 37 LCDAs mapped to their LGAs (simplified)
+lcda_to_lga = {
+    'Agbado/Oke-Odo': 'Alimosho', 'Agboyi-Ketu': 'Kosofe', 'Ayobo-Ipaja': 'Alimosho',
+    'Bariga': 'Somolu', 'Coker-Aguda': 'Surulere', 'Ejigbo': 'Oshodi-Isolo',
+    'Egbe-Idimu': 'Alimosho', 'Eredo': 'Epe', 'Eti-Osa East': 'Eti-Osa',
+    'Iba': 'Ojo', 'Ifelodun': 'Ajeromi-Ifelodun', 'Igando-Ikotun': 'Alimosho',
+    'Igbogbo/Bayeku': 'Ikorodu', 'Ijede': 'Ikorodu', 'Ikorodu North': 'Ikorodu',
+    'Ikorodu West': 'Ikorodu', 'Ikosi-Isheri': 'Kosofe', 'Ikoyi-Obalende': 'Eti-Osa',
+    'Imota': 'Ikorodu', 'Iru-Victoria Island': 'Eti-Osa', 'Isolo': 'Oshodi-Isolo',
+    'Itire-Ikate': 'Surulere', 'Lagos Island East': 'Lagos Island', 'Lekki': 'Eti-Osa',
+    'Mosan-Okunola': 'Alimosho', 'Odi-Olowo/Ojuwoye': 'Mushin', 'Olorunda': 'Badagry',
+    'Oriade': 'Amuwo-Odofin', 'Orile-Agege': 'Agege', 'Oto-Awori': 'Ojo',
+    'Ojodu': 'Ikeja', 'Ojokoro': 'Ifako-Ijaiye', 'Onigbongbo': 'Ikeja',
+    'Yaba': 'Lagos Mainland', 'Akinyele': 'Alimosho', 'Otun-Akute': 'Alimosho',
+    'Ijanikin': 'Ojo', 'Festac': 'Amuwo-Odofin'
+}
 
-# Combine into all local areas
+lcdas = list(lcda_to_lga.keys())
 all_areas = lgas + lcdas
 
 time_periods = ['Morning', 'Afternoon', 'Evening', 'Night']
@@ -51,6 +56,7 @@ def generate_data(num_records=1000):
         lon = fake.longitude()
         area = random.choice(all_areas)
         area_type = 'LGA' if area in lgas else 'LCDA'
+        lga = area if area_type == 'LGA' else lcda_to_lga.get(area, 'Unknown')
         weather = random.choice(weather_conditions)
         crime_type = random.choice(crime_types)
         day_of_week = crime_time.strftime('%A')
@@ -74,6 +80,7 @@ def generate_data(num_records=1000):
             'location': location,
             'area': area,
             'area_type': area_type,
+            'lga': lga,
             'latitude': lat,
             'longitude': lon,
             'weather_condition': weather,
@@ -83,7 +90,7 @@ def generate_data(num_records=1000):
 
     df = pd.DataFrame(data)
     df.to_csv('data/lagos_crime_data.csv', index=False)
-    print("✅ Dataset generated and saved to 'data/lagos_crime_data.csv'.")
+    print("✅ Dataset regenerated and saved to 'data/lagos_crime_data.csv'.")
 
 if __name__ == "__main__":
     generate_data()
