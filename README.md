@@ -22,19 +22,6 @@ This is a machine learning-powered web app for predicting and analyzing crime pa
 - **Model**: Random Forest Classifier
 - **Deployment**: Streamlit Local (can later be hosted on Streamlit Cloud or Hugging Face Spaces)
 
-## 📂 Project Structure
-
-new_lagos_crime_predictor/
-│
-├── app.py # Main Streamlit app
-├── data/
-│ └── lagos_crime_data.csv
-├── models/
-│ └── crime_model.pkl
-├── requirements.txt
-├── generate_data.py # (Optional) Data generator with Faker
-├── README.md
-
 
 ## 🧠 How It Works
 
@@ -159,7 +146,7 @@ App will run at: http://localhost:8501
 
 🤝 Authors
 
-Lucky Osehi & ChatGPT
+Lucky Osehi
 
 📃 License
 
